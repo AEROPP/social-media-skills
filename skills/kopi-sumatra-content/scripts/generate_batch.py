@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """Generate a day's batch of Kopi Sumatra short-video concepts.
 
-Rotates Pilar x Format x Setting x Host (10x10x3x3 = 900 combinations) deterministically
+This produces SCRIPTS and a FOOTAGE SHOT LIST (search keywords) for real, licensed B-roll —
+not AI video-generation prompts. See references/sumber-footage-berlisensi.md for why: footage
+should come from a reusable licensed library (Shutterstock, CC0 sources, or footage shot on
+location), matched against these keywords, not generated synthetically.
+
+Rotates Pilar x Format x Kategori-Footage x Narator (10x10x3x3 = 900 combinations) deterministically
 by date so each day gets `count` non-repeating combos, and the full set only cycles back
 after ~900/count days (with facts also rotated to keep repeats from feeling identical).
 
@@ -215,6 +220,106 @@ ANGLES = {
     ],
 }
 
+FOOTAGE_KEYWORDS = {
+    # English stock-footage search phrases, aligned (same order/offset) with PILLARS[*]["facts"]
+    # so the keyword picked for a beat matches the fact being narrated in that beat.
+    "asal_usul": [
+        "aerial highland coffee plantation Indonesia",
+        "coffee farm misty mountains high altitude",
+        "small map graphic Sumatra region overlay",
+        "smallholder farmer coffee field",
+        "coffee farmer cooperative meeting",
+        "arabica coffee cherries close up branch",
+    ],
+    "penanaman": [
+        "coffee seedling nursery young plants",
+        "coffee trees shade grown canopy",
+        "highland fog coffee plantation morning",
+        "old coffee tree trunk plantation",
+        "organic compost coffee farm soil",
+        "shade tree coffee farm sunlight",
+    ],
+    "panen": [
+        "farmer hand picking ripe red coffee cherries",
+        "coffee cherries ripe red on branch",
+        "harvest basket coffee cherries",
+        "coffee farm harvest season rain",
+        "close up hand selecting ripe coffee cherry",
+        "farmers harvesting coffee manual labor",
+    ],
+    "giling_basah": [
+        "wet coffee parchment beans pile",
+        "manual coffee huller machine wood",
+        "wet hulling coffee process Indonesia",
+        "green coffee beans bluish grey color",
+        "coffee pulping machine wet process",
+        "coffee mill house rural Indonesia",
+    ],
+    "sortasi_fermentasi": [
+        "hand sorting coffee beans defects table",
+        "coffee grading quality control closeup",
+        "coffee beans fermentation tank",
+        "women sorting coffee beans village",
+        "black defective coffee beans closeup",
+        "coffee warehouse sacks grading",
+    ],
+    "roasting": [
+        "coffee roasting drum machine smoke",
+        "dark roasted coffee beans closeup",
+        "coffee roaster monitoring temperature",
+        "coffee beans first crack roasting",
+        "roasting machine coffee shop interior",
+        "coffee beans color change roasting process",
+    ],
+    "brewing": [
+        "french press coffee pouring closeup",
+        "traditional Aceh coffee pulled pouring",
+        "coffee frothy pour traditional cloth filter",
+        "pour over V60 coffee brewing",
+        "traditional coffee shop Aceh serving",
+        "coffee grinder grinding beans closeup",
+    ],
+    "cita_rasa": [
+        "coffee cupping tasting spoon closeup",
+        "thick coffee pour syrupy texture",
+        "coffee tasting expression closeup",
+        "coffee beans chocolate closeup aroma",
+        "cupping session table multiple cups",
+        "coffee cup steam closeup aftertaste",
+    ],
+    "budaya": [
+        "traditional coffee shop Aceh interior people",
+        "coffee farmer family portrait",
+        "coffee plantation landscape climate",
+        "young farmer coffee field portrait",
+        "old coffee farmer talking legacy",
+        "coffee market price board trading",
+    ],
+    "mitos_fakta": [
+        "civet coffee luwak myth graphic",
+        "expensive coffee beans premium closeup",
+        "coffee cup dark roast pouring",
+        "green coffee beans bluish myth closeup",
+        "coffee roasting dark beans closeup",
+        "organic coffee certification label",
+    ],
+}
+
+FOOTAGE_CATEGORIES = {
+    "kebun_dataran_tinggi": {
+        "name": "Kebun dataran tinggi (Gayo/Lintong)",
+        "establishing_keywords": "aerial misty highland coffee plantation sunrise Indonesia",
+    },
+    "giling_roastery": {
+        "name": "Rumah giling & roastery (Mandailing)",
+        "establishing_keywords": "wooden coffee mill house roastery interior Indonesia",
+    },
+    "warung_brewing": {
+        "name": "Warung kopi & brewing",
+        "establishing_keywords": "traditional Indonesian coffee shop interior warm light",
+    },
+}
+
 FORMATS = {
     "hook_fakta_cepat": {
         "name": "Fakta Cepat",
@@ -227,15 +332,15 @@ FORMATS = {
         "name": "POV Kunjungan Kebun",
         "duration": "25-35 detik",
         "beats": 2,
-        "hook": "POV: kamu baru sampai di {setting_name} bareng {host_name}.",
-        "cta": "Komentar 'lanjut' kalau mau {host_name} tunjukin tahap berikutnya!",
+        "hook": "POV: kamu baru sampai di {kategori_name} bareng {narator_name}.",
+        "cta": "Komentar 'lanjut' kalau mau {narator_name} tunjukin tahap berikutnya!",
     },
     "day_in_life": {
         "name": "Day in the Life",
         "duration": "25-40 detik",
         "beats": 2,
-        "hook": "Sehari mengikuti {host_name} di {setting_name}.",
-        "cta": "Follow buat ikutin keseharian {host_name} bikin kopi Sumatra tiap hari!",
+        "hook": "Sehari mengikuti {narator_name} di {kategori_name}.",
+        "cta": "Follow buat ikutin keseharian {narator_name} bikin kopi Sumatra tiap hari!",
     },
     "tutorial_mini": {
         "name": "Tutorial Mini",
@@ -255,7 +360,7 @@ FORMATS = {
         "name": "Perbandingan",
         "duration": "25-35 detik",
         "beats": 2,
-        "hook": "{setting_name}: mari kita bandingkan dua sisi soal {topic_lower}.",
+        "hook": "{kategori_name}: mari kita bandingkan dua sisi soal {topic_lower}.",
         "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
     },
     "asmr_proses": {
@@ -276,8 +381,8 @@ FORMATS = {
         "name": "Tanya Jawab Interaktif",
         "duration": "20-30 detik",
         "beats": 1,
-        "hook": "{host_name} mau tanya: menurut kamu kenapa {topic_lower}?",
-        "cta": "Tulis jawabanmu di komentar, nanti dijawab {host_name} di video berikutnya!",
+        "hook": "{narator_name} mau tanya: menurut kamu kenapa {topic_lower}?",
+        "cta": "Tulis jawabanmu di komentar, nanti dijawab {narator_name} di video berikutnya!",
     },
     "behind_the_scenes": {
         "name": "Di Balik Layar",
@@ -288,59 +393,28 @@ FORMATS = {
     },
 }
 
-SETTINGS = {
-    "gayo": {
-        "name": "Kebun Kopi Gayo",
-        "desc": "dataran tinggi berkabut Aceh Tengah, barisan pohon kopi di bawah naungan lamtoro, tanah vulkanik gelap",
-    },
-    "lintong": {
-        "name": "Kebun Kopi Lintong",
-        "desc": "perbukitan hijau Humbang Hasundutan, siluet Danau Toba dan rumah adat Batak di kejauhan",
-    },
-    "mandailing": {
-        "name": "Rumah Giling & Roastery Mandailing",
-        "desc": "bangunan kayu semi-terbuka, mesin pulper/huller manual, karung goni, drum roasting kecil",
-    },
-}
-
-HOSTS = {
+NARRATORS = {
     "bahri": {
         "name": "Pak Bahri",
-        "appearance": "man in his mid-50s, tanned skin, thin greying moustache, woven bamboo hat, "
-        "rolled-up flannel shirt, sarong tied at waist, carrying a woven harvest basket",
         "voice": "tenang dan bersahaja, seperti berbagi cerita ke tetangga",
         "expertise": {"penanaman", "panen", "giling_basah", "sortasi_fermentasi", "budaya"},
     },
     "nur": {
         "name": "Kak Nur",
-        "appearance": "woman in her late-20s, high ponytail, round glasses, denim apron over a plain "
-        "t-shirt, often holding a cupping cup or roasting thermometer",
         "voice": "energik dan presisi, seperti menjelaskan ke calon roaster",
         "expertise": {"roasting", "brewing", "cita_rasa", "sortasi_fermentasi"},
     },
     "adit": {
         "name": "Adit",
-        "appearance": "young man around 20, messy short hair, oversized denim jacket, holding an "
-        "anime-style handheld camera, curious excited expression",
         "voice": "penasaran dan antusias, sering bertanya balik ke penonton",
         "expertise": {"asal_usul", "mitos_fakta", "tanya_jawab"},
     },
 }
 
-STYLE_GLOBAL = (
-    "2D anime style, hand-drawn look inspired by Studio Ghibli warmth, clean lineart, soft "
-    "cel-shading, warm earthy color palette (terracotta, moss green, warm brown, cream), gentle "
-    "natural lighting, painterly background, no on-screen text, no watermark, no logo."
-)
-NEGATIVE_PROMPT = (
-    "distorted hands, extra fingers, blurry face, text artifacts, logo, watermark, realistic "
-    "photo, 3D render."
-)
-
 
 def all_combos():
     return list(
-        itertools.product(PILLARS.keys(), FORMATS.keys(), SETTINGS.keys(), HOSTS.keys())
+        itertools.product(PILLARS.keys(), FORMATS.keys(), FOOTAGE_CATEGORIES.keys(), NARRATORS.keys())
     )
 
 
@@ -371,53 +445,55 @@ def pick_angle(pilar_id: str, target_date: date):
     return angles[offset]
 
 
-def build_video(pilar_id, format_id, setting_id, host_id, target_date, index):
+def pick_footage_keywords(pilar_id: str, target_date: date, how_many: int):
+    keywords = FOOTAGE_KEYWORDS[pilar_id]
+    offset = target_date.toordinal() % len(keywords)
+    rotated = keywords[offset:] + keywords[:offset]
+    return rotated[:how_many]
+
+
+def build_video(pilar_id, format_id, kategori_id, narator_id, target_date, index):
     pilar = PILLARS[pilar_id]
     fmt = FORMATS[format_id]
-    setting = SETTINGS[setting_id]
-    host = HOSTS[host_id]
+    kategori = FOOTAGE_CATEGORIES[kategori_id]
+    narator = NARRATORS[narator_id]
 
     beats_needed = fmt["beats"]
     facts = pick_facts(pilar_id, target_date, beats_needed)
+    footage_keywords = pick_footage_keywords(pilar_id, target_date, beats_needed)
     topic_lower = pick_angle(pilar_id, target_date)
 
     hook = fmt["hook"].format(
-        topic_lower=topic_lower, setting_name=setting["name"], host_name=host["name"]
+        topic_lower=topic_lower, kategori_name=kategori["name"], narator_name=narator["name"]
     )
     cta = fmt["cta"].format(
-        topic_lower=topic_lower, setting_name=setting["name"], host_name=host["name"]
+        topic_lower=topic_lower, kategori_name=kategori["name"], narator_name=narator["name"]
     )
     beats = facts
 
-    title = f"{pilar['name']} — {fmt['name']} ({host['name']} @ {setting['name']})"
+    title = f"{pilar['name']} — {fmt['name']} ({narator['name']} @ {kategori['name']})"
     caption_on_screen = beats[0] if beats else hook
 
-    shots = []
-    shots.append(
+    # Shot list = search keywords to match against the licensed footage library, NOT AI prompts.
+    # See references/sumber-footage-berlisensi.md and templates/shot-list-footage-template.md —
+    # "source" and "license" must still be filled in by hand once a real clip is picked.
+    shot_list = [
         {
             "shot": 1,
-            "prompt": (
-                f"{STYLE_GLOBAL}\n{host['appearance']} ({host['name']}).\n"
-                f"{setting['desc']}.\n"
-                f"Establishing shot introducing {host['name']} in this setting, natural pose.\n"
-                "Camera: wide establishing shot, slow push-in.\n"
-                "Duration: 5 seconds.\n"
-                f"Negative prompt: {NEGATIVE_PROMPT}"
-            ),
+            "purpose": "establishing",
+            "search_keywords": kategori["establishing_keywords"],
+            "source": "",
+            "license": "",
         }
-    )
-    for i, beat in enumerate(beats, start=2):
-        shots.append(
+    ]
+    for i, keyword in enumerate(footage_keywords, start=2):
+        shot_list.append(
             {
                 "shot": i,
-                "prompt": (
-                    f"{STYLE_GLOBAL}\n{host['appearance']} ({host['name']}).\n"
-                    f"{setting['desc']}.\n"
-                    f"{host['name']} demonstrates or points to something illustrating: \"{beat}\"\n"
-                    "Camera: medium close-up, gentle pan.\n"
-                    "Duration: 6 seconds.\n"
-                    f"Negative prompt: {NEGATIVE_PROMPT}"
-                ),
+                "purpose": "isi",
+                "search_keywords": keyword,
+                "source": "",
+                "license": "",
             }
         )
 
@@ -435,17 +511,17 @@ def build_video(pilar_id, format_id, setting_id, host_id, target_date, index):
         "pilar_name": pilar["name"],
         "format": format_id,
         "format_name": fmt["name"],
-        "setting": setting_id,
-        "setting_name": setting["name"],
-        "host": host_id,
-        "host_name": host["name"],
+        "kategori_footage": kategori_id,
+        "kategori_footage_name": kategori["name"],
+        "narator": narator_id,
+        "narator_name": narator["name"],
         "durasi_target": fmt["duration"],
         "judul_internal": title,
         "hook": hook,
         "beats": beats,
         "cta": cta,
         "caption_on_screen": caption_on_screen,
-        "video_prompts": shots,
+        "shot_list": shot_list,
         "tiktok_caption": tiktok_caption,
         "tiktok_hashtags": hashtags,
         "youtube_title": yt_title,
@@ -456,8 +532,8 @@ def build_video(pilar_id, format_id, setting_id, host_id, target_date, index):
 def generate(target_date: date, count: int):
     combos = combos_for_date(target_date, count)
     return [
-        build_video(pilar_id, format_id, setting_id, host_id, target_date, i + 1)
-        for i, (pilar_id, format_id, setting_id, host_id) in enumerate(combos)
+        build_video(pilar_id, format_id, kategori_id, narator_id, target_date, i + 1)
+        for i, (pilar_id, format_id, kategori_id, narator_id) in enumerate(combos)
     ]
 
 
@@ -473,17 +549,19 @@ def write_outputs(videos, out_dir: Path):
         writer = csv.writer(f)
         writer.writerow(
             [
-                "index", "pilar", "format", "setting", "host", "durasi_target",
+                "index", "pilar", "format", "kategori_footage", "narator", "durasi_target",
                 "judul_internal", "hook", "beats", "cta", "caption_on_screen",
-                "tiktok_caption", "tiktok_hashtags", "youtube_title", "youtube_description",
+                "footage_search_keywords", "tiktok_caption", "tiktok_hashtags",
+                "youtube_title", "youtube_description",
             ]
         )
         for v in videos:
             writer.writerow(
                 [
-                    v["index"], v["pilar_name"], v["format_name"], v["setting_name"],
-                    v["host_name"], v["durasi_target"], v["judul_internal"], v["hook"],
+                    v["index"], v["pilar_name"], v["format_name"], v["kategori_footage_name"],
+                    v["narator_name"], v["durasi_target"], v["judul_internal"], v["hook"],
                     " | ".join(v["beats"]), v["cta"], v["caption_on_screen"],
+                    " | ".join(s["search_keywords"] for s in v["shot_list"]),
                     v["tiktok_caption"], v["tiktok_hashtags"], v["youtube_title"],
                     v["youtube_description"],
                 ]

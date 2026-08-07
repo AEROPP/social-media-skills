@@ -1,12 +1,12 @@
 {
-  "name": "Kopi Sumatra Content Pipeline (skeleton)",
+  "name": "Kopi Sumatra Content Pipeline - Real Footage (skeleton)",
   "nodes": [
     {
       "id": "trigger-schedule",
       "name": "Schedule Trigger - 05:00 WIB",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
-      "position": [-1120, 0],
+      "position": [-1400, 0],
       "parameters": {
         "rule": {
           "interval": [
@@ -20,9 +20,9 @@
       "name": "Code: Generate 100 Kombinasi",
       "type": "n8n-nodes-base.code",
       "typeVersion": 2,
-      "position": [-880, 0],
+      "position": [-1160, 0],
       "parameters": {
-        "jsCode": "// Port sederhana dari skills/kopi-sumatra-content/scripts/generate_batch.py\n// Rotasi Pilar x Format x Setting x Host berbasis tanggal. Lengkapi bank fakta/format\n// sesuai referensi di repo sebelum dipakai produksi - ini hanya kerangka.\nconst PILLARS = ['asal_usul','penanaman','panen','giling_basah','sortasi_fermentasi','roasting','brewing','cita_rasa','budaya','mitos_fakta'];\nconst FORMATS = ['hook_fakta_cepat','pov_kunjungan','day_in_life','tutorial_mini','mitos_vs_fakta','versus','asmr_proses','sejarah_singkat','tanya_jawab','behind_the_scenes'];\nconst SETTINGS = ['gayo','lintong','mandailing'];\nconst HOSTS = ['bahri','nur','adit'];\n\nfunction combos() {\n  const out = [];\n  for (const p of PILLARS) for (const f of FORMATS) for (const s of SETTINGS) for (const h of HOSTS) out.push([p, f, s, h]);\n  return out;\n}\n\n// simple deterministic shuffle (mulberry32) seeded by string\nfunction seededShuffle(arr, seedStr) {\n  let seed = 0;\n  for (let i = 0; i < seedStr.length; i++) seed = (seed * 31 + seedStr.charCodeAt(i)) >>> 0;\n  const rand = () => {\n    seed |= 0; seed = (seed + 0x6D2B79F5) | 0;\n    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);\n    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;\n    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;\n  };\n  const a = [...arr];\n  for (let i = a.length - 1; i > 0; i--) {\n    const j = Math.floor(rand() * (i + 1));\n    [a[i], a[j]] = [a[j], a[i]];\n  }\n  return a;\n}\n\nconst dateStr = $today.toFormat('yyyy-MM-dd');\nconst dayOrdinal = Math.floor(new Date(dateStr).getTime() / 86400000);\nconst count = 100;\nconst all = combos();\nconst n = all.length;\nconst passNumber = Math.floor((dayOrdinal * count) / n);\nconst order = seededShuffle(all, `kopi-sumatra-pass-${passNumber}`);\nconst start = (dayOrdinal * count) % n;\nlet window_ = [];\nif (start + count <= n) window_ = order.slice(start, start + count);\nelse window_ = order.slice(start).concat(order.slice(0, start + count - n));\n\nreturn window_.map(([pilar, format, setting, host], i) => ({\n  json: { index: i + 1, date: dateStr, pilar, format, setting, host }\n}));"
+        "jsCode": "// Port sederhana dari skills/kopi-sumatra-content/scripts/generate_batch.py\n// Rotasi Pilar x Format x Kategori-Footage x Narator berbasis tanggal. Lengkapi bank fakta/\n// kata kunci footage sesuai referensi di repo sebelum dipakai produksi - ini hanya kerangka.\nconst PILLARS = ['asal_usul','penanaman','panen','giling_basah','sortasi_fermentasi','roasting','brewing','cita_rasa','budaya','mitos_fakta'];\nconst FORMATS = ['hook_fakta_cepat','pov_kunjungan','day_in_life','tutorial_mini','mitos_vs_fakta','versus','asmr_proses','sejarah_singkat','tanya_jawab','behind_the_scenes'];\nconst FOOTAGE_CATEGORIES = ['kebun_dataran_tinggi','giling_roastery','warung_brewing'];\nconst NARRATORS = ['bahri','nur','adit'];\n\nfunction combos() {\n  const out = [];\n  for (const p of PILLARS) for (const f of FORMATS) for (const k of FOOTAGE_CATEGORIES) for (const n of NARRATORS) out.push([p, f, k, n]);\n  return out;\n}\n\n// simple deterministic shuffle (mulberry32) seeded by string\nfunction seededShuffle(arr, seedStr) {\n  let seed = 0;\n  for (let i = 0; i < seedStr.length; i++) seed = (seed * 31 + seedStr.charCodeAt(i)) >>> 0;\n  const rand = () => {\n    seed |= 0; seed = (seed + 0x6D2B79F5) | 0;\n    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);\n    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;\n    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;\n  };\n  const a = [...arr];\n  for (let i = a.length - 1; i > 0; i--) {\n    const j = Math.floor(rand() * (i + 1));\n    [a[i], a[j]] = [a[j], a[i]];\n  }\n  return a;\n}\n\nconst dateStr = $today.toFormat('yyyy-MM-dd');\nconst dayOrdinal = Math.floor(new Date(dateStr).getTime() / 86400000);\nconst count = 100;\nconst all = combos();\nconst n = all.length;\nconst passNumber = Math.floor((dayOrdinal * count) / n);\nconst order = seededShuffle(all, `kopi-sumatra-pass-${passNumber}`);\nconst start = (dayOrdinal * count) % n;\nlet window_ = [];\nif (start + count <= n) window_ = order.slice(start, start + count);\nelse window_ = order.slice(start).concat(order.slice(0, start + count - n));\n\nreturn window_.map(([pilar, format, kategoriFootage, narator], i) => ({\n  json: { index: i + 1, date: dateStr, pilar, format, kategoriFootage, narator }\n}));"
       }
     },
     {
@@ -30,7 +30,7 @@
       "name": "Loop Over Items (rate limit)",
       "type": "n8n-nodes-base.splitInBatches",
       "typeVersion": 3,
-      "position": [-640, 0],
+      "position": [-920, 0],
       "parameters": { "batchSize": 1, "options": {} }
     },
     {
@@ -38,15 +38,15 @@
       "name": "Wait (avoid rate limit)",
       "type": "n8n-nodes-base.wait",
       "typeVersion": 1.1,
-      "position": [-640, 200],
+      "position": [-920, 200],
       "parameters": { "amount": 5, "unit": "seconds" }
     },
     {
-      "id": "set-build-prompt",
-      "name": "Build Skrip and Prompt per Shot",
+      "id": "set-build-script",
+      "name": "Build Skrip and Shot List",
       "type": "n8n-nodes-base.set",
       "typeVersion": 3.4,
-      "position": [-400, 0],
+      "position": [-680, 0],
       "parameters": {
         "assignments": {
           "assignments": [
@@ -54,33 +54,59 @@
               "id": "note",
               "name": "note",
               "type": "string",
-              "value": "TODO: susun hook/beat/CTA + prompt video dari references/gaya-visual-anime.md dan templates/prompt-video-template.md untuk item ini (pilar/format/setting/host sudah tersedia dari node sebelumnya)."
+              "value": "TODO: susun hook/beat/CTA + shot list (kata kunci pencarian footage, BUKAN prompt AI) dari templates/skrip-template.md dan templates/shot-list-footage-template.md untuk item ini."
             }
           ]
         }
       }
     },
     {
-      "id": "http-ai-video",
-      "name": "AI Text-to-Video API (CONFIGURE PROVIDER)",
+      "id": "lookup-internal-library",
+      "name": "Cari Footage di Perpustakaan Internal (Sheet/Airtable)",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [-160, 0],
+      "position": [-440, 0],
+      "disabled": true,
+      "parameters": {
+        "method": "GET",
+        "url": "https://REPLACE-WITH-INTERNAL-CATALOG-LOOKUP-ENDPOINT",
+        "options": {}
+      }
+    },
+    {
+      "id": "http-footage-search",
+      "name": "Cari and Lisensi Footage Baru (CONFIGURE - Shutterstock/Pexels)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [-200, -120],
+      "disabled": true,
+      "parameters": {
+        "method": "GET",
+        "url": "https://REPLACE-WITH-STOCK-FOOTAGE-API-ENDPOINT",
+        "authentication": "genericCredentialType",
+        "options": {}
+      }
+    },
+    {
+      "id": "http-tts",
+      "name": "Generate Voiceover TTS (CONFIGURE - ElevenLabs dll)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [-200, 120],
       "disabled": true,
       "parameters": {
         "method": "POST",
-        "url": "https://REPLACE-WITH-PROVIDER-ENDPOINT",
+        "url": "https://REPLACE-WITH-TTS-API-ENDPOINT",
         "authentication": "genericCredentialType",
-        "sendBody": true,
         "options": {}
       }
     },
     {
       "id": "http-stitch",
-      "name": "Stitch Clips to Final Video (CONFIGURE SERVICE)",
+      "name": "Stitch Klip + Overlay + Caption (CONFIGURE SERVICE)",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [80, 0],
+      "position": [40, 0],
       "disabled": true,
       "parameters": {
         "method": "POST",
@@ -93,7 +119,7 @@
       "name": "Upload TikTok (CONFIGURE - butuh app review)",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [320, -120],
+      "position": [280, -120],
       "disabled": true,
       "parameters": {
         "method": "POST",
@@ -107,7 +133,7 @@
       "name": "Upload YouTube Shorts (CONFIGURE - cek kuota)",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
-      "position": [320, 120],
+      "position": [280, 120],
       "disabled": true,
       "parameters": {
         "method": "POST",
@@ -121,19 +147,27 @@
       "name": "Simpan untuk Upload Manual (fallback fase awal)",
       "type": "n8n-nodes-base.noOp",
       "typeVersion": 1,
-      "position": [320, 0],
+      "position": [280, 0],
+      "parameters": {}
+    },
+    {
+      "id": "noop-log-episode",
+      "name": "Log Episode + Sumber Footage + Lisensi",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [520, 0],
       "parameters": {}
     },
     {
       "id": "sticky-quota-warning",
-      "name": "Sticky Note: Batasan Kuota",
+      "name": "Sticky Note: Batasan Nyata",
       "type": "n8n-nodes-base.stickyNote",
       "typeVersion": 1,
-      "position": [280, -320],
+      "position": [240, -360],
       "parameters": {
-        "width": 400,
-        "height": 180,
-        "content": "## Baca sebelum aktifkan node upload\nYouTube Data API default = ~6 upload/hari (kuota 10.000 unit, 1 upload = ~1.600 unit).\nTikTok Content Posting API butuh app review sebelum bisa publish publik.\nLihat automation/n8n-workflow-kopi-sumatra.md untuk detail & langkah pengajuan akses."
+        "width": 460,
+        "height": 220,
+        "content": "## Baca sebelum aktifkan node di kanan\nShutterstock Standard License: batas 500.000 views/video, upgrade ke Enhanced kalau mendekati.\nSubscription video Shutterstock cuma 5-20 unduhan/bulan - JANGAN beli klip baru tiap video, pakai perpustakaan reusable.\nYouTube Data API default = ~6 upload/hari. TikTok Content Posting API butuh app review.\nLihat automation/n8n-workflow-kopi-sumatra.md untuk detail."
       }
     }
   ],
@@ -146,20 +180,31 @@
     },
     "Loop Over Items (rate limit)": {
       "main": [
-        [{ "node": "Build Skrip and Prompt per Shot", "type": "main", "index": 0 }],
+        [{ "node": "Build Skrip and Shot List", "type": "main", "index": 0 }],
         [{ "node": "Wait (avoid rate limit)", "type": "main", "index": 0 }]
       ]
     },
     "Wait (avoid rate limit)": {
       "main": [[{ "node": "Loop Over Items (rate limit)", "type": "main", "index": 0 }]]
     },
-    "Build Skrip and Prompt per Shot": {
-      "main": [[{ "node": "AI Text-to-Video API (CONFIGURE PROVIDER)", "type": "main", "index": 0 }]]
+    "Build Skrip and Shot List": {
+      "main": [[{ "node": "Cari Footage di Perpustakaan Internal (Sheet/Airtable)", "type": "main", "index": 0 }]]
     },
-    "AI Text-to-Video API (CONFIGURE PROVIDER)": {
-      "main": [[{ "node": "Stitch Clips to Final Video (CONFIGURE SERVICE)", "type": "main", "index": 0 }]]
+    "Cari Footage di Perpustakaan Internal (Sheet/Airtable)": {
+      "main": [
+        [
+          { "node": "Cari and Lisensi Footage Baru (CONFIGURE - Shutterstock/Pexels)", "type": "main", "index": 0 },
+          { "node": "Generate Voiceover TTS (CONFIGURE - ElevenLabs dll)", "type": "main", "index": 0 }
+        ]
+      ]
     },
-    "Stitch Clips to Final Video (CONFIGURE SERVICE)": {
+    "Cari and Lisensi Footage Baru (CONFIGURE - Shutterstock/Pexels)": {
+      "main": [[{ "node": "Stitch Klip + Overlay + Caption (CONFIGURE SERVICE)", "type": "main", "index": 0 }]]
+    },
+    "Generate Voiceover TTS (CONFIGURE - ElevenLabs dll)": {
+      "main": [[{ "node": "Stitch Klip + Overlay + Caption (CONFIGURE SERVICE)", "type": "main", "index": 0 }]]
+    },
+    "Stitch Klip + Overlay + Caption (CONFIGURE SERVICE)": {
       "main": [
         [
           { "node": "Simpan untuk Upload Manual (fallback fase awal)", "type": "main", "index": 0 },
@@ -167,6 +212,15 @@
           { "node": "Upload YouTube Shorts (CONFIGURE - cek kuota)", "type": "main", "index": 0 }
         ]
       ]
+    },
+    "Simpan untuk Upload Manual (fallback fase awal)": {
+      "main": [[{ "node": "Log Episode + Sumber Footage + Lisensi", "type": "main", "index": 0 }]]
+    },
+    "Upload TikTok (CONFIGURE - butuh app review)": {
+      "main": [[{ "node": "Log Episode + Sumber Footage + Lisensi", "type": "main", "index": 0 }]]
+    },
+    "Upload YouTube Shorts (CONFIGURE - cek kuota)": {
+      "main": [[{ "node": "Log Episode + Sumber Footage + Lisensi", "type": "main", "index": 0 }]]
     }
   },
   "active": false,

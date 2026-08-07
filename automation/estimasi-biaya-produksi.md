@@ -1,88 +1,109 @@
-# Estimasi Biaya Produksi — Kopi Sumatra Content (100 video/hari)
+# Estimasi Biaya Produksi — Kopi Sumatra Content (100 video/hari, Real-Footage)
 
-Perhitungan ini berbasis desain generator di `skills/kopi-sumatra-content/scripts/generate_batch.py`:
-tiap video terdiri dari 1 shot establishing + 1-2 shot isi (rata-rata **~16 detik klip AI mentah per
-video** sebelum di-trim jadi video final 15-45 detik), plus voiceover singkat dan proses penyambungan
-klip (stitching).
+Perhitungan ini sudah diperbarui mengikuti pivot dari AI text-to-video ke **real-footage berlisensi**
+(lihat `skills/kopi-sumatra-content/references/sumber-footage-berlisensi.md`). Struktur biayanya beda
+secara mendasar: footage boleh dipakai ulang di banyak video (lisensi royalty-free), jadi biayanya
+**investasi perpustakaan di muka + biaya kecil per video (voiceover & editing)** — bukan biaya
+video-gen yang terus bertambah linear seperti pendekatan AI sebelumnya.
 
-**Harga di bawah hasil pencarian web per Agustus 2026** dan berubah cepat di industri AI video — cek
-ulang harga resmi provider sebelum commit budget besar, terutama untuk kontrak/pembelian kredit dalam
-jumlah besar.
+**Harga di bawah hasil pencarian web per Agustus 2026** dan bisa berubah — cek ulang harga resmi
+sebelum commit budget besar, terutama untuk lisensi Shutterstock Enhanced (harganya tidak dipublikasikan
+pasti, perlu cek langsung saat checkout/hubungi sales).
 
-## 1. Komponen biaya per video
+## 1. Biaya investasi perpustakaan footage (satu kali / periodik, bukan per video)
 
-| Komponen | Budget | Menengah | Premium |
-|---|---|---|---|
-| AI text-to-video | Runway Gen-4 Turbo, $0.01/detik | Kling Standard (via fal.ai), $0.084/detik | Runway Gen-4.5 / Kling 3.0, ~$0.16/detik (rata-rata) |
-| → Biaya video-gen (~16 detik/video) | **$0.16** | **$1.34** | **$2.56** |
-| Voiceover (ElevenLabs, ~300 karakter/video) | Flash/Turbo $0.05/1.000 karakter → **$0.02** | Multilingual v2 $0.10/1.000 karakter → **$0.03** | Multilingual v2 → **$0.03** |
-| Stitching/edit klip (Shotstack/Creatomate, video ~0.5 menit) | Paket langganan $0.20/menit → **$0.10** | rata-rata **$0.15** | Pay-as-you-go $0.40/menit → **$0.20** |
-| **Total per video** | **≈ $0.28** | **≈ $1.52** | **≈ $2.79** |
+| Jalur | Estimasi biaya | Catatan |
+|---|---|---|
+| **A. Full CC0** (Pexels/Pixabay) | **$0** | Cukup untuk validasi awal format konten; footage generik, kurang spesifik "Sumatra". |
+| **B. Campuran CC0 + Shutterstock** | **≈ $500-1.500** (satu kali, lalu refresh berkala) | Mis. 60 klip CC0 gratis + 40-90 klip Shutterstock (on-demand $8.32-9.95/klip, atau subscription $119/bulan untuk 20 klip/bulan selama 2-4 bulan lalu berhenti berlangganan). |
+| **C. Syuting/komisi sendiri** | **≈ Rp 3-6 juta (~$190-380) sekali syuting** | Sewa videografer lokal Aceh/Sumut 1-2 hari, hasil bisa dipecah puluhan-ratusan klip B-roll otentik, **dimiliki penuh** (tidak ada batas lisensi/views). Nilai terbaik jangka panjang. |
 
-## 2. Biaya harian & bulanan (100 video/hari, 30 hari/bulan = 3.000 video/bulan)
+**Rekomendasi jalur**: mulai dari **A (gratis)** untuk uji format & validasi engagement 2-4 minggu
+pertama, lalu investasi ke **C (syuting sendiri)** begitu channel terbukti dapat traksi — ini
+menghasilkan aset tak terbatas tanpa batas lisensi, lebih murah dalam jangka panjang dibanding terus
+berlangganan stock, dan visualnya lebih otentik (benar-benar Gayo/Lintong/Mandailing, bukan stok
+generik).
 
-| | Budget | Menengah | Premium |
-|---|---|---|---|
-| Per hari (100 video) | $28 | $152 | $279 |
-| Per bulan (3.000 video) | $840 | $4.560 | $8.370 |
+## 2. Biaya berjalan per video (tidak tergantung sumber footage, karena footage dipakai ulang)
 
-## 3. Biaya pendukung tetap (per bulan, tidak tergantung tier)
+| Komponen | Estimasi/video | Catatan |
+|---|---|---|
+| Voiceover (ElevenLabs, ~300 karakter/video) | **$0.02-0.03** | Flash/Turbo $0.05/1.000 karakter atau Multilingual v2 $0.10/1.000 karakter. |
+| Stitching/edit (Shotstack/Creatomate, video ~0.5 menit) | **$0.10-0.20** | Menyambung 2-3 klip B-roll + voiceover + caption burned-in + overlay grafis (wajib untuk kepatuhan reused-content, lihat `references/platform-guidelines.md`). |
+| **Total per video** | **≈ $0.12-0.23** | Jauh lebih murah dari tier AI Menengah/Premium sebelumnya, dan sedikit lebih murah atau setara tier AI Budget (Runway Turbo $0.28/video). |
+
+## 3. Biaya harian & bulanan (100 video/hari, 3.000 video/bulan)
+
+| | Estimasi |
+|---|---|
+| Per hari (100 video, voiceover+stitch saja) | $12-23 |
+| Per bulan (3.000 video) | $360-690 |
+| + Refresh perpustakaan footage berkala | +$150-300/bulan (opsional, biar visual tidak itu-itu saja) |
+
+## 4. Biaya pendukung tetap (sama seperti sebelumnya, tidak berubah oleh pivot ini)
 
 | Komponen | Estimasi | Catatan |
 |---|---|---|
-| Otomasi n8n | $0-29 | Self-host di VPS kecil ≈ $0 (pakai VPS yang sudah ada) atau n8n Cloud Starter €24 (~$26) kalau mau dikelola. 100 video/hari via 1 trigger harian ≈ 30 eksekusi/bulan — jauh di bawah kuota, jadi tier termurah cukup. |
-| Storage video (Drive/S3) | $10-15 | Untuk ±3.000 file video/bulan sebelum diupload/dihapus. |
-| Review manusia (QA sebelum publish) | ~$360 | Asumsi placeholder: 1 reviewer paruh waktu, ~2 jam/hari @ ~$6/jam. **Sesuaikan dengan tarif tenaga kerja sebenarnya** — ini variabel paling tidak pasti di perhitungan ini. |
-| **Total biaya pendukung** | **≈ $370-400/bulan** | |
+| Otomasi n8n | $0-29 | Self-host ≈ $0, atau n8n Cloud Starter ~$26. 100 video/hari lewat 1 trigger harian jauh di bawah kuota eksekusi tier termurah. |
+| Storage video | $10-15 | Untuk ±3.000 file video/bulan sebelum diupload/dihapus. |
+| Review manusia (QA + cek lisensi sebelum publish) | ~$360 | Placeholder: 1 reviewer paruh waktu ~2 jam/hari @ ~$6/jam — **sesuaikan dengan tarif nyata**. Review sekarang juga mengecek kecocokan lisensi footage, bukan cuma cek fakta. |
+| **Total pendukung** | **≈ $370-400/bulan** | |
 
-## 4. Total estimasi bulanan (all-in, 3.000 video/bulan)
+## 5. Total estimasi bulanan (all-in, 3.000 video/bulan)
 
-| | Budget | Menengah | Premium |
-|---|---|---|---|
-| Produksi (video-gen+TTS+stitch) | $840 | $4.560 | $8.370 |
-| Pendukung tetap | ~$385 | ~$385 | ~$385 |
-| **Total/bulan** | **≈ $1.225** | **≈ $4.945** | **≈ $8.755** |
-| **Biaya per video (all-in)** | **≈ $0.41** | **≈ $1.65** | **≈ $2.92** |
+| | Estimasi |
+|---|---|
+| Biaya berjalan (voiceover+stitch+refresh) | $510-990 |
+| Pendukung tetap | ~$385 |
+| **Total/bulan (setelah perpustakaan awal jadi)** | **≈ $900-1.375/bulan** |
+| **Biaya per video (all-in, ongoing)** | **≈ $0.30-0.46** |
+| **+ Investasi awal perpustakaan (sekali)** | $0 (jalur A) / $500-1.500 (jalur B) / ~$190-380 (jalur C) |
 
-Kurs kasar (cek kurs hari ini sebelum dipakai resmi, asumsi Rp 16.000/USD):
+Kurs kasar (cek kurs hari ini sebelum dipakai resmi, asumsi Rp 16.000/USD): total bulanan ongoing
+≈ **Rp 14,4-22 juta/bulan**, investasi awal ≈ **Rp 0-24 juta** tergantung jalur.
 
-| | Budget | Menengah | Premium |
-|---|---|---|---|
-| Per video | ≈ Rp 6.560 | ≈ Rp 26.400 | ≈ Rp 46.720 |
-| Per bulan | ≈ Rp 19,6 juta | ≈ Rp 79,1 juta | ≈ Rp 140,1 juta |
+## 6. Perbandingan dengan pendekatan AI text-to-video (versi sebelumnya)
 
-## 5. Yang TIDAK termasuk di angka di atas
+| | AI Budget (Runway Turbo) | AI Menengah (Kling) | AI Premium (Runway 4.5) | **Real-Footage (pivot ini)** |
+|---|---|---|---|---|
+| Per video (ongoing) | $0.28 | $1.52 | $2.79 | **$0.12-0.23** |
+| Per bulan (ongoing) | $1.225 | $4.945 | $8.755 | **$900-1.375** |
 
-- **Kuota/API upload TikTok & YouTube**: gratis secara nominal, tapi ada batasan teknis nyata
-  (kuota YouTube Data API default ~6 upload/hari, TikTok Content Posting API butuh app review) —
-  lihat `n8n-workflow-kopi-sumatra.md`. Kalau upload tetap manual lewat TikTok Studio/YouTube Studio,
-  biaya ini $0 tapi butuh waktu tenaga manusia tambahan untuk upload 100x/hari.
-- **Riset & penulisan skrip**: ditangani skill ini (generator + review manusia/AI assistant),
-  marginal cost mendekati nol di luar waktu review pada poin 3.
-- **Biaya revisi ulang** kalau hasil video AI gagal/glitch dan perlu di-generate ulang — di dunia nyata
-  biasanya ada tingkat kegagalan/reject 10-30% terutama untuk konsistensi karakter di text-to-video,
-  yang bisa menambah 10-30% ke baris "video-gen" di atas. Belum dihitung di tabel karena sangat
-  tergantung provider & seberapa ketat character sheet diikuti.
-- **Lisensi musik/audio latar** kalau dipakai di luar dari yang disediakan gratis oleh TikTok/YouTube.
+**Kejujuran soal angka ini**: real-footage kira-kira **setara atau sedikit lebih murah** dibanding
+tier AI paling murah (Runway Turbo), tapi **jauh lebih murah** dari tier AI Menengah/Premium. Yang
+membuat real-footage tetap layak dipilih bukan cuma soal lebih murah, tapi:
+- Tidak ada risiko glitch/distorsi wajah/inkonsistensi karakter khas AI-generated video.
+- Tidak wajib label AI-generated content (kecuali voiceover-nya sangat realistis).
+- Investasi jalur C (syuting sendiri) makin lama makin murah karena footage jadi aset milik sendiri.
 
-## 6. Cara menghitung ulang untuk asumsi berbeda
+Trade-off-nya: real-footage butuh **kedisiplinan lisensi** (catat sumber tiap klip, pantau batas
+500.000 views untuk klip Shutterstock Standard, penuhi syarat "nilai tambah asli" biar tidak kena
+kebijakan reused-content) — overhead administratif yang tidak ada di pendekatan AI.
+
+## 7. Yang TIDAK termasuk di angka di atas
+
+- **Kuota/API upload TikTok & YouTube**: gratis secara nominal, tapi ada batasan teknis nyata (kuota
+  YouTube Data API default ~6 upload/hari, TikTok Content Posting API butuh app review) — lihat
+  `n8n-workflow-kopi-sumatra.md`.
+- **Upgrade ke Shutterstock Enhanced License** untuk klip di video yang mendekati/viral melewati
+  500.000 views — harga add-on ini tidak dipublikasikan pasti, cek langsung ke Shutterstock.
+- **Lisensi musik/audio latar** di luar yang disediakan gratis oleh TikTok/YouTube.
+- **Biaya syuting lanjutan** (jalur C) kalau ingin menambah variasi lokasi/musim secara berkala.
+
+## 8. Cara menghitung ulang untuk asumsi berbeda
 
 ```
-Biaya video-gen/video = (rata-rata detik klip AI per video) x (harga per detik provider)
-Biaya per hari         = jumlah video/hari x total biaya per video
-Biaya per bulan         = biaya per hari x jumlah hari upload/bulan
+Biaya ongoing/video = biaya voiceover + biaya stitching (footage marginal ≈ $0 kalau reusable)
+Biaya per hari       = jumlah video/hari x biaya ongoing/video
+Biaya per bulan      = biaya per hari x jumlah hari upload/bulan + refresh perpustakaan berkala
 ```
-
-Ganti "rata-rata detik klip AI per video" kalau desain shot diubah (mis. lebih sedikit shot atau
-shot lebih pendek akan menurunkan biaya linear), dan ganti harga per detik sesuai provider yang
-akhirnya dipilih.
 
 ## Sumber harga (Agustus 2026)
 
-- [Runway ML Pricing 2026](https://saascrmreview.com/runway-ml-pricing/) — Gen-4 Turbo $0.01/s, Gen-4.5 $0.12/s
-- [Kling API Pricing 2026 — costbench](https://costbench.com/software/ai-media-apis/kling-api/) — $0.084-$0.168/s
-- [AI Video Generation API Pricing May 2026 — Crazyrouter](https://crazyrouter.com/en/blog/ai-video-generation-api-pricing-may-2026-comparison)
-- [Luma AI Pricing 2026 — eesel AI](https://www.eesel.ai/blog/luma-ai-pricing) — ~$0.60/klip 5 detik 720p
+- [Shutterstock Pricing 2026 — Tekpon](https://tekpon.com/software/shutterstock/pricing/) — subscription video $59-119/bulan (5-20 klip)
+- [Photutorial — Shutterstock cost](https://photutorial.com/shutterstock-pricing-explained/) — on-demand $8.32-9.95/klip
+- [Shutterstock license comparison](https://www.shutterstock.com/royalty-free/video-license-comparison) — Standard: 500.000 views cap, indemnifikasi $10.000; Enhanced: indemnifikasi $250.000
 - [ElevenLabs API Pricing](https://elevenlabs.io/pricing/api) — $0.05-$0.10 per 1.000 karakter
 - [Shotstack vs Creatomate 2026 — Wireflow](https://www.wireflow.ai/blog/creatomate-vs-shotstack) — $0.10-$0.40/menit
 - [n8n Pricing 2026 — openhosst](https://openhosst.com/blog/n8n-cloud-pricing) — Starter €24/mo, 2.500 eksekusi
+- [YouTube Reused Content Policy 2026 — vidIQ](https://vidiq.com/blog/post/youtube-reused-content-policy-guide/)

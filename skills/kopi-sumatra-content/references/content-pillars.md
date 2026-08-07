@@ -1,9 +1,15 @@
 # Sistem Pilar Konten & Rotasi (untuk skala 100 video/hari)
 
 Membuat 100 video *benar-benar unik* dari nol setiap hari tidak realistis kalau ditulis manual satu-satu.
-Solusinya: sistem kombinatorial — **Pilar (topik) × Format (bentuk penyampaian) × Setting (lokasi) ×
-Host (karakter)**. Setiap kombinasi menghasilkan sudut video yang berbeda meski topik dasarnya sama,
-dan jumlah kombinasi jauh lebih besar dari 100/hari sehingga video tidak berulang persis selama berhari-hari.
+Solusinya: sistem kombinatorial — **Pilar (topik) × Format (bentuk penyampaian) × Kategori Footage
+(lokasi visual) × Narator (gaya suara)**. Setiap kombinasi menghasilkan sudut video yang berbeda
+meski topik dasarnya sama, dan jumlah kombinasi jauh lebih besar dari 100/hari sehingga video tidak
+berulang persis selama berhari-hari.
+
+Karena videonya sekarang **real-footage berlisensi/reusable** (lihat
+`references/sumber-footage-berlisensi.md`), footage boleh dipakai ulang di banyak video — yang bikin
+tiap video tetap terasa beda adalah kombinasi naskah/fakta/sudut cerita di bawah ini, bukan selalu
+footage baru.
 
 `scripts/generate_batch.py` mengimplementasikan rotasi ini secara deterministik (berbasis tanggal) supaya
 setiap hari dapat batch baru tanpa duplikat, dan seluruh kombinasi (900 total) baru berulang setelah
@@ -42,27 +48,37 @@ mengisi hook/body otomatis.
 | `tanya_jawab` | Tanya Jawab Interaktif | Host lempar pertanyaan ke penonton, jawab di akhir |
 | `behind_the_scenes` | Di Balik Layar | Sisi "belum banyak orang tahu" dari sebuah proses |
 
-## Setting (3) — lokasi visual
+## Kategori Footage (3) — jenis lokasi/visual yang dicari di perpustakaan footage
 
-1. **Kebun Kopi Gayo** — dataran tinggi Aceh Tengah, kabut pagi, pohon naungan lamtoro, tanah vulkanik.
-2. **Kebun Kopi Lintong** — perbukitan Humbang Hasundutan, dekat Danau Toba, rumah adat Batak di kejauhan.
-3. **Rumah Giling & Roastery Mandailing** — bangunan kayu semi-terbuka, mesin pulper/huller manual,
-   karung goni, mesin roasting drum kecil.
+1. **Kebun dataran tinggi** (mewakili Gayo/Lintong) — kabut pagi, barisan pohon kopi di bawah naungan,
+   tangan memetik ceri merah, tanah vulkanik.
+2. **Rumah giling & roastery** (mewakili proses pascapanen Mandailing) — mesin pulper/huller manual,
+   karung goni, drum roasting, sortasi biji.
+3. **Warung kopi & brewing** — kopi saring/tarik khas Aceh, cupping table, suasana warung kopi sebagai
+   ruang sosial.
 
-## Host (3) — karakter anime konsisten (lihat `references/gaya-visual-anime.md` untuk desain visual)
+Kategori ini dipakai sebagai kata kunci pencarian ke perpustakaan footage/stock (lihat
+`templates/shot-list-footage-template.md`), bukan lagi deskripsi visual untuk prompt AI.
 
-1. **Pak Bahri** — petani veteran generasi ketiga, ~55 tahun, suara tenang & sabar, ahli soal
-   penanaman/panen/giling basah.
-2. **Kak Nur** — Q Grader & roaster muda, ~28 tahun, energik & presisi, ahli soal roasting/cupping/brewing.
-3. **Adit** — anak muda "content explorer" yang penasaran, ~20 tahun, jadi POV penonton yang bertanya —
-   cocok untuk format tutorial, versus, tanya jawab.
+## Narator (3) — gaya suara voiceover, bukan karakter tampil di kamera
+
+Karena videonya real-footage (B-roll), "host" di sini adalah **gaya bicara narator** untuk voiceover —
+tidak perlu difilmkan kecuali memang ingin menambahkan on-camera host asli suatu saat nanti.
+
+1. **Pak Bahri** — suara tenang & bersahaja, seperti berbagi cerita ke tetangga; cocok untuk pilar
+   penanaman/panen/giling basah/budaya.
+2. **Kak Nur** — suara energik & presisi, seperti menjelaskan ke calon roaster; cocok untuk pilar
+   roasting/brewing/cita rasa/sortasi.
+3. **Adit** — suara penasaran & antusias, sering melempar pertanyaan balik ke penonton; cocok untuk
+   pilar asal-usul/mitos-fakta dan format tanya jawab.
 
 ## Cara kerja rotasi
 
-`generate_batch.py --date YYYY-MM-DD --count 100` menghasilkan 100 baris `(pilar, format, setting, host)`
-unik untuk tanggal itu, diambil dari total 10×10×3×3 = 900 kombinasi, tanpa mengulang kombinasi yang sama
-dalam satu siklus ±9 hari. Setiap baris lalu diisi teks (hook, 3 poin isi, CTA) dari bank fakta pilar
-terkait + gaya bahasa sesuai host, plus draft prompt video dan metadata siap pakai.
+`generate_batch.py --date YYYY-MM-DD --count 100` menghasilkan 100 baris
+`(pilar, format, kategori footage, narator)` unik untuk tanggal itu, diambil dari total 10×10×3×3 = 900
+kombinasi, tanpa mengulang kombinasi yang sama dalam satu siklus ±9 hari. Setiap baris lalu diisi teks
+(hook, beat isi, CTA) dari bank fakta pilar terkait + gaya bicara narator, plus kata kunci shot list
+footage dan metadata siap pakai.
 
 Gunakan output generator sebagai **kerangka/first draft** — tetap baca ulang dan sunting sebelum publish,
 terutama untuk memastikan variasi kalimat tidak terasa robotic kalau ditonton berurutan.
