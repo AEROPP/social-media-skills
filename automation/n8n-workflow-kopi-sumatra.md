@@ -7,20 +7,21 @@ eksternal sengaja **dinonaktifkan (disabled)** dan diberi sticky note karena bel
 keputusan sumber footage dari pengguna. Jangan aktifkan node tersebut sebelum langkah "Yang harus
 disiapkan dulu" di bawah selesai.
 
-## Baca ini dulu: tiga batasan nyata sebelum berharap "100 video/hari full-otomatis"
+## Baca ini dulu: batasan nyata sebelum berharap "100 video/hari full-otomatis"
 
-1. **Jatah unduhan footage berlisensi terbatas.** Subscription video Shutterstock hanya memberi
-   **5-20 unduhan/bulan** (tidak bisa ditabung ke bulan berikutnya) — jauh di bawah kebutuhan ratusan
-   klip/bulan kalau tiap video pakai footage baru. Solusinya **bukan** beli lebih banyak per video,
-   tapi bangun **perpustakaan footage reusable** di muka (lihat
-   `skills/kopi-sumatra-content/references/sumber-footage-berlisensi.md`) — footage boleh dipakai
-   ulang di banyak video di bawah lisensi royalty-free yang sama.
-2. **Batas tayang lisensi Standard Shutterstock: 500.000 views per video.** Kalau sebuah video pakai
-   klip Standard-license dan berpotensi viral melewati itu, klip tersebut perlu di-upgrade ke
-   **Enhanced License**. Workflow perlu langkah pemantauan performa per video untuk menangkap ini
-   (lihat node "Cek Ambang Views" di bawah).
-3. **Kuota API upload TikTok/YouTube tetap berlaku sama seperti sebelumnya**, tidak berubah oleh
-   pivot dari AI-video ke real-footage:
+Sumber footage yang dipakai sekarang adalah **CC0/Public Domain (Pexels & Pixabay)**, jadi tidak ada
+batas unduhan bulanan atau batas tayang per video seperti Shutterstock — dua kendala itu tidak
+berlaku di setup ini. Yang tetap berlaku:
+
+1. **Rate limit API Pexels/Pixabay.** Gratis, tapi ada batas request/jam per API key. Di skala
+   100 video/hari (±200-300 pencarian/hari) umumnya masih di bawah limit, tapi node pencarian tetap
+   perlu retry/backoff dan idealnya menyertakan atribusi ke Pexels/fotografer untuk melonggarkan
+   limit kalau dibutuhkan.
+2. **Wikimedia Commons/rilisan pemerintah (kalau dipakai sesekali untuk klip spesifik Sumatra)**
+   punya lisensi bervariasi per file (CC0/CC-BY/CC-BY-SA) — **jangan otomasi pengambilan dari sumber
+   ini**, tetap perlu dicek manual satu per satu sebelum masuk katalog (lihat
+   `skills/kopi-sumatra-content/references/sumber-footage-berlisensi.md`).
+3. **Kuota API upload TikTok/YouTube tetap berlaku**, tidak berubah oleh sumber footage:
    - **YouTube Data API v3**: kuota default 10.000 unit/hari, `videos.insert` menghabiskan ~1.600
      unit → hanya ±6 upload/hari lewat API tanpa quota increase request.
    - **TikTok Content Posting API**: butuh app review; sebelum lolos, hanya boleh posting
@@ -38,7 +39,7 @@ flowchart TD
     B --> C[Loop Over Items - rate limit]
     C --> D[Cari/Cocokkan Footage ke Perpustakaan Internal]
     D --> E{Klip cocok sudah ada?}
-    E -- Belum --> F[HTTP Request: Cari and Lisensi Footage Baru<br/>DISABLED - Shutterstock/Pexels API]
+    E -- Belum --> F[HTTP Request: Cari Footage Baru<br/>DISABLED - Pexels/Pixabay API]
     E -- Sudah --> G[Generate Voiceover TTS]
     F --> G
     G --> H[Stitch Klip and Overlay Grafis and Caption<br/>DISABLED - butuh servis edit]
@@ -49,7 +50,6 @@ flowchart TD
     K --> M[Log Episode + Sumber Footage + Lisensi]
     L --> M
     J --> M
-    M --> N[Cek Ambang Views - pantau klip Standard License mendekati 500rb]
 ```
 
 ## Detail tiap tahap
@@ -68,9 +68,10 @@ flowchart TD
    klip yang sudah dimiliki (mis. lookup ke Google Sheet/Airtable berisi katalog footage internal
    dengan tag kata kunci). Ini langkah kunci supaya **tidak** membeli klip baru tiap video.
 
-5. **Cari & Lisensi Footage Baru (kalau belum ada yang cocok)** — panggil API stock footage (mis.
-   Shutterstock API kalau sudah berlangganan, atau Pexels API untuk opsi CC0 gratis). Hasil baru ini
-   ditambahkan ke katalog perpustakaan internal supaya bisa dipakai ulang video-video berikutnya.
+5. **Cari Footage Baru (kalau belum ada yang cocok)** — panggil Pexels API atau Pixabay API (gratis,
+   perlu API key) memakai kata kunci dari shot list. Hasil baru ini ditambahkan ke katalog
+   perpustakaan internal supaya bisa dipakai ulang video-video berikutnya, bukan dicari ulang tiap
+   kali.
 
 6. **Generate Voiceover (TTS)** — panggil API text-to-speech (mis. ElevenLabs) dari naskah
    hook/beat/CTA. Biaya kecil per video (lihat `automation/estimasi-biaya-produksi.md`).
@@ -85,19 +86,17 @@ flowchart TD
    sudah disiapkan otomatis (lihat `templates/metadata-template.md`).
 
 9. **Log Episode** — catat setiap episode (index, pilar, format, kategori footage, narator, ID klip
-   yang dipakai + jenis lisensinya, status upload, link video) ke Google Sheet/Airtable.
-
-10. **Cek Ambang Views** — job terpisah (mis. jalan mingguan) yang menarik statistik views per video
-    dari TikTok/YouTube API dan membandingkan dengan klip Standard-license yang dipakai; kalau
-    mendekati 500.000 views, beri notifikasi untuk upgrade lisensi klip tersebut ke Enhanced.
+   yang dipakai + sumbernya (Pexels/Pixabay/Wikimedia), status upload, link video) ke Google
+   Sheet/Airtable — berguna untuk audit atribusi kalau suatu saat dibutuhkan.
 
 ## Yang harus disiapkan dulu sebelum node API diaktifkan
 
-- [ ] Bangun katalog awal perpustakaan footage (mulai dari CC0/Pexels dulu untuk validasi format,
-      lalu tambah Shutterstock/footage sendiri untuk kualitas & keunikan) — lihat
-      `skills/kopi-sumatra-content/references/sumber-footage-berlisensi.md`.
-- [ ] Siapkan spreadsheet/database katalog footage (kata kunci, sumber, jenis lisensi, tanggal pakai
-      terakhir, akumulasi views video yang memakainya).
+- [ ] Bangun katalog awal perpustakaan footage dari Pexels & Pixabay (lihat
+      `skills/kopi-sumatra-content/references/sumber-footage-berlisensi.md`) — cukup untuk mulai,
+      upgrade ke Shutterstock/footage sendiri belakangan kalau dibutuhkan.
+- [ ] Siapkan spreadsheet/database katalog footage (kata kunci, sumber, link asal, tanggal pakai
+      terakhir) untuk lookup di node "Cari/Cocokkan Footage ke Perpustakaan Internal".
+- [ ] Daftar API key Pexels & Pixabay (gratis).
 - [ ] Pilih & daftar API TTS (ElevenLabs atau alternatif) + API key.
 - [ ] Pilih layanan stitching/video-editing (atau bangun microservice ffmpeg sendiri).
 - [ ] Daftarkan aplikasi TikTok for Developers, lalui app review, siapkan OAuth per akun TikTok.

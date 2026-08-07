@@ -7,76 +7,79 @@ supaya tidak kena kebijakan "reused content" TikTok/YouTube. Jangan pernah mengu
 orang lain lalu upload ulang tanpa lisensi — itu pelanggaran hak cipta dan ToS YouTube, terlepas dari
 seberapa banyak diedit ulang.
 
-## Tiga jalur sumber yang legal
+**Keputusan saat ini: pakai jalur CC0/Public Domain (Jalur A) sebagai sumber utama.** $0 biaya
+lisensi, tanpa batas tayang, dan cukup untuk memvalidasi format konten. Jalur B (Shutterstock) dan
+C (syuting sendiri) tetap didokumentasikan di bagian bawah sebagai upgrade kalau nanti dibutuhkan
+visual yang lebih spesifik/otentik.
 
-### A. Footage bebas lisensi (CC0 / Public Domain) — termurah
+## Jalur A (aktif): Footage CC0 / Public Domain
 
-- **Pexels Videos, Pixabay Videos** — koleksi video gratis, boleh dipakai komersial tanpa atribusi
-  wajib (cek lisensi tepatnya di tiap platform, umumnya CC0-like).
-- **Wikimedia Commons** — sebagian video berlisensi CC-BY (butuh atribusi) atau public domain.
-- **Rilisan dinas pariwisata** — Kemenparekraf, Dinas Pariwisata Aceh/Sumatera Utara kadang merilis
-  video promosi daerah dengan lisensi bebas pakai untuk promosi non-komersial/komersial (cek syarat
-  tiap rilisan, sering minta atribusi ke sumber daerah).
-- **Kelebihan**: $0, tidak ada batas tayang, bisa dipakai ulang tanpa batas.
-- **Kekurangan**: pilihan sangat generik ("kebun kopi" umum, bukan spesifik "kebun Gayo giling basah"),
-  kualitas/relevansi bervariasi, dan klip yang sama mungkin dipakai kreator lain juga (kurang unik).
+| Sumber | Lisensi | Komersial? | Atribusi? | Catatan |
+|---|---|---|---|---|
+| **Pexels Videos** (+ API) | Pexels License | Ya | Tidak wajib (disarankan) | Tidak boleh dijual mentah/tanpa modifikasi, tidak boleh untuk platform stock saingan, tidak boleh menyiratkan endorsement. API gratis, ada rate limit — attribusi ke Pexels/fotografer bisa melonggarkan limit. |
+| **Pixabay Videos** (+ API) | Pixabay Content License | Ya | Tidak wajib | Sama seperti Pexels: tidak boleh dijual ulang mentah/standalone, tidak boleh menyiratkan endorsement. Konten dari sebelum 2019 malah CC0 murni. |
+| **Wikimedia Commons** | Bervariasi (CC0, CC-BY, CC-BY-SA) | Tergantung lisensi tiap file | **Wajib untuk CC-BY/CC-BY-SA** | Hati-hati: CC-BY-SA mewajibkan hasil turunan ikut lisensi share-alike yang sama — sebaiknya **hindari** CC-BY-SA untuk konten komersial berulang kecuali sudah paham konsekuensinya. Cek lisensi tiap file satu-satu, jangan asumsikan CC0. |
+| **Rilisan dinas pariwisata** (Kemenparekraf, Pemda Aceh/Sumut) | Bervariasi per rilisan | Sering ya, kadang non-komersial saja | Sering diminta | Paling berpotensi punya visual spesifik Sumatra, tapi syarat lisensi harus dicek satu per satu per rilisan — jangan diasumsikan bebas pakai penuh. |
 
-### B. Footage berlisensi (Shutterstock, dsb.) — lebih spesifik & berkualitas
+**Cara pakai praktis**: prioritaskan Pexels & Pixabay (lisensi paling jelas, tanpa atribusi wajib,
+API gratis untuk otomasi). Pakai Wikimedia Commons/rilisan pemerintah hanya untuk klip yang benar-
+benar dibutuhkan spesifik Sumatra dan lisensinya sudah dicek manual + atribusi disiapkan bila perlu.
 
-- Video subscription mulai **$59/bulan untuk 5 video/bulan** hingga **$119/bulan untuk 20 video/bulan**
-  (jatah tidak bisa ditabung ke bulan berikutnya). Paket on-demand tahunan (5/10/25 klip) juga tersedia.
-- Harga on-demand per klip standalone sekitar **$8.32-$9.95/klip** (lebih murah per klip kalau beli
-  paket besar/tahunan).
-- **Standard License**: royalty-free, boleh dipakai berkali-kali di banyak video (bukan sekali pakai),
-  TAPI ada **batas 500.000 tayangan per video** untuk penggunaan di platform seperti YouTube, dan
-  proyek broadcast/TV punya batas budget produksi $10.000. Kalau sebuah video berpotensi viral jauh
-  di atas 500rb views, klip Standard-nya idealnya di-upgrade ke **Enhanced License** (indemnifikasi
-  $250.000, tanpa batas tayang seketat itu).
-- **Kelebihan**: pilihan lebih spesifik & kualitas tinggi (drone kebun, close-up giling basah, dll).
-- **Kekurangan**: jatah unduhan bulanan kecil dibanding kebutuhan 100 video/hari — lihat strategi
-  "bangun perpustakaan footage" di bawah, dan tetap harus memantau video mana yang mendekati 500rb
-  views agar lisensinya di-upgrade.
+**Trade-off yang harus diterima**: pilihan visual generik ("dataran tinggi berkabut", "tangan
+memetik ceri kopi") — kemungkinan besar bukan benar-benar difilmkan di Gayo/Lintong/Mandailing,
+melainkan lokasi kopi lain (Amerika Latin, Afrika, Vietnam, dll.) yang terlihat mirip secara visual.
+Ini memengaruhi:
+- **Keaslian/kredibilitas visual** — kalau ada penonton yang jeli, footage-nya mungkin dikenali
+  bukan dari Sumatra. Mitigasi: jangan klaim "ini benar-benar kebun di Gayo" dalam narasi kalau
+  footage-nya generik — fokuskan klaim spesifik pada fakta (yang memang akurat), bukan pada visual.
+- **Risiko reused-content lebih tinggi** — footage CC0 dipakai banyak kreator lain juga, jadi
+  overlay grafis/data dan narasi orisinal (lihat `references/platform-guidelines.md`) menjadi
+  **lebih penting**, bukan pelengkap opsional.
+- **Waktu kurasi lebih lama** — katalog CC0 kurang tertag rapi dibanding stock berbayar, jadi
+  mencari klip yang benar-benar cocok per shot butuh waktu manual lebih banyak (sudah dihitung di
+  estimasi biaya sebagai tambahan jam review).
 
-### C. Footage sendiri / kerja sama resmi — paling otentik & sustainable jangka panjang
+## Jalur B & C (opsi upgrade nanti, belum dipakai)
 
-- Rekam sendiri atau sewa videografer lokal di Aceh/Sumatera Utara untuk syuting sehari di kebun,
-  rumah giling, dan warung kopi — hasil beberapa jam syuting bisa dipecah jadi puluhan klip B-roll
-  yang **dimiliki penuh** (tidak ada batas lisensi/views sama sekali).
-- Kerja sama dengan kreator YouTube/kebun kopi Sumatra yang sudah punya konten — minta izin tertulis
-  untuk memakai/me-repurpose sebagian footage mereka (kredit + kompensasi sesuai kesepakatan).
-- **Kelebihan**: paling otentik (benar-benar Gayo/Lintong/Mandailing, bukan stok generik), tidak ada
-  batas views/lisensi, jadi aset jangka panjang.
-- **Kekurangan**: butuh koordinasi lapangan & biaya syuting di muka (bukan biaya per video).
+### B. Shutterstock (berlisensi, lebih spesifik & berkualitas)
+Video subscription $59-119/bulan (5-20 klip/bulan) atau on-demand $8.32-9.95/klip. Standard License
+punya batas 500.000 views/video (upgrade ke Enhanced kalau viral). Pertimbangkan ini kalau setelah
+beberapa minggu memakai CC0, terasa footage-nya terlalu generik/berulang dan channel sudah punya
+traksi yang layak diinvestasikan.
 
-## Insight ekonomi penting: bangun PERPUSTAKAAN footage, jangan beli per video
+### C. Syuting sendiri / kerja sama resmi (paling otentik jangka panjang)
+Sewa videografer lokal Aceh/Sumut (~Rp 3-6 juta sekali syuting) untuk footage yang benar-benar
+otentik dan dimiliki penuh, tanpa batas lisensi/views. Opsi terbaik kalau channel sudah terbukti dan
+ingin membedakan diri dari kreator lain yang sama-sama pakai stock CC0 generik.
 
-Lisensi royalty-free (jalur A & B) **boleh dipakai berulang kali di banyak video** — bukan sekali
-pakai lalu habis. Artinya strategi paling efisien untuk 100 video/hari **bukan** membeli/mengunduh
-klip baru untuk tiap video, melainkan:
+## Insight ekonomi: bangun PERPUSTAKAAN footage, jangan cari ulang tiap video
 
-1. Bangun perpustakaan awal berisi ~100-150 klip B-roll yang mencakup semua kombinasi
-   pilar × setting di `content-pillars.md` (kebun pagi berkabut, tangan memetik ceri, mesin giling
-   basah, drum roasting, seduhan kopi tarik Aceh, suasana warung kopi, dst).
-2. Tandai tiap klip dengan kata kunci pilar/setting di `templates/shot-list-footage-template.md`
+Footage CC0 tetap perlu dikurasi jadi **perpustakaan internal terorganisir**, bukan dicari ulang
+dari nol tiap video:
+
+1. Bangun katalog awal ~100-150 klip B-roll yang mencakup semua kategori footage di
+   `content-pillars.md` (kebun berkabut, tangan memetik ceri, mesin giling, drum roasting, seduhan
+   kopi, suasana warung kopi, dst) — sekali kurasi, simpan link/file + kata kunci taggingnya.
+2. Tandai tiap klip dengan kata kunci pilar/kategori di `templates/shot-list-footage-template.md`
    supaya generator (`generate_batch.py`) bisa mencocokkan shot yang dibutuhkan tiap video dengan
-   klip yang sudah dimiliki, alih-alih mencari/beli baru tiap kali.
+   klip yang sudah dikurasi, alih-alih mencari ulang tiap kali.
 3. **Yang membuat 100 video/hari tetap terasa berbeda satu sama lain bukan footage-nya** (boleh
-   dipakai ulang), **melainkan naskah, sudut cerita, dan overlay grafis/data** yang berbeda tiap
-   video — inilah kenapa sistem rotasi pilar/format/fakta di `content-pillars.md` tetap krusial.
-4. Refresh perpustakaan secara berkala (mis. tambah 20-30 klip baru tiap 1-2 bulan) supaya visual
-   tidak terasa itu-itu saja bagi penonton setia.
+   dipakai ulang berkali-kali, gratis), **melainkan naskah, sudut cerita, dan overlay grafis/data**
+   yang berbeda tiap video — inilah kenapa sistem rotasi pilar/format/fakta di `content-pillars.md`
+   tetap krusial, dan kenapa nilai tambah asli makin penting saat visualnya generik.
+4. Refresh katalog secara berkala (mis. tambah 20-30 klip baru tiap 1-2 bulan dari rilisan
+   Pexels/Pixabay terbaru) supaya visual tidak terasa itu-itu saja bagi penonton setia.
 
-Ini mengubah biaya footage dari "biaya per video yang terus bertambah" menjadi **investasi awal +
-biaya refresh berkala** — jauh lebih murah dalam jangka panjang dibanding generate ulang tiap video
-lewat AI. Detail angka ada di `automation/estimasi-biaya-produksi.md`.
+Detail angka biaya ada di `automation/estimasi-biaya-produksi.md`.
 
 ## Checklist sebelum sebuah klip dipakai
 
-- [ ] Sumber & jenis lisensi dicatat (CC0 / Shutterstock Standard / Shutterstock Enhanced / footage
-      sendiri) — simpan di log (lihat `templates/shot-list-footage-template.md`).
-- [ ] Kalau Shutterstock Standard: video yang memakainya dipantau, upgrade ke Enhanced sebelum
-      tayangan mendekati 500.000.
-- [ ] Kalau footage berlisensi CC-BY: atribusi disertakan sesuai syarat lisensinya.
+- [ ] Sumber & jenis lisensi dicatat (Pexels / Pixabay / Wikimedia CC-BY / rilisan pemerintah) —
+      simpan di log (lihat `templates/shot-list-footage-template.md`).
+- [ ] Kalau memakai Wikimedia Commons CC-BY/CC-BY-SA: atribusi disertakan sesuai syarat lisensinya,
+      dan CC-BY-SA dihindari kecuali benar-benar diperlukan.
+- [ ] Klip tidak dijual mentah/standalone dan tidak menyiratkan endorsement merek/orang tertentu
+      (syarat umum Pexels & Pixabay).
 - [ ] Video punya nilai tambah asli (narasi/insight/grafis unik) — bukan sekadar footage + caption,
       supaya lolos kebijakan reused-content YouTube & tidak diturunkan jangkauannya di TikTok (lihat
-      `references/platform-guidelines.md`).
+      `references/platform-guidelines.md`). Ini **lebih penting** saat footage-nya CC0 generik.

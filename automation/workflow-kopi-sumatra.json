@@ -75,14 +75,14 @@
     },
     {
       "id": "http-footage-search",
-      "name": "Cari and Lisensi Footage Baru (CONFIGURE - Shutterstock/Pexels)",
+      "name": "Cari Footage Baru (CONFIGURE - Pexels/Pixabay API, gratis)",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [-200, -120],
       "disabled": true,
       "parameters": {
         "method": "GET",
-        "url": "https://REPLACE-WITH-STOCK-FOOTAGE-API-ENDPOINT",
+        "url": "https://api.pexels.com/videos/search",
         "authentication": "genericCredentialType",
         "options": {}
       }
@@ -167,7 +167,7 @@
       "parameters": {
         "width": 460,
         "height": 220,
-        "content": "## Baca sebelum aktifkan node di kanan\nShutterstock Standard License: batas 500.000 views/video, upgrade ke Enhanced kalau mendekati.\nSubscription video Shutterstock cuma 5-20 unduhan/bulan - JANGAN beli klip baru tiap video, pakai perpustakaan reusable.\nYouTube Data API default = ~6 upload/hari. TikTok Content Posting API butuh app review.\nLihat automation/n8n-workflow-kopi-sumatra.md untuk detail."
+        "content": "## Baca sebelum aktifkan node di kanan\nFootage sumber: Pexels/Pixabay (CC0/Content License) - gratis, tanpa batas views, tapi ada rate limit API per jam.\nWikimedia Commons/rilisan pemerintah: cek lisensi manual per file, JANGAN diotomasi (CC-BY-SA berisiko).\nYouTube Data API default = ~6 upload/hari. TikTok Content Posting API butuh app review.\nLihat automation/n8n-workflow-kopi-sumatra.md untuk detail."
       }
     }
   ],
@@ -193,12 +193,12 @@
     "Cari Footage di Perpustakaan Internal (Sheet/Airtable)": {
       "main": [
         [
-          { "node": "Cari and Lisensi Footage Baru (CONFIGURE - Shutterstock/Pexels)", "type": "main", "index": 0 },
+          { "node": "Cari Footage Baru (CONFIGURE - Pexels/Pixabay API, gratis)", "type": "main", "index": 0 },
           { "node": "Generate Voiceover TTS (CONFIGURE - ElevenLabs dll)", "type": "main", "index": 0 }
         ]
       ]
     },
-    "Cari and Lisensi Footage Baru (CONFIGURE - Shutterstock/Pexels)": {
+    "Cari Footage Baru (CONFIGURE - Pexels/Pixabay API, gratis)": {
       "main": [[{ "node": "Stitch Klip + Overlay + Caption (CONFIGURE SERVICE)", "type": "main", "index": 0 }]]
     },
     "Generate Voiceover TTS (CONFIGURE - ElevenLabs dll)": {
