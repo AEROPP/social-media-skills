@@ -80,7 +80,12 @@ langkah di bawah bergantung padanya.
    di `references/platform-guidelines.md`, termasuk menyebar jadwal upload sepanjang hari (bukan
    sekaligus) dan mencatat sumber footage di metadata internal untuk audit.
 
-7. **Kalau diminta otomasi penuh** (sourcing footage → render/edit → upload otomatis), rujuk
+7. **Pilih tool produksi.** Untuk merekam voiceover, merakit footage jadi video jadi, dan (kalau
+   perlu) mengisi shot yang tidak ada di CC0 dengan AI text-to-video, rujuk
+   `references/tools-produksi.md` untuk rekomendasi tool per kebutuhan beserta alasannya — jangan
+   asumsikan pengguna sudah punya tool tertentu, tanyakan dulu preferensinya.
+
+8. **Kalau diminta otomasi penuh** (sourcing footage → render/edit → upload otomatis), rujuk
    `automation/n8n-workflow-kopi-sumatra.md` di root repo untuk rancangan workflow n8n-nya. Jangan
    asumsikan kredensial API stock-footage atau TikTok/YouTube sudah tersedia — tanyakan dulu ke
    pengguna sebelum mencoba menyambungkan API sungguhan.
@@ -94,6 +99,7 @@ kopi-sumatra-content/
 │   ├── riset-kopi-sumatra.md             fakta dasar kopi Sumatra (kebun -> cangkir)
 │   ├── content-pillars.md                sistem rotasi Pilar x Format x Kategori Footage x Narator
 │   ├── sumber-footage-berlisensi.md      sumber footage legal & strategi perpustakaan reusable
+│   ├── tools-produksi.md                 rekomendasi tool: assembler video, TTS, AI text-to-video pelengkap
 │   └── platform-guidelines.md            aturan TikTok Studio & YouTube Shorts + reused-content policy
 ├── templates/
 │   ├── skrip-template.md                 format skrip per video (narasi + shot + overlay)
