@@ -146,11 +146,11 @@
     "judul_internal": "Karakter Rasa & Cupping — ASMR Proses (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
-      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
+      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas.",
+      "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy)."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas.",
     "shot_list": [
       {
         "shot": 1,
@@ -162,14 +162,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "coffee cupping tasting spoon closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee cupping tasting spoon closeup",
+        "search_keywords": "thick coffee pour syrupy texture",
         "source": "",
         "license": ""
       }
@@ -177,7 +177,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 4/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 4/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas. Eps 4/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 5,
@@ -191,12 +191,12 @@
     "narator_name": "Adit",
     "durasi_target": "15-20 detik",
     "judul_internal": "Mitos vs Fakta — Fakta Cepat (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Tau nggak kenapa kopi organik berarti tanpa proses sama sekali?",
+    "hook": "Tau nggak kenapa semua kopi sumatra itu kopi luwak?",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar."
+      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
     ],
     "cta": "Follow biar kamu makin banyak tau fakta kopi Sumatra!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi.",
     "shot_list": [
       {
         "shot": 1,
@@ -208,15 +208,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "civet coffee luwak myth graphic",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Tau nggak kenapa kopi organik berarti tanpa proses sama sekali? Eps 5/100 🌱☕",
+    "tiktok_caption": "Tau nggak kenapa semua kopi sumatra itu kopi luwak? Eps 5/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 5/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi. Eps 5/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 6,
@@ -230,13 +230,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Asal-usul & Geografi — Sejarah Singkat (Adit @ Warung kopi & brewing)",
-    "hook": "Sejarah singkat kenapa sumatra lebih banyak arabika daripada robusta.",
+    "hook": "Sejarah singkat kenapa gayo, lintong, dan mandailing punya rasa kopi yang beda padahal satu pulau.",
     "beats": [
-      "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
-      "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara)."
+      "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara).",
+      "Kopi Gayo ditanam di ketinggian 1.100-1.700 mdpl, salah satu tertinggi di Indonesia."
     ],
     "cta": "Mau tau sejarah kopi lainnya? Follow ya!",
-    "caption_on_screen": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
+    "caption_on_screen": "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara).",
     "shot_list": [
       {
         "shot": 1,
@@ -248,22 +248,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "arabica coffee cherries close up branch",
+        "search_keywords": "aerial highland coffee plantation Indonesia",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "aerial highland coffee plantation Indonesia",
+        "search_keywords": "coffee farm misty mountains high altitude",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Sejarah singkat kenapa sumatra lebih banyak arabika daripada robusta. Eps 6/100 🌱☕",
+    "tiktok_caption": "Sejarah singkat kenapa gayo, lintong, dan mandailing punya rasa kopi yang beda padahal satu pulau. Eps 6/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #asalusul #edukasikopi #coffeetok",
     "youtube_title": "Asal-usul & Geografi #Shorts",
-    "youtube_description": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta. Eps 6/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara). Eps 6/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 7,
@@ -412,11 +412,11 @@
     "judul_internal": "Mitos vs Fakta — Day in the Life (Pak Bahri @ Rumah giling & roastery (Mandailing))",
     "hook": "Sehari mengikuti Pak Bahri di Rumah giling & roastery (Mandailing).",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga.",
+      "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal."
     ],
     "cta": "Follow buat ikutin keseharian Pak Bahri bikin kopi Sumatra tiap hari!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga.",
     "shot_list": [
       {
         "shot": 1,
@@ -428,14 +428,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "expensive coffee beans premium closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "coffee cup dark roast pouring",
         "source": "",
         "license": ""
       }
@@ -443,7 +443,7 @@
     "tiktok_caption": "Sehari mengikuti Pak Bahri di Rumah giling & roastery (Mandailing). Eps 10/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 10/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga. Eps 10/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 11,
@@ -459,11 +459,11 @@
     "judul_internal": "Sortasi & Fermentasi — ASMR Proses (Kak Nur @ Rumah giling & roastery (Mandailing))",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
-      "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang."
+      "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang.",
+      "Grading seperti 'Mandheling Grade 1' ditentukan dari jumlah cacat per 300 gram sampel."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
+    "caption_on_screen": "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang.",
     "shot_list": [
       {
         "shot": 1,
@@ -475,14 +475,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee warehouse sacks grading",
+        "search_keywords": "hand sorting coffee beans defects table",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "hand sorting coffee beans defects table",
+        "search_keywords": "coffee grading quality control closeup",
         "source": "",
         "license": ""
       }
@@ -490,7 +490,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 11/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #sortasifermentasi #edukasikopi #coffeetok",
     "youtube_title": "Sortasi & Fermentasi #Shorts",
-    "youtube_description": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir. Eps 11/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang. Eps 11/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 12,
@@ -504,12 +504,12 @@
     "narator_name": "Adit",
     "durasi_target": "20-30 detik",
     "judul_internal": "Proses Roasting — Tanya Jawab Interaktif (Adit @ Rumah giling & roastery (Mandailing))",
-    "hook": "Adit mau tanya: menurut kamu kenapa biji kopi berubah drastis saat di-roast?",
+    "hook": "Adit mau tanya: menurut kamu kenapa kopi sumatra sering di-roast gelap?",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting."
+      "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark."
     ],
     "cta": "Tulis jawabanmu di komentar, nanti dijawab Adit di video berikutnya!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark.",
     "shot_list": [
       {
         "shot": 1,
@@ -521,15 +521,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "coffee roasting drum machine smoke",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Adit mau tanya: menurut kamu kenapa biji kopi berubah drastis saat di-roast? Eps 12/100 🌱☕",
+    "tiktok_caption": "Adit mau tanya: menurut kamu kenapa kopi sumatra sering di-roast gelap? Eps 12/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 12/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark. Eps 12/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 13,
@@ -590,12 +590,12 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "20-30 detik",
     "judul_internal": "Proses Roasting — Tanya Jawab Interaktif (Pak Bahri @ Rumah giling & roastery (Mandailing))",
-    "hook": "Pak Bahri mau tanya: menurut kamu kenapa biji kopi berubah drastis saat di-roast?",
+    "hook": "Pak Bahri mau tanya: menurut kamu kenapa roasting gelap menonjolkan rasa rempah kopi sumatra?",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting."
+      "Roasting level dark membantu menonjolkan rasa earthy dan rempah kopi Sumatra."
     ],
     "cta": "Tulis jawabanmu di komentar, nanti dijawab Pak Bahri di video berikutnya!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "Roasting level dark membantu menonjolkan rasa earthy dan rempah kopi Sumatra.",
     "shot_list": [
       {
         "shot": 1,
@@ -607,15 +607,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "dark roasted coffee beans closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Pak Bahri mau tanya: menurut kamu kenapa biji kopi berubah drastis saat di-roast? Eps 14/100 🌱☕",
+    "tiktok_caption": "Pak Bahri mau tanya: menurut kamu kenapa roasting gelap menonjolkan rasa rempah kopi sumatra? Eps 14/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 14/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Roasting level dark membantu menonjolkan rasa earthy dan rempah kopi Sumatra. Eps 14/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 15,
@@ -631,11 +631,11 @@
     "judul_internal": "Sortasi & Fermentasi — Day in the Life (Kak Nur @ Warung kopi & brewing)",
     "hook": "Sehari mengikuti Kak Nur di Warung kopi & brewing.",
     "beats": [
-      "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
-      "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang."
+      "Grading seperti 'Mandheling Grade 1' ditentukan dari jumlah cacat per 300 gram sampel.",
+      "Fermentasi semalam sebelum dicuci membantu melepaskan lapisan lendir di kulit tanduk."
     ],
     "cta": "Follow buat ikutin keseharian Kak Nur bikin kopi Sumatra tiap hari!",
-    "caption_on_screen": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
+    "caption_on_screen": "Grading seperti 'Mandheling Grade 1' ditentukan dari jumlah cacat per 300 gram sampel.",
     "shot_list": [
       {
         "shot": 1,
@@ -647,14 +647,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee warehouse sacks grading",
+        "search_keywords": "coffee grading quality control closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "hand sorting coffee beans defects table",
+        "search_keywords": "coffee beans fermentation tank",
         "source": "",
         "license": ""
       }
@@ -662,7 +662,7 @@
     "tiktok_caption": "Sehari mengikuti Kak Nur di Warung kopi & brewing. Eps 15/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #sortasifermentasi #edukasikopi #coffeetok",
     "youtube_title": "Sortasi & Fermentasi #Shorts",
-    "youtube_description": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir. Eps 15/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Grading seperti 'Mandheling Grade 1' ditentukan dari jumlah cacat per 300 gram sampel. Eps 15/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 16,
@@ -676,12 +676,12 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "15-20 detik",
     "judul_internal": "Sortasi & Fermentasi — Fakta Cepat (Pak Bahri @ Rumah giling & roastery (Mandailing))",
-    "hook": "Tau nggak kenapa sortasi memengaruhi harga jual kopi?",
+    "hook": "Tau nggak kenapa kopi difermentasi semalam sebelum dicuci?",
     "beats": [
-      "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir."
+      "Fermentasi semalam sebelum dicuci membantu melepaskan lapisan lendir di kulit tanduk."
     ],
     "cta": "Follow biar kamu makin banyak tau fakta kopi Sumatra!",
-    "caption_on_screen": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
+    "caption_on_screen": "Fermentasi semalam sebelum dicuci membantu melepaskan lapisan lendir di kulit tanduk.",
     "shot_list": [
       {
         "shot": 1,
@@ -693,15 +693,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee warehouse sacks grading",
+        "search_keywords": "coffee beans fermentation tank",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Tau nggak kenapa sortasi memengaruhi harga jual kopi? Eps 16/100 🌱☕",
+    "tiktok_caption": "Tau nggak kenapa kopi difermentasi semalam sebelum dicuci? Eps 16/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #sortasifermentasi #edukasikopi #coffeetok",
     "youtube_title": "Sortasi & Fermentasi #Shorts",
-    "youtube_description": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir. Eps 16/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Fermentasi semalam sebelum dicuci membantu melepaskan lapisan lendir di kulit tanduk. Eps 16/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 17,
@@ -715,13 +715,13 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "25-35 detik",
     "judul_internal": "Proses Roasting — Perbandingan (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal biji kopi berubah drastis saat di-roast.",
+    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal roaster mulai coba roast lebih terang buat kopi sumatra.",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
-      "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark."
+      "Roaster modern mulai eksperimen roast medium/light untuk mengungkap rasa buah tersembunyi.",
+      "Suhu dan waktu roasting yang tepat menentukan apakah rasa jadi gosong atau kaya rasa."
     ],
     "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "Roaster modern mulai eksperimen roast medium/light untuk mengungkap rasa buah tersembunyi.",
     "shot_list": [
       {
         "shot": 1,
@@ -733,22 +733,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "coffee roaster monitoring temperature",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee roasting drum machine smoke",
+        "search_keywords": "coffee beans first crack roasting",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal biji kopi berubah drastis saat di-roast. Eps 17/100 🌱☕",
+    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal roaster mulai coba roast lebih terang buat kopi sumatra. Eps 17/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 17/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Roaster modern mulai eksperimen roast medium/light untuk mengungkap rasa buah tersembunyi. Eps 17/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 18,
@@ -764,11 +764,11 @@
     "judul_internal": "Mitos vs Fakta — POV Kunjungan Kebun (Kak Nur @ Warung kopi & brewing)",
     "hook": "POV: kamu baru sampai di Warung kopi & brewing bareng Kak Nur.",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal.",
+      "Warna biji hijau kebiruan bukan tanda kopi rusak, itu justru ciri khas proses giling basah."
     ],
     "cta": "Komentar 'lanjut' kalau mau Kak Nur tunjukin tahap berikutnya!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal.",
     "shot_list": [
       {
         "shot": 1,
@@ -780,14 +780,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "coffee cup dark roast pouring",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "green coffee beans bluish myth closeup",
         "source": "",
         "license": ""
       }
@@ -795,7 +795,7 @@
     "tiktok_caption": "POV: kamu baru sampai di Warung kopi & brewing bareng Kak Nur. Eps 18/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 18/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal. Eps 18/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 19,
@@ -809,13 +809,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Mitos vs Fakta — Perbandingan (Kak Nur @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal kopi organik berarti tanpa proses sama sekali.",
+    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal biji kopi kebiruan artinya kopi rusak.",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Warna biji hijau kebiruan bukan tanda kopi rusak, itu justru ciri khas proses giling basah.",
+      "Kafein tidak berkurang karena roast lebih gelap - itu mitos yang sering dipercaya."
     ],
     "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Warna biji hijau kebiruan bukan tanda kopi rusak, itu justru ciri khas proses giling basah.",
     "shot_list": [
       {
         "shot": 1,
@@ -827,22 +827,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "green coffee beans bluish myth closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "coffee roasting dark beans closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal kopi organik berarti tanpa proses sama sekali. Eps 19/100 🌱☕",
+    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal biji kopi kebiruan artinya kopi rusak. Eps 19/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 19/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Warna biji hijau kebiruan bukan tanda kopi rusak, itu justru ciri khas proses giling basah. Eps 19/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 20,
@@ -858,11 +858,11 @@
     "judul_internal": "Penanaman & Perawatan — POV Kunjungan Kebun (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "POV: kamu baru sampai di Kebun dataran tinggi (Gayo/Lintong) bareng Adit.",
     "beats": [
-      "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering.",
-      "Butuh 3-4 tahun sejak tanam sebelum pohon kopi berbuah untuk pertama kali."
+      "Butuh 3-4 tahun sejak tanam sebelum pohon kopi berbuah untuk pertama kali.",
+      "Pohon kopi ditanam di bawah naungan lamtoro atau sengon agar tidak kena matahari langsung."
     ],
     "cta": "Komentar 'lanjut' kalau mau Adit tunjukin tahap berikutnya!",
-    "caption_on_screen": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering.",
+    "caption_on_screen": "Butuh 3-4 tahun sejak tanam sebelum pohon kopi berbuah untuk pertama kali.",
     "shot_list": [
       {
         "shot": 1,
@@ -874,14 +874,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "shade tree coffee farm sunlight",
+        "search_keywords": "coffee seedling nursery young plants",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee seedling nursery young plants",
+        "search_keywords": "coffee trees shade grown canopy",
         "source": "",
         "license": ""
       }
@@ -889,7 +889,7 @@
     "tiktok_caption": "POV: kamu baru sampai di Kebun dataran tinggi (Gayo/Lintong) bareng Adit. Eps 20/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #penanaman #edukasikopi #coffeetok",
     "youtube_title": "Penanaman & Perawatan #Shorts",
-    "youtube_description": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering. Eps 20/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Butuh 3-4 tahun sejak tanam sebelum pohon kopi berbuah untuk pertama kali. Eps 20/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 21,
@@ -905,11 +905,11 @@
     "judul_internal": "Budaya Ngopi & Petani — Day in the Life (Pak Bahri @ Rumah giling & roastery (Mandailing))",
     "hook": "Sehari mengikuti Pak Bahri di Rumah giling & roastery (Mandailing).",
     "beats": [
-      "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
-      "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis."
+      "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis.",
+      "Rantai pasok kopi Sumatra: petani, pengepul/koperasi, prosesor, eksportir, lalu kafe."
     ],
     "cta": "Follow buat ikutin keseharian Pak Bahri bikin kopi Sumatra tiap hari!",
-    "caption_on_screen": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
+    "caption_on_screen": "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis.",
     "shot_list": [
       {
         "shot": 1,
@@ -921,14 +921,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee market price board trading",
+        "search_keywords": "traditional coffee shop Aceh interior people",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "traditional coffee shop Aceh interior people",
+        "search_keywords": "coffee farmer family portrait",
         "source": "",
         "license": ""
       }
@@ -936,7 +936,7 @@
     "tiktok_caption": "Sehari mengikuti Pak Bahri di Rumah giling & roastery (Mandailing). Eps 21/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #budaya #edukasikopi #coffeetok",
     "youtube_title": "Budaya Ngopi & Petani #Shorts",
-    "youtube_description": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil. Eps 21/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis. Eps 21/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 22,
@@ -997,13 +997,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "20-30 detik",
     "judul_internal": "Budaya Ngopi & Petani — Tutorial Mini (Kak Nur @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Begini cara harga kopi dunia memengaruhi petani kecil, gampang kok!",
+    "hook": "Begini cara rantai kopi sumatra panjang dari petani sampai kafe, gampang kok!",
     "beats": [
-      "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
-      "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis."
+      "Rantai pasok kopi Sumatra: petani, pengepul/koperasi, prosesor, eksportir, lalu kafe.",
+      "Perubahan iklim membuat pola musim panen kopi Sumatra makin sulit diprediksi."
     ],
     "cta": "Save video ini biar nggak lupa langkahnya!",
-    "caption_on_screen": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
+    "caption_on_screen": "Rantai pasok kopi Sumatra: petani, pengepul/koperasi, prosesor, eksportir, lalu kafe.",
     "shot_list": [
       {
         "shot": 1,
@@ -1015,22 +1015,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee market price board trading",
+        "search_keywords": "coffee farmer family portrait",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "traditional coffee shop Aceh interior people",
+        "search_keywords": "coffee plantation landscape climate",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Begini cara harga kopi dunia memengaruhi petani kecil, gampang kok! Eps 23/100 🌱☕",
+    "tiktok_caption": "Begini cara rantai kopi sumatra panjang dari petani sampai kafe, gampang kok! Eps 23/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #budaya #edukasikopi #coffeetok",
     "youtube_title": "Budaya Ngopi & Petani #Shorts",
-    "youtube_description": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil. Eps 23/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Rantai pasok kopi Sumatra: petani, pengepul/koperasi, prosesor, eksportir, lalu kafe. Eps 23/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 24,
@@ -1093,11 +1093,11 @@
     "judul_internal": "Mitos vs Fakta — ASMR Proses (Adit @ Warung kopi & brewing)",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Kafein tidak berkurang karena roast lebih gelap - itu mitos yang sering dipercaya.",
+      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Kafein tidak berkurang karena roast lebih gelap - itu mitos yang sering dipercaya.",
     "shot_list": [
       {
         "shot": 1,
@@ -1109,14 +1109,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "coffee roasting dark beans closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "organic coffee certification label",
         "source": "",
         "license": ""
       }
@@ -1124,7 +1124,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 25/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 25/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kafein tidak berkurang karena roast lebih gelap - itu mitos yang sering dipercaya. Eps 25/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 26,
@@ -1140,11 +1140,11 @@
     "judul_internal": "Karakter Rasa & Cupping — Day in the Life (Pak Bahri @ Rumah giling & roastery (Mandailing))",
     "hook": "Sehari mengikuti Pak Bahri di Rumah giling & roastery (Mandailing).",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
-      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
+      "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy).",
+      "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain."
     ],
     "cta": "Follow buat ikutin keseharian Pak Bahri bikin kopi Sumatra tiap hari!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy).",
     "shot_list": [
       {
         "shot": 1,
@@ -1156,14 +1156,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "thick coffee pour syrupy texture",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee cupping tasting spoon closeup",
+        "search_keywords": "coffee tasting expression closeup",
         "source": "",
         "license": ""
       }
@@ -1171,7 +1171,7 @@
     "tiktok_caption": "Sehari mengikuti Pak Bahri di Rumah giling & roastery (Mandailing). Eps 26/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 26/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy). Eps 26/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 27,
@@ -1185,13 +1185,13 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "20-30 detik",
     "judul_internal": "Sortasi & Fermentasi — Mitos vs Fakta (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Katanya sortasi memengaruhi harga jual kopi. Beneran gitu?",
+    "hook": "Katanya sortasi manual jadi sumber penghasilan ibu-ibu sekitar kebun. Beneran gitu?",
     "beats": [
-      "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
-      "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang."
+      "Sortasi manual biasanya dikerjakan ibu-ibu di sekitar kebun sebagai sumber penghasilan tambahan.",
+      "Biji hitam dan biji pecah adalah dua jenis cacat paling umum yang disortir keluar."
     ],
     "cta": "Follow biar kamu nggak salah kaprah soal kopi lagi!",
-    "caption_on_screen": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
+    "caption_on_screen": "Sortasi manual biasanya dikerjakan ibu-ibu di sekitar kebun sebagai sumber penghasilan tambahan.",
     "shot_list": [
       {
         "shot": 1,
@@ -1203,22 +1203,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee warehouse sacks grading",
+        "search_keywords": "women sorting coffee beans village",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "hand sorting coffee beans defects table",
+        "search_keywords": "black defective coffee beans closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Katanya sortasi memengaruhi harga jual kopi. Beneran gitu? Eps 27/100 🌱☕",
+    "tiktok_caption": "Katanya sortasi manual jadi sumber penghasilan ibu-ibu sekitar kebun. Beneran gitu? Eps 27/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #sortasifermentasi #edukasikopi #coffeetok",
     "youtube_title": "Sortasi & Fermentasi #Shorts",
-    "youtube_description": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir. Eps 27/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Sortasi manual biasanya dikerjakan ibu-ibu di sekitar kebun sebagai sumber penghasilan tambahan. Eps 27/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 28,
@@ -1232,13 +1232,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "20-30 detik",
     "judul_internal": "Karakter Rasa & Cupping — Mitos vs Fakta (Kak Nur @ Warung kopi & brewing)",
-    "hook": "Katanya after-taste kopi sumatra tahan lama. Beneran gitu?",
+    "hook": "Katanya keasaman kopi sumatra tergolong rendah. Beneran gitu?",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
-      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
+      "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain.",
+      "Sebagian lot kopi Sumatra punya sentuhan rasa cokelat atau karamel yang lembut."
     ],
     "cta": "Follow biar kamu nggak salah kaprah soal kopi lagi!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain.",
     "shot_list": [
       {
         "shot": 1,
@@ -1250,22 +1250,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "coffee tasting expression closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee cupping tasting spoon closeup",
+        "search_keywords": "coffee beans chocolate closeup aroma",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Katanya after-taste kopi sumatra tahan lama. Beneran gitu? Eps 28/100 🌱☕",
+    "tiktok_caption": "Katanya keasaman kopi sumatra tergolong rendah. Beneran gitu? Eps 28/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 28/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain. Eps 28/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 29,
@@ -1279,13 +1279,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Karakter Rasa & Cupping — Perbandingan (Kak Nur @ Rumah giling & roastery (Mandailing))",
-    "hook": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal after-taste kopi sumatra tahan lama.",
+    "hook": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal ada kopi sumatra yang rasanya seperti cokelat.",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
-      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
+      "Sebagian lot kopi Sumatra punya sentuhan rasa cokelat atau karamel yang lembut.",
+      "Cupping adalah metode standar industri untuk menilai rasa kopi secara objektif."
     ],
     "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Sebagian lot kopi Sumatra punya sentuhan rasa cokelat atau karamel yang lembut.",
     "shot_list": [
       {
         "shot": 1,
@@ -1297,22 +1297,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "coffee beans chocolate closeup aroma",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee cupping tasting spoon closeup",
+        "search_keywords": "cupping session table multiple cups",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal after-taste kopi sumatra tahan lama. Eps 29/100 🌱☕",
+    "tiktok_caption": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal ada kopi sumatra yang rasanya seperti cokelat. Eps 29/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 29/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Sebagian lot kopi Sumatra punya sentuhan rasa cokelat atau karamel yang lembut. Eps 29/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 30,
@@ -1328,11 +1328,11 @@
     "judul_internal": "Budaya Ngopi & Petani — ASMR Proses (Kak Nur @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
-      "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis."
+      "Perubahan iklim membuat pola musim panen kopi Sumatra makin sulit diprediksi.",
+      "Regenerasi petani muda jadi tantangan nyata bagi keberlanjutan kebun kopi Sumatra."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
+    "caption_on_screen": "Perubahan iklim membuat pola musim panen kopi Sumatra makin sulit diprediksi.",
     "shot_list": [
       {
         "shot": 1,
@@ -1344,14 +1344,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee market price board trading",
+        "search_keywords": "coffee plantation landscape climate",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "traditional coffee shop Aceh interior people",
+        "search_keywords": "young farmer coffee field portrait",
         "source": "",
         "license": ""
       }
@@ -1359,7 +1359,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 30/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #budaya #edukasikopi #coffeetok",
     "youtube_title": "Budaya Ngopi & Petani #Shorts",
-    "youtube_description": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil. Eps 30/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Perubahan iklim membuat pola musim panen kopi Sumatra makin sulit diprediksi. Eps 30/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 31,
@@ -1422,11 +1422,11 @@
     "judul_internal": "Asal-usul & Geografi — POV Kunjungan Kebun (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "POV: kamu baru sampai di Kebun dataran tinggi (Gayo/Lintong) bareng Adit.",
     "beats": [
-      "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
-      "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara)."
+      "Kopi Gayo ditanam di ketinggian 1.100-1.700 mdpl, salah satu tertinggi di Indonesia.",
+      "Nama 'Mandheling' yang terkenal di pasar dunia berasal dari daerah Mandailing, Sumut."
     ],
     "cta": "Komentar 'lanjut' kalau mau Adit tunjukin tahap berikutnya!",
-    "caption_on_screen": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
+    "caption_on_screen": "Kopi Gayo ditanam di ketinggian 1.100-1.700 mdpl, salah satu tertinggi di Indonesia.",
     "shot_list": [
       {
         "shot": 1,
@@ -1438,14 +1438,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "arabica coffee cherries close up branch",
+        "search_keywords": "coffee farm misty mountains high altitude",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "aerial highland coffee plantation Indonesia",
+        "search_keywords": "small map graphic Sumatra region overlay",
         "source": "",
         "license": ""
       }
@@ -1453,7 +1453,7 @@
     "tiktok_caption": "POV: kamu baru sampai di Kebun dataran tinggi (Gayo/Lintong) bareng Adit. Eps 32/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #asalusul #edukasikopi #coffeetok",
     "youtube_title": "Asal-usul & Geografi #Shorts",
-    "youtube_description": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta. Eps 32/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi Gayo ditanam di ketinggian 1.100-1.700 mdpl, salah satu tertinggi di Indonesia. Eps 32/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 33,
@@ -1514,13 +1514,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Asal-usul & Geografi — Di Balik Layar (Adit @ Rumah giling & roastery (Mandailing))",
-    "hook": "Ini sisi yang jarang orang lihat dari sumatra lebih banyak arabika daripada robusta.",
+    "hook": "Ini sisi yang jarang orang lihat dari nama mandheling begitu terkenal di pasar dunia.",
     "beats": [
-      "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
-      "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara)."
+      "Nama 'Mandheling' yang terkenal di pasar dunia berasal dari daerah Mandailing, Sumut.",
+      "Sebagian besar kopi Sumatra ditanam petani kecil dengan lahan 0,5-2 hektar."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
+    "caption_on_screen": "Nama 'Mandheling' yang terkenal di pasar dunia berasal dari daerah Mandailing, Sumut.",
     "shot_list": [
       {
         "shot": 1,
@@ -1532,22 +1532,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "arabica coffee cherries close up branch",
+        "search_keywords": "small map graphic Sumatra region overlay",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "aerial highland coffee plantation Indonesia",
+        "search_keywords": "smallholder farmer coffee field",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari sumatra lebih banyak arabika daripada robusta. Eps 34/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari nama mandheling begitu terkenal di pasar dunia. Eps 34/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #asalusul #edukasikopi #coffeetok",
     "youtube_title": "Asal-usul & Geografi #Shorts",
-    "youtube_description": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta. Eps 34/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Nama 'Mandheling' yang terkenal di pasar dunia berasal dari daerah Mandailing, Sumut. Eps 34/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 35,
@@ -1561,13 +1561,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Sortasi & Fermentasi — Sejarah Singkat (Kak Nur @ Warung kopi & brewing)",
-    "hook": "Sejarah singkat kenapa sortasi memengaruhi harga jual kopi.",
+    "hook": "Sejarah singkat kenapa biji hitam harus disortir keluar.",
     "beats": [
-      "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
-      "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang."
+      "Biji hitam dan biji pecah adalah dua jenis cacat paling umum yang disortir keluar.",
+      "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir."
     ],
     "cta": "Mau tau sejarah kopi lainnya? Follow ya!",
-    "caption_on_screen": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
+    "caption_on_screen": "Biji hitam dan biji pecah adalah dua jenis cacat paling umum yang disortir keluar.",
     "shot_list": [
       {
         "shot": 1,
@@ -1579,22 +1579,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee warehouse sacks grading",
+        "search_keywords": "black defective coffee beans closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "hand sorting coffee beans defects table",
+        "search_keywords": "coffee warehouse sacks grading",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Sejarah singkat kenapa sortasi memengaruhi harga jual kopi. Eps 35/100 🌱☕",
+    "tiktok_caption": "Sejarah singkat kenapa biji hitam harus disortir keluar. Eps 35/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #sortasifermentasi #edukasikopi #coffeetok",
     "youtube_title": "Sortasi & Fermentasi #Shorts",
-    "youtube_description": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir. Eps 35/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Biji hitam dan biji pecah adalah dua jenis cacat paling umum yang disortir keluar. Eps 35/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 36,
@@ -1608,13 +1608,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Proses Giling Basah (ciri khas Sumatra) — Di Balik Layar (Kak Nur @ Rumah giling & roastery (Mandailing))",
-    "hook": "Ini sisi yang jarang orang lihat dari petani sumatra mengembangkan giling basah.",
+    "hook": "Ini sisi yang jarang orang lihat dari biji kopi sumatra berwarna kebiruan.",
     "beats": [
-      "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
-      "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra."
+      "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra.",
+      "Kulit tanduk yang masih lembap langsung digiling, bukan dikeringkan penuh dulu seperti proses washed biasa."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
+    "caption_on_screen": "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra.",
     "shot_list": [
       {
         "shot": 1,
@@ -1626,22 +1626,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee mill house rural Indonesia",
+        "search_keywords": "wet coffee parchment beans pile",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "wet coffee parchment beans pile",
+        "search_keywords": "manual coffee huller machine wood",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari petani sumatra mengembangkan giling basah. Eps 36/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari biji kopi sumatra berwarna kebiruan. Eps 36/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #gilingbasah #edukasikopi #coffeetok",
     "youtube_title": "Proses Giling Basah (ciri khas Sumatra) #Shorts",
-    "youtube_description": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap. Eps 36/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra. Eps 36/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 37,
@@ -1655,13 +1655,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Mitos vs Fakta — Perbandingan (Kak Nur @ Rumah giling & roastery (Mandailing))",
-    "hook": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal kopi organik berarti tanpa proses sama sekali.",
+    "hook": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal semua kopi sumatra itu kopi luwak.",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi.",
+      "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga."
     ],
     "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi.",
     "shot_list": [
       {
         "shot": 1,
@@ -1673,22 +1673,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "civet coffee luwak myth graphic",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "expensive coffee beans premium closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal kopi organik berarti tanpa proses sama sekali. Eps 37/100 🌱☕",
+    "tiktok_caption": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal semua kopi sumatra itu kopi luwak. Eps 37/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 37/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi. Eps 37/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 38,
@@ -1704,11 +1704,11 @@
     "judul_internal": "Karakter Rasa & Cupping — POV Kunjungan Kebun (Kak Nur @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "POV: kamu baru sampai di Kebun dataran tinggi (Gayo/Lintong) bareng Kak Nur.",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
-      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
+      "Cupping adalah metode standar industri untuk menilai rasa kopi secara objektif.",
+      "After-taste kopi Sumatra biasanya bertahan lama di lidah."
     ],
     "cta": "Komentar 'lanjut' kalau mau Kak Nur tunjukin tahap berikutnya!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Cupping adalah metode standar industri untuk menilai rasa kopi secara objektif.",
     "shot_list": [
       {
         "shot": 1,
@@ -1720,14 +1720,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "cupping session table multiple cups",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee cupping tasting spoon closeup",
+        "search_keywords": "coffee cup steam closeup aftertaste",
         "source": "",
         "license": ""
       }
@@ -1735,7 +1735,7 @@
     "tiktok_caption": "POV: kamu baru sampai di Kebun dataran tinggi (Gayo/Lintong) bareng Kak Nur. Eps 38/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 38/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Cupping adalah metode standar industri untuk menilai rasa kopi secara objektif. Eps 38/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 39,
@@ -1751,11 +1751,11 @@
     "judul_internal": "Proses Roasting — ASMR Proses (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
-      "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark."
+      "Suhu dan waktu roasting yang tepat menentukan apakah rasa jadi gosong atau kaya rasa.",
+      "First crack dan second crack adalah dua penanda penting dalam proses roasting kopi."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "Suhu dan waktu roasting yang tepat menentukan apakah rasa jadi gosong atau kaya rasa.",
     "shot_list": [
       {
         "shot": 1,
@@ -1767,14 +1767,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "coffee beans first crack roasting",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee roasting drum machine smoke",
+        "search_keywords": "roasting machine coffee shop interior",
         "source": "",
         "license": ""
       }
@@ -1782,7 +1782,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 39/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 39/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Suhu dan waktu roasting yang tepat menentukan apakah rasa jadi gosong atau kaya rasa. Eps 39/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 40,
@@ -1796,13 +1796,13 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "20-30 detik",
     "judul_internal": "Metode Seduh — Mitos vs Fakta (Pak Bahri @ Rumah giling & roastery (Mandailing))",
-    "hook": "Katanya ukuran gilingan memengaruhi rasa kopi. Beneran gitu?",
+    "hook": "Katanya french press cocok banget buat kopi sumatra. Beneran gitu?",
     "beats": [
-      "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
-      "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra."
+      "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra.",
+      "Kopi saring khas Aceh diseduh lalu 'ditarik' bolak-balik antar wadah seperti teh tarik."
     ],
     "cta": "Follow biar kamu nggak salah kaprah soal kopi lagi!",
-    "caption_on_screen": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
+    "caption_on_screen": "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra.",
     "shot_list": [
       {
         "shot": 1,
@@ -1814,22 +1814,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee grinder grinding beans closeup",
+        "search_keywords": "french press coffee pouring closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "french press coffee pouring closeup",
+        "search_keywords": "traditional Aceh coffee pulled pouring",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Katanya ukuran gilingan memengaruhi rasa kopi. Beneran gitu? Eps 40/100 🌱☕",
+    "tiktok_caption": "Katanya french press cocok banget buat kopi sumatra. Beneran gitu? Eps 40/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #brewing #edukasikopi #coffeetok",
     "youtube_title": "Metode Seduh #Shorts",
-    "youtube_description": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun. Eps 40/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra. Eps 40/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 41,
@@ -1843,13 +1843,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Budaya Ngopi & Petani — Perbandingan (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal harga kopi dunia memengaruhi petani kecil.",
+    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal anak muda mulai jarang mau jadi petani kopi.",
     "beats": [
-      "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
-      "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis."
+      "Regenerasi petani muda jadi tantangan nyata bagi keberlanjutan kebun kopi Sumatra.",
+      "Banyak petani Sumatra mewarisi kebun kopi dari orang tua turun-temurun."
     ],
     "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
-    "caption_on_screen": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
+    "caption_on_screen": "Regenerasi petani muda jadi tantangan nyata bagi keberlanjutan kebun kopi Sumatra.",
     "shot_list": [
       {
         "shot": 1,
@@ -1861,22 +1861,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee market price board trading",
+        "search_keywords": "young farmer coffee field portrait",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "traditional coffee shop Aceh interior people",
+        "search_keywords": "old coffee farmer talking legacy",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal harga kopi dunia memengaruhi petani kecil. Eps 41/100 🌱☕",
+    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal anak muda mulai jarang mau jadi petani kopi. Eps 41/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #budaya #edukasikopi #coffeetok",
     "youtube_title": "Budaya Ngopi & Petani #Shorts",
-    "youtube_description": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil. Eps 41/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Regenerasi petani muda jadi tantangan nyata bagi keberlanjutan kebun kopi Sumatra. Eps 41/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 42,
@@ -1890,13 +1890,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Proses Giling Basah (ciri khas Sumatra) — Sejarah Singkat (Adit @ Warung kopi & brewing)",
-    "hook": "Sejarah singkat kenapa petani sumatra mengembangkan giling basah.",
+    "hook": "Sejarah singkat kenapa proses giling basah cuma umum di sumatra.",
     "beats": [
-      "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
-      "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra."
+      "Kulit tanduk yang masih lembap langsung digiling, bukan dikeringkan penuh dulu seperti proses washed biasa.",
+      "Proses giling basah membuat biji hijau Sumatra berwarna kebiruan/keabu-abuan yang khas."
     ],
     "cta": "Mau tau sejarah kopi lainnya? Follow ya!",
-    "caption_on_screen": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
+    "caption_on_screen": "Kulit tanduk yang masih lembap langsung digiling, bukan dikeringkan penuh dulu seperti proses washed biasa.",
     "shot_list": [
       {
         "shot": 1,
@@ -1908,22 +1908,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee mill house rural Indonesia",
+        "search_keywords": "manual coffee huller machine wood",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "wet coffee parchment beans pile",
+        "search_keywords": "wet hulling coffee process Indonesia",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Sejarah singkat kenapa petani sumatra mengembangkan giling basah. Eps 42/100 🌱☕",
+    "tiktok_caption": "Sejarah singkat kenapa proses giling basah cuma umum di sumatra. Eps 42/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #gilingbasah #edukasikopi #coffeetok",
     "youtube_title": "Proses Giling Basah (ciri khas Sumatra) #Shorts",
-    "youtube_description": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap. Eps 42/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kulit tanduk yang masih lembap langsung digiling, bukan dikeringkan penuh dulu seperti proses washed biasa. Eps 42/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 43,
@@ -1937,13 +1937,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Mitos vs Fakta — Di Balik Layar (Kak Nur @ Rumah giling & roastery (Mandailing))",
-    "hook": "Ini sisi yang jarang orang lihat dari kopi organik berarti tanpa proses sama sekali.",
+    "hook": "Ini sisi yang jarang orang lihat dari kopi mahal pasti lebih enak.",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga.",
+      "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga.",
     "shot_list": [
       {
         "shot": 1,
@@ -1955,22 +1955,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "expensive coffee beans premium closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "coffee cup dark roast pouring",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari kopi organik berarti tanpa proses sama sekali. Eps 43/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari kopi mahal pasti lebih enak. Eps 43/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 43/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga. Eps 43/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 44,
@@ -1986,11 +1986,11 @@
     "judul_internal": "Budaya Ngopi & Petani — ASMR Proses (Adit @ Rumah giling & roastery (Mandailing))",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
-      "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis."
+      "Banyak petani Sumatra mewarisi kebun kopi dari orang tua turun-temurun.",
+      "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
+    "caption_on_screen": "Banyak petani Sumatra mewarisi kebun kopi dari orang tua turun-temurun.",
     "shot_list": [
       {
         "shot": 1,
@@ -2002,14 +2002,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee market price board trading",
+        "search_keywords": "old coffee farmer talking legacy",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "traditional coffee shop Aceh interior people",
+        "search_keywords": "coffee market price board trading",
         "source": "",
         "license": ""
       }
@@ -2017,7 +2017,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 44/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #budaya #edukasikopi #coffeetok",
     "youtube_title": "Budaya Ngopi & Petani #Shorts",
-    "youtube_description": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil. Eps 44/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Banyak petani Sumatra mewarisi kebun kopi dari orang tua turun-temurun. Eps 44/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 45,
@@ -2031,13 +2031,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "20-30 detik",
     "judul_internal": "Asal-usul & Geografi — Mitos vs Fakta (Kak Nur @ Warung kopi & brewing)",
-    "hook": "Katanya sumatra lebih banyak arabika daripada robusta. Beneran gitu?",
+    "hook": "Katanya petani kecil mendominasi produksi kopi sumatra. Beneran gitu?",
     "beats": [
-      "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
-      "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara)."
+      "Sebagian besar kopi Sumatra ditanam petani kecil dengan lahan 0,5-2 hektar.",
+      "Banyak kebun Sumatra tergabung koperasi untuk sertifikasi organik & Fair Trade."
     ],
     "cta": "Follow biar kamu nggak salah kaprah soal kopi lagi!",
-    "caption_on_screen": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
+    "caption_on_screen": "Sebagian besar kopi Sumatra ditanam petani kecil dengan lahan 0,5-2 hektar.",
     "shot_list": [
       {
         "shot": 1,
@@ -2049,22 +2049,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "arabica coffee cherries close up branch",
+        "search_keywords": "smallholder farmer coffee field",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "aerial highland coffee plantation Indonesia",
+        "search_keywords": "coffee farmer cooperative meeting",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Katanya sumatra lebih banyak arabika daripada robusta. Beneran gitu? Eps 45/100 🌱☕",
+    "tiktok_caption": "Katanya petani kecil mendominasi produksi kopi sumatra. Beneran gitu? Eps 45/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #asalusul #edukasikopi #coffeetok",
     "youtube_title": "Asal-usul & Geografi #Shorts",
-    "youtube_description": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta. Eps 45/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Sebagian besar kopi Sumatra ditanam petani kecil dengan lahan 0,5-2 hektar. Eps 45/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 46,
@@ -2080,11 +2080,11 @@
     "judul_internal": "Panen (Petik Merah) — POV Kunjungan Kebun (Pak Bahri @ Warung kopi & brewing)",
     "hook": "POV: kamu baru sampai di Warung kopi & brewing bareng Pak Bahri.",
     "beats": [
-      "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi.",
-      "Kopi kualitas terbaik dipanen manual, hanya ceri yang sudah merah matang (petik merah)."
+      "Kopi kualitas terbaik dipanen manual, hanya ceri yang sudah merah matang (petik merah).",
+      "Memetik ceri yang belum matang bisa merusak rasa akhir secangkir kopi."
     ],
     "cta": "Komentar 'lanjut' kalau mau Pak Bahri tunjukin tahap berikutnya!",
-    "caption_on_screen": "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi.",
+    "caption_on_screen": "Kopi kualitas terbaik dipanen manual, hanya ceri yang sudah merah matang (petik merah).",
     "shot_list": [
       {
         "shot": 1,
@@ -2096,14 +2096,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "farmers harvesting coffee manual labor",
+        "search_keywords": "farmer hand picking ripe red coffee cherries",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "farmer hand picking ripe red coffee cherries",
+        "search_keywords": "coffee cherries ripe red on branch",
         "source": "",
         "license": ""
       }
@@ -2111,7 +2111,7 @@
     "tiktok_caption": "POV: kamu baru sampai di Warung kopi & brewing bareng Pak Bahri. Eps 46/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #panen #edukasikopi #coffeetok",
     "youtube_title": "Panen (Petik Merah) #Shorts",
-    "youtube_description": "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi. Eps 46/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi kualitas terbaik dipanen manual, hanya ceri yang sudah merah matang (petik merah). Eps 46/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 47,
@@ -2172,13 +2172,13 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "25-35 detik",
     "judul_internal": "Proses Roasting — Di Balik Layar (Pak Bahri @ Warung kopi & brewing)",
-    "hook": "Ini sisi yang jarang orang lihat dari biji kopi berubah drastis saat di-roast.",
+    "hook": "Ini sisi yang jarang orang lihat dari ada istilah first crack dan second crack saat roasting.",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
-      "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark."
+      "First crack dan second crack adalah dua penanda penting dalam proses roasting kopi.",
+      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "First crack dan second crack adalah dua penanda penting dalam proses roasting kopi.",
     "shot_list": [
       {
         "shot": 1,
@@ -2190,22 +2190,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "roasting machine coffee shop interior",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee roasting drum machine smoke",
+        "search_keywords": "coffee beans color change roasting process",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari biji kopi berubah drastis saat di-roast. Eps 48/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari ada istilah first crack dan second crack saat roasting. Eps 48/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 48/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "First crack dan second crack adalah dua penanda penting dalam proses roasting kopi. Eps 48/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 49,
@@ -2219,13 +2219,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Penanaman & Perawatan — Sejarah Singkat (Adit @ Warung kopi & brewing)",
-    "hook": "Sejarah singkat kenapa naungan pohon menjaga kelembapan tanah.",
+    "hook": "Sejarah singkat kenapa pohon kopi ditanam di bawah naungan pohon lain.",
     "beats": [
-      "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering.",
-      "Butuh 3-4 tahun sejak tanam sebelum pohon kopi berbuah untuk pertama kali."
+      "Pohon kopi ditanam di bawah naungan lamtoro atau sengon agar tidak kena matahari langsung.",
+      "Ketinggian dan suhu dingin dataran tinggi memperlambat pematangan ceri kopi."
     ],
     "cta": "Mau tau sejarah kopi lainnya? Follow ya!",
-    "caption_on_screen": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering.",
+    "caption_on_screen": "Pohon kopi ditanam di bawah naungan lamtoro atau sengon agar tidak kena matahari langsung.",
     "shot_list": [
       {
         "shot": 1,
@@ -2237,22 +2237,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "shade tree coffee farm sunlight",
+        "search_keywords": "coffee trees shade grown canopy",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee seedling nursery young plants",
+        "search_keywords": "highland fog coffee plantation morning",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Sejarah singkat kenapa naungan pohon menjaga kelembapan tanah. Eps 49/100 🌱☕",
+    "tiktok_caption": "Sejarah singkat kenapa pohon kopi ditanam di bawah naungan pohon lain. Eps 49/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #penanaman #edukasikopi #coffeetok",
     "youtube_title": "Penanaman & Perawatan #Shorts",
-    "youtube_description": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering. Eps 49/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Pohon kopi ditanam di bawah naungan lamtoro atau sengon agar tidak kena matahari langsung. Eps 49/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 50,
@@ -2266,12 +2266,12 @@
     "narator_name": "Kak Nur",
     "durasi_target": "15-20 detik",
     "judul_internal": "Asal-usul & Geografi — Fakta Cepat (Kak Nur @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Tau nggak kenapa sumatra lebih banyak arabika daripada robusta?",
+    "hook": "Tau nggak kenapa banyak kebun sumatra ikut sertifikasi organik?",
     "beats": [
-      "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta."
+      "Banyak kebun Sumatra tergabung koperasi untuk sertifikasi organik & Fair Trade."
     ],
     "cta": "Follow biar kamu makin banyak tau fakta kopi Sumatra!",
-    "caption_on_screen": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
+    "caption_on_screen": "Banyak kebun Sumatra tergabung koperasi untuk sertifikasi organik & Fair Trade.",
     "shot_list": [
       {
         "shot": 1,
@@ -2283,15 +2283,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "arabica coffee cherries close up branch",
+        "search_keywords": "coffee farmer cooperative meeting",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Tau nggak kenapa sumatra lebih banyak arabika daripada robusta? Eps 50/100 🌱☕",
+    "tiktok_caption": "Tau nggak kenapa banyak kebun sumatra ikut sertifikasi organik? Eps 50/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #asalusul #edukasikopi #coffeetok",
     "youtube_title": "Asal-usul & Geografi #Shorts",
-    "youtube_description": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta. Eps 50/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Banyak kebun Sumatra tergabung koperasi untuk sertifikasi organik & Fair Trade. Eps 50/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 51,
@@ -2352,13 +2352,13 @@
     "narator_name": "Adit",
     "durasi_target": "20-30 detik",
     "judul_internal": "Karakter Rasa & Cupping — Mitos vs Fakta (Adit @ Warung kopi & brewing)",
-    "hook": "Katanya after-taste kopi sumatra tahan lama. Beneran gitu?",
+    "hook": "Katanya kopi sumatra rasanya earthy bukan asam. Beneran gitu?",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
-      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
+      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas.",
+      "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy)."
     ],
     "cta": "Follow biar kamu nggak salah kaprah soal kopi lagi!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas.",
     "shot_list": [
       {
         "shot": 1,
@@ -2370,22 +2370,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "coffee cupping tasting spoon closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee cupping tasting spoon closeup",
+        "search_keywords": "thick coffee pour syrupy texture",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Katanya after-taste kopi sumatra tahan lama. Beneran gitu? Eps 52/100 🌱☕",
+    "tiktok_caption": "Katanya kopi sumatra rasanya earthy bukan asam. Beneran gitu? Eps 52/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 52/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas. Eps 52/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 53,
@@ -2401,11 +2401,11 @@
     "judul_internal": "Metode Seduh — ASMR Proses (Pak Bahri @ Rumah giling & roastery (Mandailing))",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
-      "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra."
+      "Kopi saring khas Aceh diseduh lalu 'ditarik' bolak-balik antar wadah seperti teh tarik.",
+      "Teknik tarik pada kopi Aceh menghasilkan buih dan melarutkan rasa lebih merata."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
+    "caption_on_screen": "Kopi saring khas Aceh diseduh lalu 'ditarik' bolak-balik antar wadah seperti teh tarik.",
     "shot_list": [
       {
         "shot": 1,
@@ -2417,14 +2417,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee grinder grinding beans closeup",
+        "search_keywords": "traditional Aceh coffee pulled pouring",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "french press coffee pouring closeup",
+        "search_keywords": "coffee frothy pour traditional cloth filter",
         "source": "",
         "license": ""
       }
@@ -2432,7 +2432,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 53/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #brewing #edukasikopi #coffeetok",
     "youtube_title": "Metode Seduh #Shorts",
-    "youtube_description": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun. Eps 53/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi saring khas Aceh diseduh lalu 'ditarik' bolak-balik antar wadah seperti teh tarik. Eps 53/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 54,
@@ -2446,13 +2446,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Metode Seduh — Di Balik Layar (Adit @ Rumah giling & roastery (Mandailing))",
-    "hook": "Ini sisi yang jarang orang lihat dari ukuran gilingan memengaruhi rasa kopi.",
+    "hook": "Ini sisi yang jarang orang lihat dari teknik tarik bikin kopi aceh berbuih.",
     "beats": [
-      "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
-      "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra."
+      "Teknik tarik pada kopi Aceh menghasilkan buih dan melarutkan rasa lebih merata.",
+      "Pour-over V60 kurang umum untuk kopi Sumatra karena keasamannya yang rendah."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
+    "caption_on_screen": "Teknik tarik pada kopi Aceh menghasilkan buih dan melarutkan rasa lebih merata.",
     "shot_list": [
       {
         "shot": 1,
@@ -2464,22 +2464,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee grinder grinding beans closeup",
+        "search_keywords": "coffee frothy pour traditional cloth filter",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "french press coffee pouring closeup",
+        "search_keywords": "pour over V60 coffee brewing",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari ukuran gilingan memengaruhi rasa kopi. Eps 54/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari teknik tarik bikin kopi aceh berbuih. Eps 54/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #brewing #edukasikopi #coffeetok",
     "youtube_title": "Metode Seduh #Shorts",
-    "youtube_description": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun. Eps 54/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Teknik tarik pada kopi Aceh menghasilkan buih dan melarutkan rasa lebih merata. Eps 54/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 55,
@@ -2493,13 +2493,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Panen (Petik Merah) — Di Balik Layar (Kak Nur @ Warung kopi & brewing)",
-    "hook": "Ini sisi yang jarang orang lihat dari panen jadi tahap paling padat karya.",
+    "hook": "Ini sisi yang jarang orang lihat dari ceri yang belum merah tidak boleh dipetik.",
     "beats": [
-      "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi.",
-      "Kopi kualitas terbaik dipanen manual, hanya ceri yang sudah merah matang (petik merah)."
+      "Memetik ceri yang belum matang bisa merusak rasa akhir secangkir kopi.",
+      "Satu pohon kopi biasanya dipanen bertahap beberapa kali karena kematangan tidak serentak."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi.",
+    "caption_on_screen": "Memetik ceri yang belum matang bisa merusak rasa akhir secangkir kopi.",
     "shot_list": [
       {
         "shot": 1,
@@ -2511,22 +2511,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "farmers harvesting coffee manual labor",
+        "search_keywords": "coffee cherries ripe red on branch",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "farmer hand picking ripe red coffee cherries",
+        "search_keywords": "harvest basket coffee cherries",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari panen jadi tahap paling padat karya. Eps 55/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari ceri yang belum merah tidak boleh dipetik. Eps 55/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #panen #edukasikopi #coffeetok",
     "youtube_title": "Panen (Petik Merah) #Shorts",
-    "youtube_description": "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi. Eps 55/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Memetik ceri yang belum matang bisa merusak rasa akhir secangkir kopi. Eps 55/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 56,
@@ -2540,12 +2540,12 @@
     "narator_name": "Adit",
     "durasi_target": "20-30 detik",
     "judul_internal": "Mitos vs Fakta — Tanya Jawab Interaktif (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Adit mau tanya: menurut kamu kenapa kopi organik berarti tanpa proses sama sekali?",
+    "hook": "Adit mau tanya: menurut kamu kenapa kopi sumatra itu kopi paling pahit?",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar."
+      "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal."
     ],
     "cta": "Tulis jawabanmu di komentar, nanti dijawab Adit di video berikutnya!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal.",
     "shot_list": [
       {
         "shot": 1,
@@ -2557,15 +2557,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "coffee cup dark roast pouring",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Adit mau tanya: menurut kamu kenapa kopi organik berarti tanpa proses sama sekali? Eps 56/100 🌱☕",
+    "tiktok_caption": "Adit mau tanya: menurut kamu kenapa kopi sumatra itu kopi paling pahit? Eps 56/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 56/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal. Eps 56/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 57,
@@ -2581,11 +2581,11 @@
     "judul_internal": "Metode Seduh — ASMR Proses (Adit @ Warung kopi & brewing)",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
-      "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra."
+      "Pour-over V60 kurang umum untuk kopi Sumatra karena keasamannya yang rendah.",
+      "Warung kopi Aceh sering menyajikan kopi saring dengan gula yang sudah dicampur dari awal."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
+    "caption_on_screen": "Pour-over V60 kurang umum untuk kopi Sumatra karena keasamannya yang rendah.",
     "shot_list": [
       {
         "shot": 1,
@@ -2597,14 +2597,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee grinder grinding beans closeup",
+        "search_keywords": "pour over V60 coffee brewing",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "french press coffee pouring closeup",
+        "search_keywords": "traditional coffee shop Aceh serving",
         "source": "",
         "license": ""
       }
@@ -2612,7 +2612,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 57/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #brewing #edukasikopi #coffeetok",
     "youtube_title": "Metode Seduh #Shorts",
-    "youtube_description": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun. Eps 57/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Pour-over V60 kurang umum untuk kopi Sumatra karena keasamannya yang rendah. Eps 57/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 58,
@@ -2626,13 +2626,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Proses Giling Basah (ciri khas Sumatra) — Di Balik Layar (Kak Nur @ Warung kopi & brewing)",
-    "hook": "Ini sisi yang jarang orang lihat dari petani sumatra mengembangkan giling basah.",
+    "hook": "Ini sisi yang jarang orang lihat dari kulit tanduk digiling saat masih basah.",
     "beats": [
-      "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
-      "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra."
+      "Proses giling basah membuat biji hijau Sumatra berwarna kebiruan/keabu-abuan yang khas.",
+      "Giling basah menghasilkan body kopi yang sangat tebal dan keasaman yang rendah."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
+    "caption_on_screen": "Proses giling basah membuat biji hijau Sumatra berwarna kebiruan/keabu-abuan yang khas.",
     "shot_list": [
       {
         "shot": 1,
@@ -2644,22 +2644,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee mill house rural Indonesia",
+        "search_keywords": "wet hulling coffee process Indonesia",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "wet coffee parchment beans pile",
+        "search_keywords": "green coffee beans bluish grey color",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari petani sumatra mengembangkan giling basah. Eps 58/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari kulit tanduk digiling saat masih basah. Eps 58/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #gilingbasah #edukasikopi #coffeetok",
     "youtube_title": "Proses Giling Basah (ciri khas Sumatra) #Shorts",
-    "youtube_description": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap. Eps 58/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Proses giling basah membuat biji hijau Sumatra berwarna kebiruan/keabu-abuan yang khas. Eps 58/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 59,
@@ -2673,13 +2673,13 @@
     "narator_name": "Adit",
     "durasi_target": "20-30 detik",
     "judul_internal": "Penanaman & Perawatan — Tutorial Mini (Adit @ Warung kopi & brewing)",
-    "hook": "Begini cara naungan pohon menjaga kelembapan tanah, gampang kok!",
+    "hook": "Begini cara dataran tinggi bikin ceri kopi matang lebih lambat, gampang kok!",
     "beats": [
-      "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering.",
-      "Butuh 3-4 tahun sejak tanam sebelum pohon kopi berbuah untuk pertama kali."
+      "Ketinggian dan suhu dingin dataran tinggi memperlambat pematangan ceri kopi.",
+      "Pohon kopi yang dirawat baik bisa terus produktif berbuah selama puluhan tahun."
     ],
     "cta": "Save video ini biar nggak lupa langkahnya!",
-    "caption_on_screen": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering.",
+    "caption_on_screen": "Ketinggian dan suhu dingin dataran tinggi memperlambat pematangan ceri kopi.",
     "shot_list": [
       {
         "shot": 1,
@@ -2691,22 +2691,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "shade tree coffee farm sunlight",
+        "search_keywords": "highland fog coffee plantation morning",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee seedling nursery young plants",
+        "search_keywords": "old coffee tree trunk plantation",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Begini cara naungan pohon menjaga kelembapan tanah, gampang kok! Eps 59/100 🌱☕",
+    "tiktok_caption": "Begini cara dataran tinggi bikin ceri kopi matang lebih lambat, gampang kok! Eps 59/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #penanaman #edukasikopi #coffeetok",
     "youtube_title": "Penanaman & Perawatan #Shorts",
-    "youtube_description": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering. Eps 59/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Ketinggian dan suhu dingin dataran tinggi memperlambat pematangan ceri kopi. Eps 59/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 60,
@@ -2722,11 +2722,11 @@
     "judul_internal": "Proses Giling Basah (ciri khas Sumatra) — POV Kunjungan Kebun (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "POV: kamu baru sampai di Kebun dataran tinggi (Gayo/Lintong) bareng Pak Bahri.",
     "beats": [
-      "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
-      "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra."
+      "Giling basah menghasilkan body kopi yang sangat tebal dan keasaman yang rendah.",
+      "Rasa earthy, herbal, dan rempah khas kopi Sumatra berasal dari proses giling basah ini."
     ],
     "cta": "Komentar 'lanjut' kalau mau Pak Bahri tunjukin tahap berikutnya!",
-    "caption_on_screen": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
+    "caption_on_screen": "Giling basah menghasilkan body kopi yang sangat tebal dan keasaman yang rendah.",
     "shot_list": [
       {
         "shot": 1,
@@ -2738,14 +2738,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee mill house rural Indonesia",
+        "search_keywords": "green coffee beans bluish grey color",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "wet coffee parchment beans pile",
+        "search_keywords": "coffee pulping machine wet process",
         "source": "",
         "license": ""
       }
@@ -2753,7 +2753,7 @@
     "tiktok_caption": "POV: kamu baru sampai di Kebun dataran tinggi (Gayo/Lintong) bareng Pak Bahri. Eps 60/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #gilingbasah #edukasikopi #coffeetok",
     "youtube_title": "Proses Giling Basah (ciri khas Sumatra) #Shorts",
-    "youtube_description": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap. Eps 60/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Giling basah menghasilkan body kopi yang sangat tebal dan keasaman yang rendah. Eps 60/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 61,
@@ -2808,11 +2808,11 @@
     "judul_internal": "Proses Giling Basah (ciri khas Sumatra) — ASMR Proses (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
-      "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra."
+      "Rasa earthy, herbal, dan rempah khas kopi Sumatra berasal dari proses giling basah ini.",
+      "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
+    "caption_on_screen": "Rasa earthy, herbal, dan rempah khas kopi Sumatra berasal dari proses giling basah ini.",
     "shot_list": [
       {
         "shot": 1,
@@ -2824,14 +2824,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee mill house rural Indonesia",
+        "search_keywords": "coffee pulping machine wet process",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "wet coffee parchment beans pile",
+        "search_keywords": "coffee mill house rural Indonesia",
         "source": "",
         "license": ""
       }
@@ -2839,7 +2839,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 62/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #gilingbasah #edukasikopi #coffeetok",
     "youtube_title": "Proses Giling Basah (ciri khas Sumatra) #Shorts",
-    "youtube_description": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap. Eps 62/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Rasa earthy, herbal, dan rempah khas kopi Sumatra berasal dari proses giling basah ini. Eps 62/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 63,
@@ -2855,11 +2855,11 @@
     "judul_internal": "Karakter Rasa & Cupping — ASMR Proses (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
-      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
+      "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy).",
+      "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy).",
     "shot_list": [
       {
         "shot": 1,
@@ -2871,14 +2871,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "thick coffee pour syrupy texture",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee cupping tasting spoon closeup",
+        "search_keywords": "coffee tasting expression closeup",
         "source": "",
         "license": ""
       }
@@ -2886,7 +2886,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 63/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 63/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy). Eps 63/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 64,
@@ -2900,13 +2900,13 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "25-35 detik",
     "judul_internal": "Metode Seduh — Di Balik Layar (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Ini sisi yang jarang orang lihat dari ukuran gilingan memengaruhi rasa kopi.",
+    "hook": "Ini sisi yang jarang orang lihat dari warung kopi aceh sudah campur gula dari awal.",
     "beats": [
-      "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
-      "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra."
+      "Warung kopi Aceh sering menyajikan kopi saring dengan gula yang sudah dicampur dari awal.",
+      "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
+    "caption_on_screen": "Warung kopi Aceh sering menyajikan kopi saring dengan gula yang sudah dicampur dari awal.",
     "shot_list": [
       {
         "shot": 1,
@@ -2918,22 +2918,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee grinder grinding beans closeup",
+        "search_keywords": "traditional coffee shop Aceh serving",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "french press coffee pouring closeup",
+        "search_keywords": "coffee grinder grinding beans closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari ukuran gilingan memengaruhi rasa kopi. Eps 64/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari warung kopi aceh sudah campur gula dari awal. Eps 64/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #brewing #edukasikopi #coffeetok",
     "youtube_title": "Metode Seduh #Shorts",
-    "youtube_description": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun. Eps 64/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Warung kopi Aceh sering menyajikan kopi saring dengan gula yang sudah dicampur dari awal. Eps 64/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 65,
@@ -2947,13 +2947,13 @@
     "narator_name": "Adit",
     "durasi_target": "20-30 detik",
     "judul_internal": "Proses Roasting — Mitos vs Fakta (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Katanya biji kopi berubah drastis saat di-roast. Beneran gitu?",
+    "hook": "Katanya kopi sumatra sering di-roast gelap. Beneran gitu?",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
-      "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark."
+      "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark.",
+      "Roasting level dark membantu menonjolkan rasa earthy dan rempah kopi Sumatra."
     ],
     "cta": "Follow biar kamu nggak salah kaprah soal kopi lagi!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark.",
     "shot_list": [
       {
         "shot": 1,
@@ -2965,22 +2965,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "coffee roasting drum machine smoke",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee roasting drum machine smoke",
+        "search_keywords": "dark roasted coffee beans closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Katanya biji kopi berubah drastis saat di-roast. Beneran gitu? Eps 65/100 🌱☕",
+    "tiktok_caption": "Katanya kopi sumatra sering di-roast gelap. Beneran gitu? Eps 65/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 65/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark. Eps 65/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 66,
@@ -2994,13 +2994,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Karakter Rasa & Cupping — Perbandingan (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal after-taste kopi sumatra tahan lama.",
+    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal keasaman kopi sumatra tergolong rendah.",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
-      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
+      "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain.",
+      "Sebagian lot kopi Sumatra punya sentuhan rasa cokelat atau karamel yang lembut."
     ],
     "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain.",
     "shot_list": [
       {
         "shot": 1,
@@ -3012,22 +3012,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "coffee tasting expression closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee cupping tasting spoon closeup",
+        "search_keywords": "coffee beans chocolate closeup aroma",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal after-taste kopi sumatra tahan lama. Eps 66/100 🌱☕",
+    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal keasaman kopi sumatra tergolong rendah. Eps 66/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 66/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain. Eps 66/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 67,
@@ -3041,13 +3041,13 @@
     "narator_name": "Adit",
     "durasi_target": "20-30 detik",
     "judul_internal": "Proses Roasting — Tutorial Mini (Adit @ Rumah giling & roastery (Mandailing))",
-    "hook": "Begini cara biji kopi berubah drastis saat di-roast, gampang kok!",
+    "hook": "Begini cara roasting gelap menonjolkan rasa rempah kopi sumatra, gampang kok!",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
-      "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark."
+      "Roasting level dark membantu menonjolkan rasa earthy dan rempah kopi Sumatra.",
+      "Roaster modern mulai eksperimen roast medium/light untuk mengungkap rasa buah tersembunyi."
     ],
     "cta": "Save video ini biar nggak lupa langkahnya!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "Roasting level dark membantu menonjolkan rasa earthy dan rempah kopi Sumatra.",
     "shot_list": [
       {
         "shot": 1,
@@ -3059,22 +3059,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "dark roasted coffee beans closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee roasting drum machine smoke",
+        "search_keywords": "coffee roaster monitoring temperature",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Begini cara biji kopi berubah drastis saat di-roast, gampang kok! Eps 67/100 🌱☕",
+    "tiktok_caption": "Begini cara roasting gelap menonjolkan rasa rempah kopi sumatra, gampang kok! Eps 67/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 67/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Roasting level dark membantu menonjolkan rasa earthy dan rempah kopi Sumatra. Eps 67/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 68,
@@ -3088,13 +3088,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Panen (Petik Merah) — Perbandingan (Kak Nur @ Rumah giling & roastery (Mandailing))",
-    "hook": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal panen jadi tahap paling padat karya.",
+    "hook": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal satu pohon kopi dipanen berkali-kali.",
     "beats": [
-      "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi.",
-      "Kopi kualitas terbaik dipanen manual, hanya ceri yang sudah merah matang (petik merah)."
+      "Satu pohon kopi biasanya dipanen bertahap beberapa kali karena kematangan tidak serentak.",
+      "Musim panen raya di Sumatra mengikuti pola hujan setempat, beda tiap daerah."
     ],
     "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
-    "caption_on_screen": "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi.",
+    "caption_on_screen": "Satu pohon kopi biasanya dipanen bertahap beberapa kali karena kematangan tidak serentak.",
     "shot_list": [
       {
         "shot": 1,
@@ -3106,22 +3106,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "farmers harvesting coffee manual labor",
+        "search_keywords": "harvest basket coffee cherries",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "farmer hand picking ripe red coffee cherries",
+        "search_keywords": "coffee farm harvest season rain",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal panen jadi tahap paling padat karya. Eps 68/100 🌱☕",
+    "tiktok_caption": "Rumah giling & roastery (Mandailing): mari kita bandingkan dua sisi soal satu pohon kopi dipanen berkali-kali. Eps 68/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #panen #edukasikopi #coffeetok",
     "youtube_title": "Panen (Petik Merah) #Shorts",
-    "youtube_description": "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi. Eps 68/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Satu pohon kopi biasanya dipanen bertahap beberapa kali karena kematangan tidak serentak. Eps 68/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 69,
@@ -3135,13 +3135,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "20-30 detik",
     "judul_internal": "Proses Roasting — Tutorial Mini (Kak Nur @ Rumah giling & roastery (Mandailing))",
-    "hook": "Begini cara biji kopi berubah drastis saat di-roast, gampang kok!",
+    "hook": "Begini cara roaster mulai coba roast lebih terang buat kopi sumatra, gampang kok!",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
-      "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark."
+      "Roaster modern mulai eksperimen roast medium/light untuk mengungkap rasa buah tersembunyi.",
+      "Suhu dan waktu roasting yang tepat menentukan apakah rasa jadi gosong atau kaya rasa."
     ],
     "cta": "Save video ini biar nggak lupa langkahnya!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "Roaster modern mulai eksperimen roast medium/light untuk mengungkap rasa buah tersembunyi.",
     "shot_list": [
       {
         "shot": 1,
@@ -3153,22 +3153,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "coffee roaster monitoring temperature",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee roasting drum machine smoke",
+        "search_keywords": "coffee beans first crack roasting",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Begini cara biji kopi berubah drastis saat di-roast, gampang kok! Eps 69/100 🌱☕",
+    "tiktok_caption": "Begini cara roaster mulai coba roast lebih terang buat kopi sumatra, gampang kok! Eps 69/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 69/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Roaster modern mulai eksperimen roast medium/light untuk mengungkap rasa buah tersembunyi. Eps 69/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 70,
@@ -3184,11 +3184,11 @@
     "judul_internal": "Karakter Rasa & Cupping — Day in the Life (Pak Bahri @ Warung kopi & brewing)",
     "hook": "Sehari mengikuti Pak Bahri di Warung kopi & brewing.",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
-      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
+      "Sebagian lot kopi Sumatra punya sentuhan rasa cokelat atau karamel yang lembut.",
+      "Cupping adalah metode standar industri untuk menilai rasa kopi secara objektif."
     ],
     "cta": "Follow buat ikutin keseharian Pak Bahri bikin kopi Sumatra tiap hari!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Sebagian lot kopi Sumatra punya sentuhan rasa cokelat atau karamel yang lembut.",
     "shot_list": [
       {
         "shot": 1,
@@ -3200,14 +3200,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "coffee beans chocolate closeup aroma",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee cupping tasting spoon closeup",
+        "search_keywords": "cupping session table multiple cups",
         "source": "",
         "license": ""
       }
@@ -3215,7 +3215,7 @@
     "tiktok_caption": "Sehari mengikuti Pak Bahri di Warung kopi & brewing. Eps 70/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 70/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Sebagian lot kopi Sumatra punya sentuhan rasa cokelat atau karamel yang lembut. Eps 70/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 71,
@@ -3268,12 +3268,12 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "20-30 detik",
     "judul_internal": "Karakter Rasa & Cupping — Tanya Jawab Interaktif (Pak Bahri @ Warung kopi & brewing)",
-    "hook": "Pak Bahri mau tanya: menurut kamu kenapa after-taste kopi sumatra tahan lama?",
+    "hook": "Pak Bahri mau tanya: menurut kamu kenapa cupping dipakai buat menilai rasa kopi secara resmi?",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah."
+      "Cupping adalah metode standar industri untuk menilai rasa kopi secara objektif."
     ],
     "cta": "Tulis jawabanmu di komentar, nanti dijawab Pak Bahri di video berikutnya!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Cupping adalah metode standar industri untuk menilai rasa kopi secara objektif.",
     "shot_list": [
       {
         "shot": 1,
@@ -3285,15 +3285,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "cupping session table multiple cups",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Pak Bahri mau tanya: menurut kamu kenapa after-taste kopi sumatra tahan lama? Eps 72/100 🌱☕",
+    "tiktok_caption": "Pak Bahri mau tanya: menurut kamu kenapa cupping dipakai buat menilai rasa kopi secara resmi? Eps 72/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 72/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Cupping adalah metode standar industri untuk menilai rasa kopi secara objektif. Eps 72/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 73,
@@ -3309,11 +3309,11 @@
     "judul_internal": "Mitos vs Fakta — ASMR Proses (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "Dengarkan dan lihat prosesnya baik-baik.",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Warna biji hijau kebiruan bukan tanda kopi rusak, itu justru ciri khas proses giling basah.",
+      "Kafein tidak berkurang karena roast lebih gelap - itu mitos yang sering dipercaya."
     ],
     "cta": "Tenang banget ya prosesnya? Follow buat konten ASMR kopi lainnya!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Warna biji hijau kebiruan bukan tanda kopi rusak, itu justru ciri khas proses giling basah.",
     "shot_list": [
       {
         "shot": 1,
@@ -3325,14 +3325,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "green coffee beans bluish myth closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "coffee roasting dark beans closeup",
         "source": "",
         "license": ""
       }
@@ -3340,7 +3340,7 @@
     "tiktok_caption": "Dengarkan dan lihat prosesnya baik-baik. Eps 73/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 73/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Warna biji hijau kebiruan bukan tanda kopi rusak, itu justru ciri khas proses giling basah. Eps 73/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 74,
@@ -3354,13 +3354,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Mitos vs Fakta — Di Balik Layar (Adit @ Rumah giling & roastery (Mandailing))",
-    "hook": "Ini sisi yang jarang orang lihat dari kopi organik berarti tanpa proses sama sekali.",
+    "hook": "Ini sisi yang jarang orang lihat dari roast gelap bikin kafein berkurang.",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Kafein tidak berkurang karena roast lebih gelap - itu mitos yang sering dipercaya.",
+      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Kafein tidak berkurang karena roast lebih gelap - itu mitos yang sering dipercaya.",
     "shot_list": [
       {
         "shot": 1,
@@ -3372,22 +3372,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "coffee roasting dark beans closeup",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "organic coffee certification label",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari kopi organik berarti tanpa proses sama sekali. Eps 74/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari roast gelap bikin kafein berkurang. Eps 74/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 74/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kafein tidak berkurang karena roast lebih gelap - itu mitos yang sering dipercaya. Eps 74/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 75,
@@ -3401,13 +3401,13 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "20-30 detik",
     "judul_internal": "Budaya Ngopi & Petani — Tutorial Mini (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Begini cara harga kopi dunia memengaruhi petani kecil, gampang kok!",
+    "hook": "Begini cara warung kopi jadi pusat sosial di aceh, gampang kok!",
     "beats": [
-      "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
-      "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis."
+      "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis.",
+      "Rantai pasok kopi Sumatra: petani, pengepul/koperasi, prosesor, eksportir, lalu kafe."
     ],
     "cta": "Save video ini biar nggak lupa langkahnya!",
-    "caption_on_screen": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
+    "caption_on_screen": "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis.",
     "shot_list": [
       {
         "shot": 1,
@@ -3419,22 +3419,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee market price board trading",
+        "search_keywords": "traditional coffee shop Aceh interior people",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "traditional coffee shop Aceh interior people",
+        "search_keywords": "coffee farmer family portrait",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Begini cara harga kopi dunia memengaruhi petani kecil, gampang kok! Eps 75/100 🌱☕",
+    "tiktok_caption": "Begini cara warung kopi jadi pusat sosial di aceh, gampang kok! Eps 75/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #budaya #edukasikopi #coffeetok",
     "youtube_title": "Budaya Ngopi & Petani #Shorts",
-    "youtube_description": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil. Eps 75/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis. Eps 75/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 76,
@@ -3489,11 +3489,11 @@
     "judul_internal": "Penanaman & Perawatan — Day in the Life (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
     "hook": "Sehari mengikuti Pak Bahri di Kebun dataran tinggi (Gayo/Lintong).",
     "beats": [
-      "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering.",
-      "Butuh 3-4 tahun sejak tanam sebelum pohon kopi berbuah untuk pertama kali."
+      "Pohon kopi yang dirawat baik bisa terus produktif berbuah selama puluhan tahun.",
+      "Kebun rakyat Sumatra umumnya semi-organik, pupuk dari kompos & sisa panen sendiri."
     ],
     "cta": "Follow buat ikutin keseharian Pak Bahri bikin kopi Sumatra tiap hari!",
-    "caption_on_screen": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering.",
+    "caption_on_screen": "Pohon kopi yang dirawat baik bisa terus produktif berbuah selama puluhan tahun.",
     "shot_list": [
       {
         "shot": 1,
@@ -3505,14 +3505,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "shade tree coffee farm sunlight",
+        "search_keywords": "old coffee tree trunk plantation",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee seedling nursery young plants",
+        "search_keywords": "organic compost coffee farm soil",
         "source": "",
         "license": ""
       }
@@ -3520,7 +3520,7 @@
     "tiktok_caption": "Sehari mengikuti Pak Bahri di Kebun dataran tinggi (Gayo/Lintong). Eps 77/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #penanaman #edukasikopi #coffeetok",
     "youtube_title": "Penanaman & Perawatan #Shorts",
-    "youtube_description": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering. Eps 77/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Pohon kopi yang dirawat baik bisa terus produktif berbuah selama puluhan tahun. Eps 77/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 78,
@@ -3581,13 +3581,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Mitos vs Fakta — Perbandingan (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal kopi organik berarti tanpa proses sama sekali.",
+    "hook": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal semua kopi sumatra itu kopi luwak.",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi.",
+      "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga."
     ],
     "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi.",
     "shot_list": [
       {
         "shot": 1,
@@ -3599,22 +3599,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "civet coffee luwak myth graphic",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "expensive coffee beans premium closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal kopi organik berarti tanpa proses sama sekali. Eps 79/100 🌱☕",
+    "tiktok_caption": "Kebun dataran tinggi (Gayo/Lintong): mari kita bandingkan dua sisi soal semua kopi sumatra itu kopi luwak. Eps 79/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 79/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi. Eps 79/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 80,
@@ -3628,12 +3628,12 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "15-20 detik",
     "judul_internal": "Mitos vs Fakta — Fakta Cepat (Pak Bahri @ Rumah giling & roastery (Mandailing))",
-    "hook": "Tau nggak kenapa kopi organik berarti tanpa proses sama sekali?",
+    "hook": "Tau nggak kenapa kopi mahal pasti lebih enak?",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar."
+      "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga."
     ],
     "cta": "Follow biar kamu makin banyak tau fakta kopi Sumatra!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga.",
     "shot_list": [
       {
         "shot": 1,
@@ -3645,15 +3645,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "expensive coffee beans premium closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Tau nggak kenapa kopi organik berarti tanpa proses sama sekali? Eps 80/100 🌱☕",
+    "tiktok_caption": "Tau nggak kenapa kopi mahal pasti lebih enak? Eps 80/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 80/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi mahal tidak selalu berarti kopi enak - cocok di lidah lebih penting dari harga. Eps 80/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 81,
@@ -3761,12 +3761,12 @@
     "narator_name": "Adit",
     "durasi_target": "15-20 detik",
     "judul_internal": "Karakter Rasa & Cupping — Fakta Cepat (Adit @ Rumah giling & roastery (Mandailing))",
-    "hook": "Tau nggak kenapa after-taste kopi sumatra tahan lama?",
+    "hook": "Tau nggak kenapa kopi sumatra rasanya earthy bukan asam?",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah."
+      "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas."
     ],
     "cta": "Follow biar kamu makin banyak tau fakta kopi Sumatra!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas.",
     "shot_list": [
       {
         "shot": 1,
@@ -3778,15 +3778,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "coffee cupping tasting spoon closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Tau nggak kenapa after-taste kopi sumatra tahan lama? Eps 83/100 🌱☕",
+    "tiktok_caption": "Tau nggak kenapa kopi sumatra rasanya earthy bukan asam? Eps 83/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 83/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi Sumatra dikenal dengan rasa earthy, herbal, dan rempah yang khas. Eps 83/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 84,
@@ -3800,12 +3800,12 @@
     "narator_name": "Kak Nur",
     "durasi_target": "15-20 detik",
     "judul_internal": "Karakter Rasa & Cupping — Fakta Cepat (Kak Nur @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Tau nggak kenapa after-taste kopi sumatra tahan lama?",
+    "hook": "Tau nggak kenapa body kopi sumatra setebal sirup?",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah."
+      "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy)."
     ],
     "cta": "Follow biar kamu makin banyak tau fakta kopi Sumatra!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy).",
     "shot_list": [
       {
         "shot": 1,
@@ -3817,15 +3817,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "thick coffee pour syrupy texture",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Tau nggak kenapa after-taste kopi sumatra tahan lama? Eps 84/100 🌱☕",
+    "tiktok_caption": "Tau nggak kenapa body kopi sumatra setebal sirup? Eps 84/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 84/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Body kopi Sumatra sangat tebal, sering digambarkan seperti sirup (syrupy). Eps 84/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 85,
@@ -3839,12 +3839,12 @@
     "narator_name": "Adit",
     "durasi_target": "20-30 detik",
     "judul_internal": "Karakter Rasa & Cupping — Tanya Jawab Interaktif (Adit @ Warung kopi & brewing)",
-    "hook": "Adit mau tanya: menurut kamu kenapa after-taste kopi sumatra tahan lama?",
+    "hook": "Adit mau tanya: menurut kamu kenapa keasaman kopi sumatra tergolong rendah?",
     "beats": [
-      "After-taste kopi Sumatra biasanya bertahan lama di lidah."
+      "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain."
     ],
     "cta": "Tulis jawabanmu di komentar, nanti dijawab Adit di video berikutnya!",
-    "caption_on_screen": "After-taste kopi Sumatra biasanya bertahan lama di lidah.",
+    "caption_on_screen": "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain.",
     "shot_list": [
       {
         "shot": 1,
@@ -3856,15 +3856,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee cup steam closeup aftertaste",
+        "search_keywords": "coffee tasting expression closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Adit mau tanya: menurut kamu kenapa after-taste kopi sumatra tahan lama? Eps 85/100 🌱☕",
+    "tiktok_caption": "Adit mau tanya: menurut kamu kenapa keasaman kopi sumatra tergolong rendah? Eps 85/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #citarasa #edukasikopi #coffeetok",
     "youtube_title": "Karakter Rasa & Cupping #Shorts",
-    "youtube_description": "After-taste kopi Sumatra biasanya bertahan lama di lidah. Eps 85/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Keasaman kopi Sumatra tergolong rendah-sedang dibanding kopi washed dari negara lain. Eps 85/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 86,
@@ -3878,13 +3878,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Sortasi & Fermentasi — Di Balik Layar (Kak Nur @ Rumah giling & roastery (Mandailing))",
-    "hook": "Ini sisi yang jarang orang lihat dari sortasi memengaruhi harga jual kopi.",
+    "hook": "Ini sisi yang jarang orang lihat dari biji kopi disortir satu per satu pakai tangan.",
     "beats": [
-      "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
-      "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang."
+      "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang.",
+      "Grading seperti 'Mandheling Grade 1' ditentukan dari jumlah cacat per 300 gram sampel."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
+    "caption_on_screen": "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang.",
     "shot_list": [
       {
         "shot": 1,
@@ -3896,22 +3896,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee warehouse sacks grading",
+        "search_keywords": "hand sorting coffee beans defects table",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "hand sorting coffee beans defects table",
+        "search_keywords": "coffee grading quality control closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari sortasi memengaruhi harga jual kopi. Eps 86/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari biji kopi disortir satu per satu pakai tangan. Eps 86/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #sortasifermentasi #edukasikopi #coffeetok",
     "youtube_title": "Sortasi & Fermentasi #Shorts",
-    "youtube_description": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir. Eps 86/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang. Eps 86/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 87,
@@ -3925,12 +3925,12 @@
     "narator_name": "Kak Nur",
     "durasi_target": "20-30 detik",
     "judul_internal": "Proses Roasting — Tanya Jawab Interaktif (Kak Nur @ Warung kopi & brewing)",
-    "hook": "Kak Nur mau tanya: menurut kamu kenapa biji kopi berubah drastis saat di-roast?",
+    "hook": "Kak Nur mau tanya: menurut kamu kenapa suhu roasting menentukan rasa akhir kopi?",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting."
+      "Suhu dan waktu roasting yang tepat menentukan apakah rasa jadi gosong atau kaya rasa."
     ],
     "cta": "Tulis jawabanmu di komentar, nanti dijawab Kak Nur di video berikutnya!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "Suhu dan waktu roasting yang tepat menentukan apakah rasa jadi gosong atau kaya rasa.",
     "shot_list": [
       {
         "shot": 1,
@@ -3942,15 +3942,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "coffee beans first crack roasting",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Kak Nur mau tanya: menurut kamu kenapa biji kopi berubah drastis saat di-roast? Eps 87/100 🌱☕",
+    "tiktok_caption": "Kak Nur mau tanya: menurut kamu kenapa suhu roasting menentukan rasa akhir kopi? Eps 87/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 87/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Suhu dan waktu roasting yang tepat menentukan apakah rasa jadi gosong atau kaya rasa. Eps 87/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 88,
@@ -4003,13 +4003,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Proses Roasting — Sejarah Singkat (Kak Nur @ Rumah giling & roastery (Mandailing))",
-    "hook": "Sejarah singkat kenapa biji kopi berubah drastis saat di-roast.",
+    "hook": "Sejarah singkat kenapa ada istilah first crack dan second crack saat roasting.",
     "beats": [
-      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
-      "Karena body-nya tebal, kopi Sumatra sering di-roast pada level medium hingga dark."
+      "First crack dan second crack adalah dua penanda penting dalam proses roasting kopi.",
+      "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting."
     ],
     "cta": "Mau tau sejarah kopi lainnya? Follow ya!",
-    "caption_on_screen": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting.",
+    "caption_on_screen": "First crack dan second crack adalah dua penanda penting dalam proses roasting kopi.",
     "shot_list": [
       {
         "shot": 1,
@@ -4021,22 +4021,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee beans color change roasting process",
+        "search_keywords": "roasting machine coffee shop interior",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "coffee roasting drum machine smoke",
+        "search_keywords": "coffee beans color change roasting process",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Sejarah singkat kenapa biji kopi berubah drastis saat di-roast. Eps 89/100 🌱☕",
+    "tiktok_caption": "Sejarah singkat kenapa ada istilah first crack dan second crack saat roasting. Eps 89/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #roasting #edukasikopi #coffeetok",
     "youtube_title": "Proses Roasting #Shorts",
-    "youtube_description": "Biji kopi kehilangan berat dan berubah warna drastis selama proses roasting. Eps 89/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "First crack dan second crack adalah dua penanda penting dalam proses roasting kopi. Eps 89/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 90,
@@ -4050,12 +4050,12 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "15-20 detik",
     "judul_internal": "Penanaman & Perawatan — Fakta Cepat (Pak Bahri @ Warung kopi & brewing)",
-    "hook": "Tau nggak kenapa naungan pohon menjaga kelembapan tanah?",
+    "hook": "Tau nggak kenapa kebun kopi sumatra banyak yang semi-organik?",
     "beats": [
-      "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering."
+      "Kebun rakyat Sumatra umumnya semi-organik, pupuk dari kompos & sisa panen sendiri."
     ],
     "cta": "Follow biar kamu makin banyak tau fakta kopi Sumatra!",
-    "caption_on_screen": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering.",
+    "caption_on_screen": "Kebun rakyat Sumatra umumnya semi-organik, pupuk dari kompos & sisa panen sendiri.",
     "shot_list": [
       {
         "shot": 1,
@@ -4067,15 +4067,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "shade tree coffee farm sunlight",
+        "search_keywords": "organic compost coffee farm soil",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Tau nggak kenapa naungan pohon menjaga kelembapan tanah? Eps 90/100 🌱☕",
+    "tiktok_caption": "Tau nggak kenapa kebun kopi sumatra banyak yang semi-organik? Eps 90/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #penanaman #edukasikopi #coffeetok",
     "youtube_title": "Penanaman & Perawatan #Shorts",
-    "youtube_description": "Naungan pohon juga membantu menjaga kelembapan tanah di musim kering. Eps 90/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kebun rakyat Sumatra umumnya semi-organik, pupuk dari kompos & sisa panen sendiri. Eps 90/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 91,
@@ -4091,11 +4091,11 @@
     "judul_internal": "Asal-usul & Geografi — Day in the Life (Adit @ Warung kopi & brewing)",
     "hook": "Sehari mengikuti Adit di Warung kopi & brewing.",
     "beats": [
-      "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
-      "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara)."
+      "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara).",
+      "Kopi Gayo ditanam di ketinggian 1.100-1.700 mdpl, salah satu tertinggi di Indonesia."
     ],
     "cta": "Follow buat ikutin keseharian Adit bikin kopi Sumatra tiap hari!",
-    "caption_on_screen": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta.",
+    "caption_on_screen": "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara).",
     "shot_list": [
       {
         "shot": 1,
@@ -4107,14 +4107,14 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "arabica coffee cherries close up branch",
+        "search_keywords": "aerial highland coffee plantation Indonesia",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "aerial highland coffee plantation Indonesia",
+        "search_keywords": "coffee farm misty mountains high altitude",
         "source": "",
         "license": ""
       }
@@ -4122,7 +4122,7 @@
     "tiktok_caption": "Sehari mengikuti Adit di Warung kopi & brewing. Eps 91/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #asalusul #edukasikopi #coffeetok",
     "youtube_title": "Asal-usul & Geografi #Shorts",
-    "youtube_description": "Sumatra didominasi kopi Arabika di dataran tinggi, bukan Robusta. Eps 91/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Tiga sentra utama kopi Sumatra: Gayo (Aceh), Lintong, dan Mandailing (Sumatera Utara). Eps 91/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 92,
@@ -4136,13 +4136,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Budaya Ngopi & Petani — Perbandingan (Kak Nur @ Warung kopi & brewing)",
-    "hook": "Warung kopi & brewing: mari kita bandingkan dua sisi soal harga kopi dunia memengaruhi petani kecil.",
+    "hook": "Warung kopi & brewing: mari kita bandingkan dua sisi soal rantai kopi sumatra panjang dari petani sampai kafe.",
     "beats": [
-      "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
-      "Warung kopi adalah pusat sosial di Aceh, tempat diskusi hingga transaksi bisnis."
+      "Rantai pasok kopi Sumatra: petani, pengepul/koperasi, prosesor, eksportir, lalu kafe.",
+      "Perubahan iklim membuat pola musim panen kopi Sumatra makin sulit diprediksi."
     ],
     "cta": "Menurut kamu mana yang lebih menarik? Komen di bawah!",
-    "caption_on_screen": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil.",
+    "caption_on_screen": "Rantai pasok kopi Sumatra: petani, pengepul/koperasi, prosesor, eksportir, lalu kafe.",
     "shot_list": [
       {
         "shot": 1,
@@ -4154,22 +4154,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee market price board trading",
+        "search_keywords": "coffee farmer family portrait",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "traditional coffee shop Aceh interior people",
+        "search_keywords": "coffee plantation landscape climate",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Warung kopi & brewing: mari kita bandingkan dua sisi soal harga kopi dunia memengaruhi petani kecil. Eps 92/100 🌱☕",
+    "tiktok_caption": "Warung kopi & brewing: mari kita bandingkan dua sisi soal rantai kopi sumatra panjang dari petani sampai kafe. Eps 92/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #budaya #edukasikopi #coffeetok",
     "youtube_title": "Budaya Ngopi & Petani #Shorts",
-    "youtube_description": "Harga kopi dunia yang fluktuatif berdampak langsung pada pendapatan petani kecil. Eps 92/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Rantai pasok kopi Sumatra: petani, pengepul/koperasi, prosesor, eksportir, lalu kafe. Eps 92/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 93,
@@ -4183,12 +4183,12 @@
     "narator_name": "Kak Nur",
     "durasi_target": "15-20 detik",
     "judul_internal": "Proses Giling Basah (ciri khas Sumatra) — Fakta Cepat (Kak Nur @ Warung kopi & brewing)",
-    "hook": "Tau nggak kenapa petani sumatra mengembangkan giling basah?",
+    "hook": "Tau nggak kenapa biji kopi sumatra berwarna kebiruan?",
     "beats": [
-      "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap."
+      "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra."
     ],
     "cta": "Follow biar kamu makin banyak tau fakta kopi Sumatra!",
-    "caption_on_screen": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap.",
+    "caption_on_screen": "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra.",
     "shot_list": [
       {
         "shot": 1,
@@ -4200,15 +4200,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee mill house rural Indonesia",
+        "search_keywords": "wet coffee parchment beans pile",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Tau nggak kenapa petani sumatra mengembangkan giling basah? Eps 93/100 🌱☕",
+    "tiktok_caption": "Tau nggak kenapa biji kopi sumatra berwarna kebiruan? Eps 93/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #gilingbasah #edukasikopi #coffeetok",
     "youtube_title": "Proses Giling Basah (ciri khas Sumatra) #Shorts",
-    "youtube_description": "Giling basah berkembang sebagai solusi petani menghadapi cuaca tropis yang lembap. Eps 93/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Giling basah (wet-hulling) adalah proses pascapanen unik yang cuma umum di Sumatra. Eps 93/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 94,
@@ -4222,12 +4222,12 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "20-30 detik",
     "judul_internal": "Sortasi & Fermentasi — Tanya Jawab Interaktif (Pak Bahri @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Pak Bahri mau tanya: menurut kamu kenapa sortasi memengaruhi harga jual kopi?",
+    "hook": "Pak Bahri mau tanya: menurut kamu kenapa grade kopi ditentukan dari jumlah biji cacat?",
     "beats": [
-      "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir."
+      "Grading seperti 'Mandheling Grade 1' ditentukan dari jumlah cacat per 300 gram sampel."
     ],
     "cta": "Tulis jawabanmu di komentar, nanti dijawab Pak Bahri di video berikutnya!",
-    "caption_on_screen": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
+    "caption_on_screen": "Grading seperti 'Mandheling Grade 1' ditentukan dari jumlah cacat per 300 gram sampel.",
     "shot_list": [
       {
         "shot": 1,
@@ -4239,15 +4239,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee warehouse sacks grading",
+        "search_keywords": "coffee grading quality control closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Pak Bahri mau tanya: menurut kamu kenapa sortasi memengaruhi harga jual kopi? Eps 94/100 🌱☕",
+    "tiktok_caption": "Pak Bahri mau tanya: menurut kamu kenapa grade kopi ditentukan dari jumlah biji cacat? Eps 94/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #sortasifermentasi #edukasikopi #coffeetok",
     "youtube_title": "Sortasi & Fermentasi #Shorts",
-    "youtube_description": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir. Eps 94/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Grading seperti 'Mandheling Grade 1' ditentukan dari jumlah cacat per 300 gram sampel. Eps 94/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 95,
@@ -4261,13 +4261,13 @@
     "narator_name": "Adit",
     "durasi_target": "20-30 detik",
     "judul_internal": "Panen (Petik Merah) — Mitos vs Fakta (Adit @ Rumah giling & roastery (Mandailing))",
-    "hook": "Katanya panen jadi tahap paling padat karya. Beneran gitu?",
+    "hook": "Katanya musim panen tiap daerah di sumatra beda-beda. Beneran gitu?",
     "beats": [
-      "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi.",
-      "Kopi kualitas terbaik dipanen manual, hanya ceri yang sudah merah matang (petik merah)."
+      "Musim panen raya di Sumatra mengikuti pola hujan setempat, beda tiap daerah.",
+      "Petani berpengalaman bisa menilai kematangan ceri hanya dari warna dan sedikit tekanan jari."
     ],
     "cta": "Follow biar kamu nggak salah kaprah soal kopi lagi!",
-    "caption_on_screen": "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi.",
+    "caption_on_screen": "Musim panen raya di Sumatra mengikuti pola hujan setempat, beda tiap daerah.",
     "shot_list": [
       {
         "shot": 1,
@@ -4279,22 +4279,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "farmers harvesting coffee manual labor",
+        "search_keywords": "coffee farm harvest season rain",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "farmer hand picking ripe red coffee cherries",
+        "search_keywords": "close up hand selecting ripe coffee cherry",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Katanya panen jadi tahap paling padat karya. Beneran gitu? Eps 95/100 🌱☕",
+    "tiktok_caption": "Katanya musim panen tiap daerah di sumatra beda-beda. Beneran gitu? Eps 95/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #panen #edukasikopi #coffeetok",
     "youtube_title": "Panen (Petik Merah) #Shorts",
-    "youtube_description": "Panen adalah tahap paling padat karya dalam seluruh rantai produksi kopi. Eps 95/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Musim panen raya di Sumatra mengikuti pola hujan setempat, beda tiap daerah. Eps 95/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 96,
@@ -4308,12 +4308,12 @@
     "narator_name": "Adit",
     "durasi_target": "15-20 detik",
     "judul_internal": "Metode Seduh — Fakta Cepat (Adit @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Tau nggak kenapa ukuran gilingan memengaruhi rasa kopi?",
+    "hook": "Tau nggak kenapa french press cocok banget buat kopi sumatra?",
     "beats": [
-      "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun."
+      "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra."
     ],
     "cta": "Follow biar kamu makin banyak tau fakta kopi Sumatra!",
-    "caption_on_screen": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
+    "caption_on_screen": "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra.",
     "shot_list": [
       {
         "shot": 1,
@@ -4325,15 +4325,15 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee grinder grinding beans closeup",
+        "search_keywords": "french press coffee pouring closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Tau nggak kenapa ukuran gilingan memengaruhi rasa kopi? Eps 96/100 🌱☕",
+    "tiktok_caption": "Tau nggak kenapa french press cocok banget buat kopi sumatra? Eps 96/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #brewing #edukasikopi #coffeetok",
     "youtube_title": "Metode Seduh #Shorts",
-    "youtube_description": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun. Eps 96/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra. Eps 96/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 97,
@@ -4347,13 +4347,13 @@
     "narator_name": "Pak Bahri",
     "durasi_target": "20-30 detik",
     "judul_internal": "Mitos vs Fakta — Tutorial Mini (Pak Bahri @ Warung kopi & brewing)",
-    "hook": "Begini cara kopi organik berarti tanpa proses sama sekali, gampang kok!",
+    "hook": "Begini cara kopi sumatra itu kopi paling pahit, gampang kok!",
     "beats": [
-      "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
-      "Tidak semua kopi Sumatra adalah kopi luwak - luwak hanya sebagian sangat kecil dari produksi."
+      "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal.",
+      "Warna biji hijau kebiruan bukan tanda kopi rusak, itu justru ciri khas proses giling basah."
     ],
     "cta": "Save video ini biar nggak lupa langkahnya!",
-    "caption_on_screen": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar.",
+    "caption_on_screen": "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal.",
     "shot_list": [
       {
         "shot": 1,
@@ -4365,22 +4365,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "organic coffee certification label",
+        "search_keywords": "coffee cup dark roast pouring",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "civet coffee luwak myth graphic",
+        "search_keywords": "green coffee beans bluish myth closeup",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Begini cara kopi organik berarti tanpa proses sama sekali, gampang kok! Eps 97/100 🌱☕",
+    "tiktok_caption": "Begini cara kopi sumatra itu kopi paling pahit, gampang kok! Eps 97/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #mitosfakta #edukasikopi #coffeetok",
     "youtube_title": "Mitos vs Fakta #Shorts",
-    "youtube_description": "Kopi Sumatra organik tidak otomatis berarti tanpa proses sama sekali - tetap melalui giling basah standar. Eps 97/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi Sumatra bukan kopi 'paling pahit' - rasa pahit berlebih biasanya tanda over-roast, bukan ciri asal. Eps 97/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 98,
@@ -4394,13 +4394,13 @@
     "narator_name": "Adit",
     "durasi_target": "25-35 detik",
     "judul_internal": "Metode Seduh — Sejarah Singkat (Adit @ Warung kopi & brewing)",
-    "hook": "Sejarah singkat kenapa ukuran gilingan memengaruhi rasa kopi.",
+    "hook": "Sejarah singkat kenapa kopi aceh diseduh dengan cara ditarik-tarik.",
     "beats": [
-      "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
-      "French press dan moka pot sangat cocok untuk menonjolkan body tebal kopi Sumatra."
+      "Kopi saring khas Aceh diseduh lalu 'ditarik' bolak-balik antar wadah seperti teh tarik.",
+      "Teknik tarik pada kopi Aceh menghasilkan buih dan melarutkan rasa lebih merata."
     ],
     "cta": "Mau tau sejarah kopi lainnya? Follow ya!",
-    "caption_on_screen": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun.",
+    "caption_on_screen": "Kopi saring khas Aceh diseduh lalu 'ditarik' bolak-balik antar wadah seperti teh tarik.",
     "shot_list": [
       {
         "shot": 1,
@@ -4412,22 +4412,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee grinder grinding beans closeup",
+        "search_keywords": "traditional Aceh coffee pulled pouring",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "french press coffee pouring closeup",
+        "search_keywords": "coffee frothy pour traditional cloth filter",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Sejarah singkat kenapa ukuran gilingan memengaruhi rasa kopi. Eps 98/100 🌱☕",
+    "tiktok_caption": "Sejarah singkat kenapa kopi aceh diseduh dengan cara ditarik-tarik. Eps 98/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #brewing #edukasikopi #coffeetok",
     "youtube_title": "Metode Seduh #Shorts",
-    "youtube_description": "Ukuran gilingan (grind size) sangat memengaruhi rasa akhir dari metode seduh apapun. Eps 98/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Kopi saring khas Aceh diseduh lalu 'ditarik' bolak-balik antar wadah seperti teh tarik. Eps 98/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 99,
@@ -4441,13 +4441,13 @@
     "narator_name": "Kak Nur",
     "durasi_target": "25-35 detik",
     "judul_internal": "Sortasi & Fermentasi — Di Balik Layar (Kak Nur @ Kebun dataran tinggi (Gayo/Lintong))",
-    "hook": "Ini sisi yang jarang orang lihat dari sortasi memengaruhi harga jual kopi.",
+    "hook": "Ini sisi yang jarang orang lihat dari kopi difermentasi semalam sebelum dicuci.",
     "beats": [
-      "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
-      "Setelah giling basah, biji kopi disortasi manual untuk membuang biji cacat atau berlubang."
+      "Fermentasi semalam sebelum dicuci membantu melepaskan lapisan lendir di kulit tanduk.",
+      "Sortasi manual biasanya dikerjakan ibu-ibu di sekitar kebun sebagai sumber penghasilan tambahan."
     ],
     "cta": "Follow buat lihat lebih banyak sisi di balik layar kopi Sumatra!",
-    "caption_on_screen": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir.",
+    "caption_on_screen": "Fermentasi semalam sebelum dicuci membantu melepaskan lapisan lendir di kulit tanduk.",
     "shot_list": [
       {
         "shot": 1,
@@ -4459,22 +4459,22 @@
       {
         "shot": 2,
         "purpose": "isi",
-        "search_keywords": "coffee warehouse sacks grading",
+        "search_keywords": "coffee beans fermentation tank",
         "source": "",
         "license": ""
       },
       {
         "shot": 3,
         "purpose": "isi",
-        "search_keywords": "hand sorting coffee beans defects table",
+        "search_keywords": "women sorting coffee beans village",
         "source": "",
         "license": ""
       }
     ],
-    "tiktok_caption": "Ini sisi yang jarang orang lihat dari sortasi memengaruhi harga jual kopi. Eps 99/100 🌱☕",
+    "tiktok_caption": "Ini sisi yang jarang orang lihat dari kopi difermentasi semalam sebelum dicuci. Eps 99/100 🌱☕",
     "tiktok_hashtags": "#kopisumatra #sortasifermentasi #edukasikopi #coffeetok",
     "youtube_title": "Sortasi & Fermentasi #Shorts",
-    "youtube_description": "Kualitas sortasi sangat memengaruhi harga jual kopi ke eksportir. Eps 99/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
+    "youtube_description": "Fermentasi semalam sebelum dicuci membantu melepaskan lapisan lendir di kulit tanduk. Eps 99/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. #kopisumatra #edukasikopi #Shorts"
   },
   {
     "index": 100,

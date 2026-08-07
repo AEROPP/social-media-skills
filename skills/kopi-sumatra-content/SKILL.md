@@ -25,13 +25,23 @@ karena AI-generated video terus-menerus jauh lebih mahal di skala 100/hari, seme
 YouTube orang lain tanpa izin adalah pelanggaran hak cipta & ToS — jangan pernah menyarankan itu.
 Lihat `references/sumber-footage-berlisensi.md` untuk detail sumber yang legal.
 
-## Kenapa dibutuhkan sistem, bukan ditulis manual
+## Skala saat ini: 10 video/hari (pilot), menuju 100/hari
 
-100 video/hari tidak bisa ditulis satu-satu secara manual dan tetap konsisten. Skill ini memakai sistem
-rotasi kombinatorial (**Pilar × Format × Kategori Footage × Narator**, 900 kombinasi total) supaya
-setiap video punya sudut cerita berbeda meski sebagian footage-nya dipakai ulang. Baca
-`references/content-pillars.md` untuk detail sistem ini sebelum menulis apa pun — semua langkah di
-bawah bergantung padanya.
+Operasional dimulai dari **10 video/hari** untuk validasi format sebelum naik ke target 100/hari.
+Di skala 10/hari, jumlahnya cukup kecil untuk **disunting manual satu per satu** — termasuk mengoreksi
+narator yang kurang cocok dengan pilar (lihat peta keahlian di `content-pillars.md`) dan membedakan
+sudut cerita kalau ada pilar yang kebetulan muncul lebih dari sekali dalam sehari. Lihat contoh lengkap
+yang sudah disunting di `output/2026-08-07-pilot-10/produksi-10-video.md`. Begitu formatnya terbukti
+(retention/engagement bagus di TikTok/YouTube Studio setelah beberapa minggu), naikkan `--count` secara
+bertahap — di skala 100/hari, koreksi manual per video sudah tidak realistis lagi, jadi sistem rotasi
+otomatis dan overlay grafis generik yang menjaga variasi (lihat `content-pillars.md`).
+
+## Kenapa dibutuhkan sistem rotasi, bukan ditulis manual dari nol
+
+Skill ini memakai sistem rotasi kombinatorial (**Pilar × Format × Kategori Footage × Narator**, 900
+kombinasi total) supaya setiap video punya sudut cerita berbeda meski sebagian footage-nya dipakai
+ulang. Baca `references/content-pillars.md` untuk detail sistem ini sebelum menulis apa pun — semua
+langkah di bawah bergantung padanya.
 
 ## Alur kerja
 
@@ -40,9 +50,10 @@ bawah bergantung padanya.
    (harga, volume ekspor, harga lisensi footage terbaru), ingatkan bahwa itu perlu dicek ke sumber
    terbaru — jangan mengarang angka.
 
-2. **Tentukan tanggal & jumlah batch.** Jalankan generator untuk mendapat kerangka hari itu:
+2. **Tentukan tanggal & jumlah batch.** Jalankan generator untuk mendapat kerangka hari itu (mulai
+   dari `--count 10` di fase pilot):
    ```
-   python skills/kopi-sumatra-content/scripts/generate_batch.py --date YYYY-MM-DD --count 100 \
+   python skills/kopi-sumatra-content/scripts/generate_batch.py --date YYYY-MM-DD --count 10 \
      --out-dir output/YYYY-MM-DD
    ```
    Ini menghasilkan `batch.json` dan `batch.csv` berisi kombinasi pilar/format/kategori-footage/

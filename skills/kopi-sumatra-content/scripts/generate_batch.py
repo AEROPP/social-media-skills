@@ -18,6 +18,7 @@ import csv
 import itertools
 import json
 import random
+from collections import Counter
 from datetime import date, datetime
 from pathlib import Path
 
@@ -432,36 +433,36 @@ def combos_for_date(target_date: date, count: int):
     return order[start:] + order[: end - n]
 
 
-def pick_facts(pilar_id: str, target_date: date, how_many: int):
+def pick_facts(pilar_id: str, target_date: date, how_many: int, salt: int = 0):
     facts = PILLARS[pilar_id]["facts"]
-    offset = target_date.toordinal() % len(facts)
+    offset = (target_date.toordinal() + salt) % len(facts)
     rotated = facts[offset:] + facts[:offset]
     return rotated[:how_many]
 
 
-def pick_angle(pilar_id: str, target_date: date):
+def pick_angle(pilar_id: str, target_date: date, salt: int = 0):
     angles = ANGLES[pilar_id]
-    offset = target_date.toordinal() % len(angles)
+    offset = (target_date.toordinal() + salt) % len(angles)
     return angles[offset]
 
 
-def pick_footage_keywords(pilar_id: str, target_date: date, how_many: int):
+def pick_footage_keywords(pilar_id: str, target_date: date, how_many: int, salt: int = 0):
     keywords = FOOTAGE_KEYWORDS[pilar_id]
-    offset = target_date.toordinal() % len(keywords)
+    offset = (target_date.toordinal() + salt) % len(keywords)
     rotated = keywords[offset:] + keywords[:offset]
     return rotated[:how_many]
 
 
-def build_video(pilar_id, format_id, kategori_id, narator_id, target_date, index):
+def build_video(pilar_id, format_id, kategori_id, narator_id, target_date, index, total, salt=0):
     pilar = PILLARS[pilar_id]
     fmt = FORMATS[format_id]
     kategori = FOOTAGE_CATEGORIES[kategori_id]
     narator = NARRATORS[narator_id]
 
     beats_needed = fmt["beats"]
-    facts = pick_facts(pilar_id, target_date, beats_needed)
-    footage_keywords = pick_footage_keywords(pilar_id, target_date, beats_needed)
-    topic_lower = pick_angle(pilar_id, target_date)
+    facts = pick_facts(pilar_id, target_date, beats_needed, salt)
+    footage_keywords = pick_footage_keywords(pilar_id, target_date, beats_needed, salt)
+    topic_lower = pick_angle(pilar_id, target_date, salt)
 
     hook = fmt["hook"].format(
         topic_lower=topic_lower, kategori_name=kategori["name"], narator_name=narator["name"]
@@ -498,10 +499,10 @@ def build_video(pilar_id, format_id, kategori_id, narator_id, target_date, index
         )
 
     hashtags = f"#kopisumatra #{pilar_id.replace('_','')} #edukasikopi #coffeetok"
-    tiktok_caption = f"{hook} Eps {index}/100 🌱☕"
+    tiktok_caption = f"{hook} Eps {index}/{total} 🌱☕"
     yt_title = f"{title.split(' — ')[0]} #Shorts"
     yt_description = (
-        f"{beats[0] if beats else hook} Eps {index}/100 seri Kopi Sumatra: Dari Kebun ke Cangkir. "
+        f"{beats[0] if beats else hook} Eps {index}/{total} seri Kopi Sumatra: Dari Kebun ke Cangkir. "
         f"#kopisumatra #edukasikopi #Shorts"
     )
 
@@ -531,10 +532,19 @@ def build_video(pilar_id, format_id, kategori_id, narator_id, target_date, index
 
 def generate(target_date: date, count: int):
     combos = combos_for_date(target_date, count)
-    return [
-        build_video(pilar_id, format_id, kategori_id, narator_id, target_date, i + 1)
-        for i, (pilar_id, format_id, kategori_id, narator_id) in enumerate(combos)
-    ]
+    # When the same pilar shows up more than once in a day's batch (common at low `count`,
+    # since combos aren't stratified by pilar), salt its fact/angle/keyword rotation by how
+    # many times it's already appeared today — otherwise repeated pillars would pick the exact
+    # same facts and read as duplicate videos.
+    pilar_occurrence = Counter()
+    videos = []
+    for i, (pilar_id, format_id, kategori_id, narator_id) in enumerate(combos):
+        salt = pilar_occurrence[pilar_id]
+        pilar_occurrence[pilar_id] += 1
+        videos.append(
+            build_video(pilar_id, format_id, kategori_id, narator_id, target_date, i + 1, count, salt)
+        )
+    return videos
 
 
 def write_outputs(videos, out_dir: Path):

@@ -9,6 +9,25 @@ opsi upgrade nanti kalau dibutuhkan.
 **Harga di bawah hasil pencarian web per Agustus 2026** dan bisa berubah — cek ulang harga resmi
 (terutama tarif TTS/stitching) sebelum commit budget besar.
 
+## 0. Fase pilot saat ini: 10 video/hari
+
+Skala operasional yang sedang berjalan (lihat `output/2026-08-07-pilot-10/produksi-10-video.md`)
+adalah **10 video/hari**, bukan 100. Biaya per video sama saja (footage tetap $0, cuma voiceover +
+stitching), tapi totalnya jauh lebih kecil karena volumenya 10x lebih sedikit — dan di skala ini,
+kurasi masih dikerjakan manual per video, jadi jam kerjanya juga lebih sedikit dari asumsi 100/hari:
+
+| | Estimasi (10 video/hari, 300 video/bulan) |
+|---|---|
+| Biaya berjalan (voiceover + stitching) | $1,2-2,3/hari → **$36-69/bulan** |
+| Kurasi footage + QA manual (~1-1,5 jam/hari @ ~$6/jam) | **~$180-270/bulan** |
+| Storage (±300 file/bulan) | ~$2-3/bulan |
+| Otomasi n8n | $0 (di skala ini masih wajar dikerjakan manual tanpa otomasi) |
+| **Total/bulan (fase pilot)** | **≈ $220-340/bulan (≈ Rp 3,5-5,4 juta)** |
+
+Semua angka di bagian 1-8 di bawah tetap dihitung untuk **target 100 video/hari** (skenario setelah
+pilot terbukti dan siap naik skala) — gunakan sebagai referensi kapan waktunya scale-up masuk akal
+secara biaya vs. hasil (retention, follower growth) dari fase pilot ini.
+
 ## 1. Biaya footage: $0
 
 Pexels dan Pixabay: gratis untuk pemakaian komersial, tanpa batas jumlah unduhan, tanpa batas
