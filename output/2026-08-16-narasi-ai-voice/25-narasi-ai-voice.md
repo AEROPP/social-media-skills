@@ -131,7 +131,7 @@ banyak tool voice AI modern (ElevenLabs, Play.ht) membaca jeda dari tanda baca o
 ```
 "Tiga alasan kopi Sumatra nggak asem." (jeda)
 "Satu — giling basah mengurangi tingkat keasaman dibanding proses washed penuh." (jeda)
-"Dua — sering di-roasting medium sampai dark, yang menurunkan keasaman lebih jauh." (jeda)
+"Dua — sering di-roasting medium sampai dark, suhu akhir biji sekitar 215 sampai 225 derajat celcius, yang menurunkan keasaman lebih jauh." (jeda)
 "Tiga — dataran tinggi memperlambat pematangan ceri, bikin rasa lebih kompleks dan lembut." (jeda)
 "Follow buat fakta kopi cepat lainnya."
 ```
@@ -221,7 +221,7 @@ banyak tool voice AI modern (ElevenLabs, Play.ht) membaca jeda dari tanda baca o
 "Kenapa petani nggak panen semua ceri kopi sekaligus aja?" (jeda)
 "Soalnya ceri kopi matangnya nggak bareng." (jeda)
 "Kalau diborong, yang belum matang ikut kepetik, dan bikin rasa jadi pahit." (jeda)
-"Ini disebut petik merah — kerja manual demi kualitas, bukan soal lambat." (jeda)
+"Ini disebut petik merah — kerja manual demi kualitas, bukan soal lambat. Dari kebun kecil 0,5 sampai 2 hektar, hasil panennya cuma 50 sampai 200 kilogram kopi kering per periode." (jeda)
 "Menurutmu, capek nggak kerjaan kayak ini? Komen pendapatmu."
 ```
 
@@ -257,7 +257,7 @@ banyak tool voice AI modern (ElevenLabs, Play.ht) membaca jeda dari tanda baca o
 "Harga kopi dunia naik-turun terus. Siapa yang paling kena dampaknya?" (jeda)
 "Fluktuasi harga kopi dunia ditentukan pasar global, bukan petani kecil." (jeda)
 "Petani kecil kayak ini yang paling langsung kena dampaknya." (jeda)
-"Nggak selalu kenaikan harga langsung dinikmati petani di ujung rantai." (jeda)
+"Nggak selalu kenaikan harga langsung dinikmati petani — rata-rata petani cuma menerima sekitar sepuluh sampai dua puluh persen dari harga eceran kopi." (jeda)
 "Follow biar kamu makin paham cerita di balik secangkir kopi Sumatra."
 ```
 

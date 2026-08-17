@@ -87,6 +87,43 @@ Revisi ini sudah diterapkan di keempat file (dicari & diganti persis di tiap kem
   biasanya menyerap minyak kopi — kain nggak") — ini justru sudah akurat dari awal, jadi dipertahankan;
   hanya baris pertamanya (soal "menyaring lebih halus") yang keliru dan sudah diperbaiki di atas.
 
+## Update 16 Agustus 2026 — Penerapan data dari handbook kopi umum (PDF "Ringkasan Eksekutif")
+
+User memberikan satu PDF handbook kopi umum (budidaya → pascapanen → roasting → seduh → cupping SCA →
+rantai nilai bisnis) untuk diterapkan ke `master-konten-25-branded.md`. **Catatan sumber:** dokumen ini
+punya watermark ChatGPT dan format sitasi 【angka†L...】 yang tidak bisa diverifikasi balik ke sumber
+aslinya (BPTP/SCA/ICO yang disebut tidak bisa dicek langsung) — jadi diperlakukan sebagai **kompilasi
+sekunder**, bukan sumber primer setara `riset-kopi-sumatra.md`. Hanya data yang (a) bersifat teknis/umum
+dan sudah dikenal luas di industri kopi specialty, atau (b) tidak bertentangan dengan riset Sumatra yang
+sudah ada, yang diterapkan ke konten. Angka nasional yang lebih spesifik/berumur (mis. "25% kebun kopi
+Indonesia tersertifikasi pada 2023", "produksi nasional ≈789.000 ton/th") **sengaja tidak dimasukkan**
+ke konten viral — terlalu spesifik-tanggal dan sumbernya tidak terverifikasi, berisiko sama seperti
+kasus "99%" di atas.
+
+**3 penguatan yang diterapkan** (di keempat file, sinkron dengan revisi sebelumnya):
+
+1. **J3/V2, slide 3** — suhu roasting ditambahkan: "...suhu akhir biji sekitar 215-225°C..." Diambil dari
+   tabel profil sangrai di PDF (medium ~205-215°C, dark 215-225°C) — konsisten dengan rentang medium-dark
+   yang sudah disebut di `riset-kopi-sumatra.md`, hanya menambah presisi angka yang memang berlaku umum
+   untuk kurva roasting (bukan spesifik-Sumatra, tapi berlaku sebagai patokan industri).
+2. **J5/V1, slide 4** — ditambahkan: "Dari kebun kecil 0,5-2 hektar, hasil panennya cuma 50-200 kg kopi
+   kering per periode." Luas kebun (0,5-2 ha) sudah cocok dengan `riset-kopi-sumatra.md`; angka hasil
+   panen (50-200 kg kering/periode) baru dari PDF, memperkuat narasi "kerja keras demi hasil sedikit".
+3. **J5/V5, slide 4** — ditambahkan: "...rata-rata petani cuma menerima sekitar 10-20% dari harga eceran
+   kopi." Angka ini adalah estimasi rantai nilai yang cukup umum dikutip di literatur kopi/Fair Trade
+   (bukan statistik tahun-spesifik), jadi risiko "kedaluwarsa"-nya rendah — tapi tetap dibingkai sebagai
+   estimasi umum ("rata-rata", bukan angka pasti riset primer).
+
+**Catatan terminologi yang perlu diperhatikan (tidak diubah di konten, tapi penting untuk editor
+selanjutnya):** PDF ini mengklasifikasikan giling basah Indonesia sebagai varian generik "Pulped
+Natural" dengan cita rasa "manis, fruity ringan" — ini **tidak sepenuhnya akurat** untuk konteks
+Sumatra. Pulped natural generik (umum di Brazil) mengupas kulit lalu menjemur biji dengan mucilage
+menempel sampai kering penuh sebelum digiling. Giling basah Sumatra berbeda: parchment justru dikupas
+saat biji **masih basah** (bukan setelah kering), yang menghasilkan karakter earthy/herbal/body tebal
+dan keasaman rendah — sesuai deskripsi di `riset-kopi-sumatra.md`, bukan profil "fruity ringan" ala
+pulped natural generik. Konten yang sudah ada TETAP memakai deskripsi khas Sumatra (bukan versi generik
+PDF), karena riset khusus Sumatra lebih otoritatif untuk topik ini dibanding buku pegangan umum.
+
 ## Catatan metodologis
 
 - Statistik/harga/data ekspor **terkini** (mis. harga kopi tahun berjalan, volume ekspor terbaru) tetap

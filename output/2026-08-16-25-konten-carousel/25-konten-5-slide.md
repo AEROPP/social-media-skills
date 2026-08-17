@@ -135,7 +135,7 @@ Format tiap slide: `Slide n — [Visual] — "[Narasi overlay]"`
 ## V2 — "3 Alasan Ilmiah Kopi Sumatra Rendah Asam" (Fakta Cepat)
 1. Kebun dataran tinggi berkabut — **"3 alasan kopi Sumatra nggak asem"**
 2. Proses giling basah — "1. Giling basah mengurangi tingkat keasaman dibanding proses washed penuh"
-3. Drum roasting dengan api — "2. Sering di-roast medium-dark, yang menurunkan keasaman lebih jauh"
+3. Drum roasting dengan api — "2. Sering di-roast medium-dark, suhu akhir biji sekitar 215-225°C, yang menurunkan keasaman lebih jauh"
 4. Ketinggian kebun berkabut — "3. Dataran tinggi memperlambat pematangan ceri, bikin rasa lebih kompleks & lembut"
 5. Cangkir kopi tersaji — "Follow buat fakta kopi cepat lainnya!"
 
@@ -234,7 +234,7 @@ Format tiap slide: `Slide n — [Visual] — "[Narasi overlay]"`
 1. Tangan memetik satu ceri merah matang — **"Kenapa petani nggak panen semua ceri kopi sekaligus aja?"**
 2. Satu dahan dengan ceri merah & hijau/kuning bercampur — "Soalnya ceri kopi matangnya **nggak bareng**"
 3. Perbandingan close-up ceri matang vs belum matang — "Kalau diborong, yang belum matang ikut kepetik & bikin rasa jadi pahit"
-4. Keranjang penuh ceri merah pilihan — "Ini disebut **petik merah** — kerja manual demi kualitas, bukan soal lambat"
+4. Keranjang penuh ceri merah pilihan — "Ini disebut **petik merah** — kerja manual demi kualitas, bukan soal lambat. Dari kebun kecil 0,5-2 hektar, hasil panennya cuma 50-200 kg kopi kering per periode"
 5. Petani memandang kebun, ekspresi tenang — "Menurutmu, capek nggak kerjaan kayak ini? Komen pendapatmu! Follow buat cerita petani lainnya"
 
 **Caption:** `Ini alasan kenapa secangkir kopimu nggak murah perjuangannya. Swipe →`
@@ -274,7 +274,7 @@ Format tiap slide: `Slide n — [Visual] — "[Narasi overlay]"`
 1. Kebun kopi dataran tinggi — **"Harga kopi dunia naik-turun terus. Siapa yang paling kena dampaknya?"**
 2. Papan harga/pasar komoditas (ilustratif, label "ilustrasi") — "Fluktuasi harga kopi dunia ditentukan pasar global, bukan petani kecil"
 3. Petani memandang hasil panen — "Petani kecil kayak ini yang paling langsung kena dampak naik-turunnya"
-4. Overlay grafis: "Harga naik ≠ selalu untung petani, tergantung rantai pasok" — "Nggak selalu kenaikan harga langsung dinikmati petani di ujung rantai"
+4. Overlay grafis: "Harga naik ≠ selalu untung petani, tergantung rantai pasok" — "Nggak selalu kenaikan harga langsung dinikmati petani — rata-rata petani cuma menerima sekitar 10-20% dari harga eceran kopi"
 5. Petani tersenyum sambil memandang kebun — "Follow biar kamu makin paham cerita di balik secangkir kopi Sumatra!"
 
 **Caption:** `Harga kopi naik, tapi siapa yang untung? Swipe buat ceritanya →`

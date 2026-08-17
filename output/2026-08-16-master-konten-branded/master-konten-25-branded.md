@@ -187,7 +187,7 @@ disusun jadi video (lihat `output/2026-08-16-panduan-video-produksi/panduan-gabu
 |---|---|---|
 | 1 | Aerial kebun dataran tinggi berkabut pagi, cahaya matahari terbit. **Watermark logo Tricarya, pojok kanan bawah** | "3 alasan kopi Sumatra nggak asem." (jeda) |
 | 2 | Proses giling basah di rumah giling, biji basah & mesin huller, cahaya alami. **Watermark logo Tricarya, pojok kanan bawah** | "1. Giling basah mengurangi tingkat keasaman dibanding proses washed penuh." (jeda) |
-| 3 | Drum roasting berputar dengan api di bawahnya, asap tipis, cahaya oranye. **Watermark logo Tricarya, pojok kanan bawah** | "2. Sering di-roasting medium sampai dark, yang menurunkan keasaman lebih jauh." (jeda) |
+| 3 | Drum roasting berputar dengan api di bawahnya, asap tipis, cahaya oranye. **Watermark logo Tricarya, pojok kanan bawah** | "2. Sering di-roasting medium sampai dark, suhu akhir biji sekitar 215-225°C, yang menurunkan keasaman lebih jauh." (jeda) |
 | 4 | Kebun dataran tinggi berkabut dengan pohon naungan, suasana sejuk pagi. **Watermark logo Tricarya, pojok kanan bawah** | "3. Dataran tinggi memperlambat pematangan ceri, bikin rasa lebih kompleks dan lembut." (jeda) |
 | 5 **(CTA/brand)** | Cangkir kopi tersaji di meja kayu dengan biji di sekitarnya, area kosong netral di bagian bawah. **Lockup logo Tricarya x AL's berdampingan di pita netral bawah** | **"Follow buat fakta kopi cepat lainnya, dipersembahkan Tricarya Coffee Roastery & AL's Coffee & Eatery!"** |
 
@@ -304,7 +304,7 @@ disusun jadi video (lihat `output/2026-08-16-panduan-video-produksi/panduan-gabu
 | 1 | Close-up tangan petani memetik satu ceri merah matang, latar kebun hijau blur, cahaya pagi. **Watermark logo Tricarya, pojok kanan bawah** | "Kenapa petani nggak panen semua ceri kopi sekaligus aja?" (jeda) |
 | 2 | Close-up satu dahan dengan ceri merah & hijau/kuning bercampur, cahaya natural terang. **Watermark logo Tricarya, pojok kanan bawah** | "Soalnya ceri kopi matangnya nggak bareng." (jeda) |
 | 3 | Perbandingan close-up ceri matang & belum matang di telapak tangan, studio netral. **Watermark logo Tricarya, pojok kanan bawah** | "Kalau diborong, yang belum matang ikut kepetik, dan bikin rasa jadi pahit." (jeda) |
-| 4 | Keranjang anyaman penuh ceri merah pilihan, tekstur segar detail, cahaya natural kebun. **Watermark logo Tricarya, pojok kanan bawah** | "Ini disebut petik merah — kerja manual demi kualitas, bukan soal lambat." (jeda) |
+| 4 | Keranjang anyaman penuh ceri merah pilihan, tekstur segar detail, cahaya natural kebun. **Watermark logo Tricarya, pojok kanan bawah** | "Ini disebut petik merah — kerja manual demi kualitas, bukan soal lambat. Dari kebun kecil 0,5-2 hektar, hasil panennya cuma 50-200 kg kopi kering per periode." (jeda) |
 | 5 **(CTA/brand)** | Petani memandang kebun ekspresi tenang (samping/belakang), golden hour, area kosong netral di bagian bawah. **Lockup logo Tricarya x AL's berdampingan di pita netral bawah** | **"Menurutmu, capek nggak kerjaan kayak ini? Komen pendapatmu! Follow buat cerita petani lainnya — hasil kerja keras ini yang dipilih Tricarya Coffee Roastery untuk AL's Coffee & Eatery"** |
 
 **Caption:** `Ini alasan kenapa secangkir kopimu nggak murah perjuangannya. Swipe →`
@@ -352,7 +352,7 @@ disusun jadi video (lihat `output/2026-08-16-panduan-video-produksi/panduan-gabu
 | 1 | Aerial kebun dataran tinggi dengan kabut pagi, suasana damai namun megah. **Watermark logo Tricarya, pojok kanan bawah** | "Harga kopi dunia naik-turun terus. Siapa yang paling kena dampaknya?" (jeda) |
 | 2 | Ilustrasi papan grafik harga komoditas (gaya layar trading), pencahayaan dramatis biru-oranye, jelas ilustratif. **Watermark logo Tricarya, pojok kanan bawah** | "Fluktuasi harga kopi dunia ditentukan pasar global, bukan petani kecil." (jeda) |
 | 3 | Petani memandang hasil panennya, ekspresi reflektif, cahaya sore. **Watermark logo Tricarya, pojok kanan bawah** | "Petani kecil kayak ini yang paling langsung kena dampaknya." (jeda) |
-| 4 | Kebun kopi dengan elemen grafis "Harga Naik ≠ Selalu Untung Petani". **Watermark logo Tricarya, pojok kanan bawah** | "Nggak selalu kenaikan harga langsung dinikmati petani di ujung rantai." (jeda) |
+| 4 | Kebun kopi dengan elemen grafis "Harga Naik ≠ Selalu Untung Petani". **Watermark logo Tricarya, pojok kanan bawah** | "Nggak selalu kenaikan harga langsung dinikmati petani — rata-rata petani cuma menerima sekitar 10-20% dari harga eceran kopi." (jeda) |
 | 5 **(CTA/brand)** | Petani tersenyum memandang kebunnya, golden hour penutup, area kosong netral di bagian bawah. **Lockup logo Tricarya x AL's berdampingan di pita netral bawah** | **"Follow biar kamu makin paham cerita di balik secangkir kopi Sumatra — kopi pilihan Tricarya Coffee Roastery, hangat di AL's Coffee & Eatery"** |
 
 **Caption:** `Harga kopi naik, tapi siapa yang untung? Swipe buat ceritanya →`
@@ -362,6 +362,11 @@ disusun jadi video (lihat `output/2026-08-16-panduan-video-produksi/panduan-gabu
 
 ## Catatan produksi & kepatuhan
 
+- **Sumber riset tambahan (16 Agustus 2026):** 3 data diperkuat memakai handbook kopi umum (proses
+  budidaya→cangkir, roasting, cupping SCA, rantai nilai) — suhu akhir roasting medium-dark (215-225°C)
+  di J3/V2, hasil panen per petani (50-200 kg kering per periode dari kebun 0,5-2 ha) di J5/V1, dan porsi
+  harga yang diterima petani (sekitar 10-20% dari harga eceran) di J5/V5. Detail sumber & metodologi
+  aplikasinya ada di `output/2026-08-16-kurasi-riset/catatan-kurasi-riset.md`.
 - **Slide 1-4 tiap variasi (100 slide):** watermark kecil logo Tricarya Coffee Roastery saja, brand
   roaster hadir konsisten sepanjang cerita edukasi tanpa mengganggu fokus visual utama.
 - **Slide 5/CTA tiap variasi (25 slide):** lockup dua logo (Tricarya Coffee Roastery + AL's Coffee &
