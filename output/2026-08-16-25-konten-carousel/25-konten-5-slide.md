@@ -17,7 +17,7 @@ Format tiap slide: `Slide n — [Visual] — "[Narasi overlay]"`
 ## V1 — Mitos vs Fakta (versi dasar)
 1. Cupping table, cangkir diaduk — **"Kopi Sumatra = Kopi Luwak? Big NO."**
 2. Rak kemasan kopi generik bertulisan "luwak" — "Banyak yang salah kaprah gara-gara nama besar 'kopi luwak' identik sama Sumatra"
-3. Mesin huller menggiling biji basah — "Faktanya: 99% kopi Sumatra diproses lewat **GILING BASAH**, bukan luwak"
+3. Mesin huller menggiling biji basah — "Faktanya: mayoritas kopi Sumatra diproses lewat **GILING BASAH**, bukan luwak"
 4. Close-up biji kebiruan + overlay "Giling Basah ≠ Luwak" — "Proses inilah yang bikin rasanya earthy & tebal — bukan karena luwak"
 5. Cangkir diangkat, roastery hangat — "Follow biar nggak salah kaprah soal kopi lagi! 🔖 Save postingan ini"
 
@@ -91,7 +91,7 @@ Format tiap slide: `Slide n — [Visual] — "[Narasi overlay]"`
 ## V3 — "Kenapa Bentuk Biji Kopi Sumatra Nggak Rata?"
 1. Biji kopi washed seragam (ilustratif, biji lain) — **"Kenapa biji kopi Sumatra bentuknya nggak serapi kopi lain?"**
 2. Biji Sumatra beragam bentuk di tangan — "Karena giling basah dilakukan manual, saat biji masih lembap dan lentur"
-3. Mesin huller kayu tradisional — "Tekanan giling manual ini yang bikin sebagian biji retak/gepeng — bukan cacat, ciri proses"
+3. Mesin huller kayu tradisional — "Tekanan giling manual ini yang bikin sebagian biji retak/gepeng — bukan tanda kualitas rendah, standar grading giling basah memang lebih longgar dari washed"
 4. Overlay grafis: "Nggak Rata ≠ Kualitas Rendah" — "Grading tetap dilakukan manual setelahnya untuk pastikan kualitas"
 5. Biji hasil grading rapi di karung — "Follow biar kamu makin paham proses di balik secangkir kopi!"
 
@@ -144,8 +144,8 @@ Format tiap slide: `Slide n — [Visual] — "[Narasi overlay]"`
 
 ## V3 — "Kopi Sumatra vs Kopi Afrika: Asam vs Earthy" (Versus)
 1. Dua cangkir kopi berdampingan (warna kontras) — **"Kopi Afrika vs Kopi Sumatra — beda banget rasanya"**
-2. Kopi Afrika dituang, warna terang — "Kopi Afrika: asam terang, cenderung fruity/floral"
-3. Kopi Sumatra dituang, tekstur kental — "Kopi Sumatra: rendah asam, earthy, body tebal"
+2. Kopi Afrika dituang, warna terang — "Kopi Afrika umumnya: asam terang, cenderung fruity/floral"
+3. Kopi Sumatra dituang, tekstur kental — "Kopi Sumatra umumnya: rendah asam, earthy, body tebal"
 4. Tabel perbandingan overlay: "Afrika: Asam Terang, Fruity" vs "Sumatra: Rendah Asam, Earthy" — "Dua-duanya enak, tinggal selera kamu yang mana"
 5. Dua cangkir berdampingan, penutup — "Komen: kamu tim yang mana? Follow buat perbandingan kopi lainnya!"
 
@@ -198,7 +198,7 @@ Format tiap slide: `Slide n — [Visual] — "[Narasi overlay]"`
 
 ## V3 — "Kenapa Kopi Tarik Harus Disaring Pakai Kain?" (Fakta Cepat)
 1. Kain saring kopi tradisional close-up — **"Kenapa kopi tarik disaring pakai kain, bukan kertas?"**
-2. Kopi dituang melalui kain — "Kain menyaring ampas lebih halus sambil tetap menjaga minyak kopi (yang bikin rasa lebih kaya)"
+2. Kopi dituang melalui kain — "Kain menahan ampas kasar tapi tetap meloloskan minyak kopi — beda dari kertas yang menyerapnya (yang bikin rasa lebih kaya)"
 3. Tekstur kopi hasil saring kain vs kertas (ilustratif) — "Kertas filter biasanya menyerap minyak kopi — kain nggak"
 4. Overlay grafis: "Kain = Rasa Lebih Kaya & Body Lebih Tebal" — "Ini salah satu rahasia body tebal kopi tarik"
 5. Cangkir kopi tarik disajikan — "Follow buat fakta kopi cepat lainnya!"

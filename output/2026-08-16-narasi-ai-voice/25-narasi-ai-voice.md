@@ -24,7 +24,7 @@ banyak tool voice AI modern (ElevenLabs, Play.ht) membaca jeda dari tanda baca o
 ```
 "Kopi Sumatra sama dengan kopi luwak? Big no." (jeda)
 "Banyak yang salah kaprah gara-gara nama besar kopi luwak identik sama Sumatra." (jeda)
-"Faktanya, sembilan puluh sembilan persen kopi Sumatra diproses lewat giling basah, bukan luwak." (jeda)
+"Faktanya, mayoritas kopi Sumatra diproses lewat giling basah, bukan luwak." (jeda)
 "Proses inilah yang bikin rasanya earthy dan body-nya tebal, bukan karena luwak." (jeda)
 "Follow biar kamu nggak salah kaprah soal kopi lagi."
 ```
@@ -91,7 +91,7 @@ banyak tool voice AI modern (ElevenLabs, Play.ht) membaca jeda dari tanda baca o
 ```
 "Kenapa biji kopi Sumatra bentuknya nggak serapi kopi lain?" (jeda)
 "Karena giling basah dilakukan manual, saat biji masih lembap dan lentur." (jeda)
-"Tekanan giling manual ini yang bikin sebagian biji retak atau gepeng — bukan cacat, ciri proses." (jeda)
+"Tekanan giling manual ini yang bikin sebagian biji retak atau gepeng — bukan tanda kualitas rendah, standar grading giling basah memang lebih longgar dari washed." (jeda)
 "Grading tetap dilakukan manual setelahnya untuk pastikan kualitas." (jeda)
 "Follow biar kamu makin paham proses di balik secangkir kopi."
 ```
@@ -139,8 +139,8 @@ banyak tool voice AI modern (ElevenLabs, Play.ht) membaca jeda dari tanda baca o
 ## V3 — Kopi Sumatra vs Kopi Afrika (Versus)
 ```
 "Kopi Afrika versus kopi Sumatra — beda banget rasanya." (jeda)
-"Kopi Afrika: asam terang, cenderung fruity dan floral." (jeda)
-"Kopi Sumatra: rendah asam, earthy, body tebal." (jeda)
+"Kopi Afrika umumnya: asam terang, cenderung fruity dan floral." (jeda)
+"Kopi Sumatra umumnya: rendah asam, earthy, body tebal." (jeda)
 "Dua-duanya enak, tinggal selera kamu yang mana." (jeda)
 "Komen: kamu tim yang mana? Follow buat perbandingan kopi lainnya."
 ```
@@ -188,7 +188,7 @@ banyak tool voice AI modern (ElevenLabs, Play.ht) membaca jeda dari tanda baca o
 ## V3 — Kenapa Kopi Tarik Harus Disaring Pakai Kain
 ```
 "Kenapa kopi tarik disaring pakai kain, bukan kertas?" (jeda)
-"Kain menyaring ampas lebih halus, sambil tetap menjaga minyak kopi." (jeda)
+"Kain menahan ampas kasar tapi tetap meloloskan minyak kopi — beda dari kertas yang menyerapnya." (jeda)
 "Kertas filter biasanya menyerap minyak kopi — kain nggak." (jeda)
 "Ini salah satu rahasia body tebal kopi tarik." (jeda)
 "Follow buat fakta kopi cepat lainnya."

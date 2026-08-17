@@ -47,7 +47,7 @@ disusun jadi video (lihat `output/2026-08-16-panduan-video-produksi/panduan-gabu
 |---|---|---|
 | 1 | Close-up meja cupping profesional di roastery, tangan mengaduk kopi di cangkir putih polos, uap tipis, cahaya jendela hangat, DOF dangkal. **Watermark kecil logo Tricarya Coffee Roastery, pojok kanan bawah** | "Kopi Sumatra sama dengan kopi luwak? Big no." (jeda) |
 | 2 | Rak display kemasan kopi generik, salah satu bertuliskan besar "Luwak Coffee", cahaya toko hangat. **Watermark kecil logo Tricarya Coffee Roastery, pojok kanan bawah** | "Banyak yang salah kaprah gara-gara nama besar kopi luwak identik sama Sumatra." (jeda) |
-| 3 | Mesin huller kayu menggiling biji basah, tangan pekerja terlihat, cahaya alami rumah giling. **Watermark kecil logo Tricarya Coffee Roastery, pojok kanan bawah** | "Faktanya, 99% kopi Sumatra diproses lewat giling basah, bukan luwak." (jeda) |
+| 3 | Mesin huller kayu menggiling biji basah, tangan pekerja terlihat, cahaya alami rumah giling. **Watermark kecil logo Tricarya Coffee Roastery, pojok kanan bawah** | "Faktanya, mayoritas kopi Sumatra diproses lewat giling basah, bukan luwak." (jeda) |
 | 4 | Close-up ekstrem biji hijau kebiruan di telapak tangan, elemen grafis kecil "Giling Basah ≠ Luwak" di pojok atas. **Watermark kecil logo Tricarya Coffee Roastery, pojok kanan bawah** | "Proses inilah yang bikin rasanya earthy dan body-nya tebal — bukan karena luwak." (jeda) |
 | 5 **(CTA/brand)** | Cangkir kopi diangkat di roastery hangat, area kosong netral di bagian bawah. **Lockup logo Tricarya Coffee Roastery x AL's Coffee & Eatery berdampingan di pita netral bawah** | **"Kopi ini di-roasting oleh Tricarya Coffee Roastery, disajikan hangat di AL's Coffee & Eatery. Follow biar nggak salah kaprah soal kopi lagi!"** |
 
@@ -135,7 +135,7 @@ disusun jadi video (lihat `output/2026-08-16-panduan-video-produksi/panduan-gabu
 |---|---|---|
 | 1 | Close-up biji washed hijau cerah bentuk seragam di telapak tangan, cahaya studio netral. **Watermark logo Tricarya, pojok kanan bawah** | "Kenapa biji kopi Sumatra bentuknya nggak serapi kopi lain?" (jeda) |
 | 2 | Close-up biji Sumatra beragam bentuk di tangan lain, cahaya natural lembut. **Watermark logo Tricarya, pojok kanan bawah** | "Karena giling basah dilakukan manual, saat biji masih lembap dan lentur." (jeda) |
-| 3 | Mesin huller kayu dioperasikan manual, detail tekstur & mekanisme, cahaya alami rumah giling. **Watermark logo Tricarya, pojok kanan bawah** | "Tekanan giling manual ini yang bikin sebagian biji retak atau gepeng — bukan cacat, ciri proses." (jeda) |
+| 3 | Mesin huller kayu dioperasikan manual, detail tekstur & mekanisme, cahaya alami rumah giling. **Watermark logo Tricarya, pojok kanan bawah** | "Tekanan giling manual ini yang bikin sebagian biji retak atau gepeng — bukan tanda kualitas rendah, standar grading giling basah memang lebih longgar dari washed." (jeda) |
 | 4 | Biji hasil giling basah di meja sortir, elemen grafis "Nggak Rata ≠ Kualitas Rendah". **Watermark logo Tricarya, pojok kanan bawah** | "Grading tetap dilakukan manual setelahnya untuk pastikan kualitas." (jeda) |
 | 5 **(CTA/brand)** | Biji hasil grading rapi dalam karung goni bertumpuk, cahaya hangat, area kosong netral di bagian bawah. **Lockup logo Tricarya x AL's berdampingan di pita netral bawah** | **"Follow biar kamu makin paham proses di balik secangkir kopi — proses yang sama dilakukan Tricarya Coffee Roastery untuk kopi di AL's Coffee & Eatery!"** |
 
@@ -198,8 +198,8 @@ disusun jadi video (lihat `output/2026-08-16-panduan-video-produksi/panduan-gabu
 | Slide | Prompt Gambar AI | Teks & Narasi (jeda) |
 |---|---|---|
 | 1 | Dua cangkir kopi berdampingan warna kontras, flat-lay dari atas, cahaya studio netral. **Watermark logo Tricarya, pojok kanan bawah** | "Kopi Afrika versus kopi Sumatra — beda banget rasanya." (jeda) |
-| 2 | Kopi Afrika dituang ke cangkir, warna terang keemasan, cahaya studio terang. **Watermark logo Tricarya, pojok kanan bawah** | "Kopi Afrika: asam terang, cenderung fruity dan floral." (jeda) |
-| 3 | Kopi Sumatra dituang ke cangkir, warna gelap pekat, tekstur kental. **Watermark logo Tricarya, pojok kanan bawah** | "Kopi Sumatra: rendah asam, earthy, body tebal." (jeda) |
+| 2 | Kopi Afrika dituang ke cangkir, warna terang keemasan, cahaya studio terang. **Watermark logo Tricarya, pojok kanan bawah** | "Kopi Afrika umumnya: asam terang, cenderung fruity dan floral." (jeda) |
+| 3 | Kopi Sumatra dituang ke cangkir, warna gelap pekat, tekstur kental. **Watermark logo Tricarya, pojok kanan bawah** | "Kopi Sumatra umumnya: rendah asam, earthy, body tebal." (jeda) |
 | 4 | Flat-lay dua cangkir dengan ruang kosong untuk tabel perbandingan overlay. **Watermark logo Tricarya, pojok kanan bawah** | "Dua-duanya enak, tinggal selera kamu yang mana." (jeda) |
 | 5 **(CTA/brand)** | Dua cangkir berdampingan di meja kafe, cahaya hangat, area kosong netral di bagian bawah. **Lockup logo Tricarya x AL's berdampingan di pita netral bawah** | **"Komen: kamu tim yang mana? Cobain dua-duanya di AL's Coffee & Eatery, roasting Tricarya Coffee Roastery. Follow buat perbandingan kopi lainnya!"** |
 
@@ -262,7 +262,7 @@ disusun jadi video (lihat `output/2026-08-16-panduan-video-produksi/panduan-gabu
 | Slide | Prompt Gambar AI | Teks & Narasi (jeda) |
 |---|---|---|
 | 1 | Close-up ekstrem kain saring kopi tradisional bertekstur katun, cahaya natural. **Watermark logo Tricarya, pojok kanan bawah** | "Kenapa kopi tarik disaring pakai kain, bukan kertas?" (jeda) |
-| 2 | Kopi dituang melalui kain saring, cairan mengalir jernih, cahaya dramatis close-up. **Watermark logo Tricarya, pojok kanan bawah** | "Kain menyaring ampas lebih halus, sambil tetap menjaga minyak kopi." (jeda) |
+| 2 | Kopi dituang melalui kain saring, cairan mengalir jernih, cahaya dramatis close-up. **Watermark logo Tricarya, pojok kanan bawah** | "Kain menahan ampas kasar tapi tetap meloloskan minyak kopi — beda dari kertas yang menyerapnya." (jeda) |
 | 3 | Perbandingan dua cangkir: hasil saring kain (mengkilap) vs kertas (matte), studio netral. **Watermark logo Tricarya, pojok kanan bawah** | "Kertas filter biasanya menyerap minyak kopi — kain nggak." (jeda) |
 | 4 | Cangkir kopi tarik dengan permukaan mengkilap berminyak, elemen grafis "Kain = Rasa Lebih Kaya". **Watermark logo Tricarya, pojok kanan bawah** | "Ini salah satu rahasia body tebal kopi tarik." (jeda) |
 | 5 **(CTA/brand)** | Cangkir kopi tarik disajikan di meja warung kopi tradisional, area kosong netral di bagian bawah. **Lockup logo Tricarya x AL's berdampingan di pita netral bawah** | **"Follow buat fakta kopi cepat lainnya dari Tricarya Coffee Roastery, disajikan di AL's Coffee & Eatery!"** |
