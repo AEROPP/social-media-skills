@@ -3,8 +3,11 @@
 Riset & prompt baru (terpisah dari campaign AL's Coffee & Eatery), dibuat khusus untuk brand
 **Bubur Ayam Pagi Sore** memakai desain booth portable yang sama (referensi: panel varian
 "Untuk Bubur Ayam Pagi Sore" di foto produk booth) — canopy scallop garis merah-marun/putih/
-hijau tua, badan booth hijau tua & aksen merah marun, papan tanda bundar merah dengan logo
-tulisan tangan putih "Bubur Ayam" dan teks oranye "Pagi Sore" di bawahnya.
+hijau tua, badan booth hijau tua & aksen merah marun, dengan **logo asli**: bulatan putih
+berisi tulisan "Bubur Ayam" gaya lettering playful bubble-cartoon warna merah-oranye gradasi,
+outline merah tua & highlight krem, dihiasi coretan dekoratif kecil (swoosh, bintang) di
+sekitar huruf, plus badge kecil merah tua bertuliskan "Pagi Sore" berikon matahari & bulan-
+bintang di pojok kanan atas logo.
 
 > **Placeholder yang perlu kamu isi:** **[kontak pemesanan WA]** dan **[harga paket]** —
 > belum ada datanya di percakapan ini, jadi saya kosongkan dulu.
@@ -43,10 +46,11 @@ tulisan tangan putih "Bubur Ayam" dan teks oranye "Pagi Sore" di bawahnya.
 
 ## 4 Slide gambar 9:16
 
-**Elemen tetap di semua slide:** papan tanda bundar merah "Bubur Ayam Pagi Sore" (logo
-tulisan tangan putih + teks oranye), warna dominan merah marun-hijau tua khas booth. **Font
-judul:** Montserrat ExtraBold (alternatif: Bebas Neue) — kontras tinggi, konsisten dengan
-riset editorial sebelumnya.
+**Elemen tetap di semua slide:** logo bulat asli "Bubur Ayam Pagi Sore" (lettering playful
+bubble-cartoon merah-oranye di atas bulatan putih, badge "Pagi Sore" merah tua dengan ikon
+matahari & bulan-bintang), terpasang di papan tanda bundar booth. Warna dominan merah
+marun-hijau tua khas booth. **Font judul:** Montserrat ExtraBold (alternatif: Bebas Neue) —
+kontras tinggi, konsisten dengan riset editorial sebelumnya.
 
 ### Slide 1 — Hook (ASMR food shot)
 
@@ -58,8 +62,10 @@ Foto sinematik editorial, rasio 9:16 vertikal, gaya food photography close-up
 realistis (bukan ilustrasi). Close-up tangan menuangkan kuah kaldu ayam hangat dari
 centong ke mangkuk bubur ayam yang sudah ditata rapi dengan topping ayam suwir, cakwe
 potong, kerupuk, seledri, bawang goreng, dan sedikit sambal — uap panas mengepul
-jelas terlihat. Latar belakang booth portable dengan papan tanda bundar merah "Bubur
-Ayam Pagi Sore" sedikit blur di belakang, pencahayaan hangat golden hour. Tambahkan
+jelas terlihat. Latar belakang booth portable dengan papan tanda bundar berlogo asli
+"Bubur Ayam Pagi Sore" (lettering bubble-cartoon merah-oranye di atas bulatan putih,
+badge "Pagi Sore" merah tua berikon matahari & bulan-bintang) sedikit blur di
+belakang, pencahayaan hangat golden hour. Tambahkan
 teks overlay: "Butuh Sarapan Hangat Buat Acara Kamu — Pagi Atau Sore?" — font
 Montserrat ExtraBold, putih dengan kontras tinggi & drop shadow tegas, posisi
 tengah-atas, ukuran besar, rata tengah. Tanpa watermark, tanpa logo asing, tanpa teks
@@ -77,8 +83,10 @@ Komposisi grid tiga panel dalam satu frame vertikal: panel atas — semangkuk bu
 ayam lengkap dengan topping tersusun cantik di atas meja booth; panel tengah —
 deretan bahan topping segar (ayam suwir, cakwe, kerupuk, bawang goreng, sambal)
 dalam wadah kecil rapi di atas booth; panel bawah — booth portable didorong dengan
-mudah lewat roda kayu trim emas, papan tanda bundar merah "Bubur Ayam Pagi Sore"
-terlihat jelas. Pencahayaan keemasan konsisten, garis pemisah tipis antar panel gaya
+mudah lewat roda kayu trim emas, papan tanda bundar berlogo asli "Bubur Ayam Pagi
+Sore" (lettering bubble-cartoon merah-oranye di atas bulatan putih, badge "Pagi
+Sore" merah tua berikon matahari & bulan-bintang) terlihat jelas. Pencahayaan
+keemasan konsisten, garis pemisah tipis antar panel gaya
 editorial. Tambahkan teks overlay: "Booth Portable • Fresh & Panas • Topping
 Lengkap" — font Montserrat ExtraBold, putih kontras tinggi & drop shadow tegas,
 posisi bagian bawah, ukuran besar, rata tengah. Tanpa watermark, tanpa logo asing,
@@ -93,7 +101,9 @@ tanpa teks acak/typo, tanpa tangan/jari cacat.
 ```
 Foto sinematik editorial, rasio 9:16 vertikal, gaya lifestyle realistis. Medium-wide
 shot: sekelompok tamu acara (ibu-ibu arisan atau rekan kantor) tersenyum menerima
-mangkuk bubur ayam hangat dari petugas di booth "Bubur Ayam Pagi Sore", suasana
+mangkuk bubur ayam hangat dari petugas di booth berlogo asli "Bubur Ayam Pagi Sore"
+(lettering bubble-cartoon merah-oranye di atas bulatan putih, badge "Pagi Sore"
+merah tua berikon matahari & bulan-bintang), suasana
 santai & hangat, cahaya pagi lembut atau golden hour sore (pilih salah satu yang
 paling natural). Ruang kosong secukupnya di bagian bawah untuk teks. Tambahkan teks
 overlay: "Cocok Buat Acara Pagi Maupun Sore" — font Montserrat ExtraBold, putih
@@ -111,7 +121,9 @@ tanpa teks acak/typo, tanpa tangan/jari cacat.
 ```
 Foto sinematik editorial, rasio 9:16 vertikal, gaya iklan produk hero shot realistis.
 Foto penuh booth bubur ayam portable (canopy scallop merah-marun/putih/hijau tua,
-papan tanda bundar merah "Bubur Ayam Pagi Sore") difoto dari depan-samping dengan
+papan tanda bundar berlogo asli "Bubur Ayam Pagi Sore" — lettering bubble-cartoon
+merah-oranye di atas bulatan putih, badge "Pagi Sore" merah tua berikon matahari &
+bulan-bintang) difoto dari depan-samping dengan
 pencahayaan hangat, latar belakang bersih (halaman/taman dengan tanaman hijau di
 sekitar). Tambahkan teks overlay: "Order Catering Sekarang" — font Montserrat
 ExtraBold, putih/oranye kontras tinggi & drop shadow tegas, posisi tengah; di
