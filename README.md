@@ -16,8 +16,10 @@ formatnya terbukti.
 ```
 social-media-skills/
 ├── skills/
-│   └── kopi-sumatra-content/     Skill utama: SKILL.md + referensi riset & sumber footage, template
-│                                  skrip/shot-list/metadata, dan generator batch harian
+│   ├── kopi-sumatra-content/     Skill utama: SKILL.md + referensi riset & sumber footage, template
+│   │                              skrip/shot-list/metadata, dan generator batch harian
+│   └── deep-research/            Skill riset mendalam otomatis (vendored "Open Deep Research")
+│                                  untuk mengisi/memperbarui file riset skill konten
 ├── output/
 │   ├── 2026-08-07-pilot-10/       Produksi harian 10 video/hari (skala aktif saat ini), skrip
 │   │                               lengkap siap produksi di produksi-10-video.md
